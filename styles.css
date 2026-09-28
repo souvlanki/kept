@@ -445,3 +445,22 @@ body.lb-open { overflow: hidden; }
   .info { transition: opacity 0.15s ease; }
   .info.swapping { transform: none; }
 }
+
+
+
+
+/* Wordmark override: keep this at the very bottom of the file */
+h1.wordmark {
+  font-family: "Anton", "Impact", "Haettenschweiler", "Arial Narrow Bold", sans-serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-size: 76px !important;
+  line-height: 0.8 !important;
+  text-transform: uppercase !important;
+  letter-spacing: -0.035em !important;
+  color: var(--paper);
+  -webkit-text-stroke: 3px var(--paper);
+  paint-order: stroke fill;
+  transform: scaleY(1.22);
+  transform-origin: bottom left;
+}
