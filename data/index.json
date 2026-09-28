@@ -1,6 +1,70 @@
 {
  "items": [
   {
+   "id": "ebay-53cbe1737d",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/175830423397",
+   "title": "Vintage Paul Stuart Women Camp Shirt Sz Medium, Peach 100% Linen, Italy",
+   "brand": "Paul Stuart",
+   "price": {
+    "amount": "235.0",
+    "currency": "USD"
+   },
+   "priceText": "US $235.00",
+   "size": "M",
+   "condition": "Pre-owned - Excellent",
+   "color": "Peach",
+   "seller": "vtg.issaack",
+   "location": "New York, New York, United States",
+   "availability": "InStock",
+   "description": "A very nice vintage camp shirt from Paul Stuart. Excellent condition, coloring is great. Beautiful bone buttons. Sz Medium: 22” armpit to armpit, 28.5” length, 33.5” sleeve.",
+   "details": {
+    "Brand": "Paul Stuart",
+    "Color": "Peach",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Thu, Oct 1 and Mon, Oct 5 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Fit": "Classic",
+    "Material": "Linen",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "Free USPS Ground Advantage®. See detailsfor shippingLocated in: New York, New York, United States",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Style": "Button-Front",
+    "Type": "Button-Up",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-53cbe1737d/1.webp",
+    "data/items/ebay-53cbe1737d/2.webp",
+    "data/items/ebay-53cbe1737d/3.webp",
+    "data/items/ebay-53cbe1737d/4.webp",
+    "data/items/ebay-53cbe1737d/5.webp",
+    "data/items/ebay-53cbe1737d/6.webp",
+    "data/items/ebay-53cbe1737d/7.webp",
+    "data/items/ebay-53cbe1737d/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/mT0AAOSwBpNku9n8/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Y8AAAOSwSaZku9n3/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/~uQAAOSwBrFku9n5/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/EfgAAOSwqOJku9oD/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Y40AAOSwpDhku9oF/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/q4sAAOSwMEFku9n-/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/DoAAAOSwcb5ku9oA/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/eREAAOSwk~1ku9oB/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:41:01.114Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:41:01.114Z"
+   }
+  },
+  {
    "id": "ebay-51ecf140d6",
    "platform": "ebay",
    "site": "eBay",
