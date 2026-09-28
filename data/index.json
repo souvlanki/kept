@@ -1,6 +1,82 @@
 {
  "items": [
   {
+   "id": "ebay-3dc159421c",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/278398588819",
+   "title": "MINT! RRL Ralph Lauren (M) Engineer Dot Stifel Indigo Twill Cotton Jacket",
+   "brand": "RRL",
+   "price": {
+    "amount": "583.0",
+    "currency": "USD"
+   },
+   "priceText": "US $583.00",
+   "size": "M",
+   "condition": "Pre-owned - ExcellentThis item has been previous",
+   "color": "Blue",
+   "seller": "Coyote Sharp",
+   "location": "New York, New York, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for MINT! RRL Ralph Lauren (M) Engineer Dot Stifel Indigo Twill Cotton Jacket at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Brand": "RRL",
+    "Color": "Blue",
+    "Condition": "Pre-owned - ExcellentThis item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsop",
+    "Country of Origin": "India",
+    "Delivery": "Estimated between Thu, Oct 1 and Wed, Oct 7 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Fabric Type": "Twill",
+    "Material": "Cotton",
+    "Outer Shell Material": "Cotton",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Seller Notes": "“In pristine condition. Please see description for details.”",
+    "Shipping": "US $8.00 USPS Ground Advantage®. See detailsfor shippingLocated in: New York, New York, United States",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "Engineer",
+    "Type": "Jacket"
+   },
+   "images": [
+    "data/items/ebay-3dc159421c/1.webp",
+    "data/items/ebay-3dc159421c/2.webp",
+    "data/items/ebay-3dc159421c/3.webp",
+    "data/items/ebay-3dc159421c/4.webp",
+    "data/items/ebay-3dc159421c/5.webp",
+    "data/items/ebay-3dc159421c/6.webp",
+    "data/items/ebay-3dc159421c/7.webp",
+    "data/items/ebay-3dc159421c/8.webp",
+    "data/items/ebay-3dc159421c/9.webp",
+    "data/items/ebay-3dc159421c/10.webp",
+    "data/items/ebay-3dc159421c/11.webp",
+    "data/items/ebay-3dc159421c/12.webp",
+    "data/items/ebay-3dc159421c/13.webp",
+    "data/items/ebay-3dc159421c/14.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/MiYAAeSwyAFqsnTT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Vl4AAeSwLmRqsnTV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/JK8AAeSwYUVqsnTU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/VmAAAeSwqqxqsnTU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/XZQAAeSwfMJqsnTU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/xhYAAeSwAapqsnTV/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/1xgAAeSw9GFqsnTV/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/XmgAAeSwfsNqsnTU/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/xCgAAeSwbw5qsnTW/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/tjcAAeSwTH9qsnTW/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/wFEAAeSwPhtqsnTU/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/gPkAAeSwMpBqsnTU/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/2bwAAeSw0cFqsnTU/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/27gAAeSw2rtqsnTU/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:24:36.137Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:24:36.137Z"
+   }
+  },
+  {
    "id": "ebay-ad6ef366d7",
    "platform": "ebay",
    "site": "eBay",
