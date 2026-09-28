@@ -1,6 +1,74 @@
 {
  "items": [
   {
+   "id": "ebay-0b832cc2ac",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/307199259487",
+   "title": "Paul Stuart Button Down Shirt Mens M Red Yellow Plaid Lanella Wool Blend Swiss",
+   "brand": "Paul Stuart",
+   "price": {
+    "amount": "59.0",
+    "currency": "USD"
+   },
+   "priceText": "US $59.00",
+   "size": "M",
+   "condition": "Pre-owned - ExcellentThis item has been previous",
+   "color": "Multicolor",
+   "seller": "Vault31",
+   "location": "Palm Beach Gardens, Florida, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Paul Stuart Button Down Shirt Mens M Red Yellow Plaid Lanella Wool Blend Swiss at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Button",
+    "Brand": "Paul Stuart",
+    "Closure": "Button",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - ExcellentThis item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsop",
+    "Delivery": "Estimated between Thu, Oct 1 and Mon, Oct 5 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Fabric Type": "Flannel",
+    "Features": "All Seasons, Breathable",
+    "Fit": "Classic",
+    "Garment Care": "Dry Clean Only",
+    "Material": "Cotton Blend, Wool",
+    "Neckline": "Collared",
+    "Occasion": "Casual, Business, Travel",
+    "Pattern": "Plaid",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“Excellent pre-owned condition with no visible flaws.”",
+    "Shipping": "US $8.95 USPS Ground Advantage®. See detailsfor shippingLocated in: Palm Beach Gardens, Florida, United States",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Theme": "Preppy",
+    "Vintage": "No"
+   },
+   "images": [
+    "data/items/ebay-0b832cc2ac/1.webp",
+    "data/items/ebay-0b832cc2ac/2.webp",
+    "data/items/ebay-0b832cc2ac/3.webp",
+    "data/items/ebay-0b832cc2ac/4.webp",
+    "data/items/ebay-0b832cc2ac/5.webp",
+    "data/items/ebay-0b832cc2ac/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/BRcAAeSwywJqttaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/qckAAeSwundqttaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/qS8AAeSwC7lqttaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mVkAAeSw7rVqttaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/A1wAAeSwruJqttaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mqQAAeSwzFpqttaM/s-l1600.webp"
+   ],
+   "screenshot": "data/items/ebay-0b832cc2ac/page.webp",
+   "likedAt": "2026-09-28T13:04:18.898Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T13:04:18.898Z"
+   }
+  },
+  {
    "id": "ebay-75c4d2b14e",
    "platform": "ebay",
    "site": "eBay",
