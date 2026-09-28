@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-08c2a716ec",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/396957452952",
+   "title": "Individual Sentiments SS11 Lace Up Sheer Metal Effect Textured Jacket Blazer",
+   "brand": "Individual Sentiments",
+   "price": {
+    "amount": "320.0",
+    "currency": "USD"
+   },
+   "priceText": "US $320.00",
+   "size": "M",
+   "condition": "Pre-owned - Excellent",
+   "color": "Black",
+   "seller": "DnlDbrvn",
+   "location": "Kharkiv, Ukraine",
+   "availability": "InStock",
+   "description": "Need it faster?.",
+   "details": {
+    "Brand": "Individual Sentiments",
+    "Closure": "Lace Up",
+    "Color": "Black",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "China",
+    "Delivery": "Estimated between Mon, Oct 26 and Thu, Nov 12 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Department": "Men",
+    "Features": "Sheer",
+    "Import fees": "Import fees due prior to delivery.",
+    "Outer Shell Material": "Linen",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $20.00 Economy Shipping from outside US. See detailsfor shippingLocated in: Kharkiv, Ukraine",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "Jacket",
+    "Theme": "Metal",
+    "Type": "Blazer"
+   },
+   "images": [
+    "data/items/ebay-08c2a716ec/1.webp",
+    "data/items/ebay-08c2a716ec/2.webp",
+    "data/items/ebay-08c2a716ec/3.webp",
+    "data/items/ebay-08c2a716ec/4.webp",
+    "data/items/ebay-08c2a716ec/5.webp",
+    "data/items/ebay-08c2a716ec/6.webp",
+    "data/items/ebay-08c2a716ec/7.webp",
+    "data/items/ebay-08c2a716ec/8.webp",
+    "data/items/ebay-08c2a716ec/9.webp",
+    "data/items/ebay-08c2a716ec/10.webp",
+    "data/items/ebay-08c2a716ec/11.webp",
+    "data/items/ebay-08c2a716ec/12.webp",
+    "data/items/ebay-08c2a716ec/13.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/IQMAAeSwGPtonH37/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/DCsAAeSw9yRonH34/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/CRQAAeSwRKJonH37/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1igAAeSw8rxonH37/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/bqsAAeSwneFonH39/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ILQAAeSwvU5onH3-/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/accAAeSwbJBonH4A/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/5kMAAeSwNWRonH4B/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/AdIAAeSwygJonH4C/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/FhUAAeSwWrlonH4E/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Hg0AAeSwzw1onH4F/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/5TMAAeSwZYRonH4G/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/6voAAeSwvqdonH4H/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T17:11:54.723Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T17:11:54.723Z"
+   }
+  },
+  {
    "id": "ebay-ad8b97b8da",
    "platform": "ebay",
    "site": "eBay",
