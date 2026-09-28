@@ -1,6 +1,65 @@
 {
  "items": [
   {
+   "id": "ebay-39c07d0112",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/327314425505",
+   "title": "Victorian Solid Silver Cigarette Case 1897 Sunbrust Gadrooned Deakin & Francis",
+   "brand": "Deakin & Francis",
+   "price": {
+    "amount": "377.53",
+    "currency": "USD"
+   },
+   "priceText": "GBP 284.99",
+   "size": "",
+   "condition": "--not specified",
+   "color": "",
+   "seller": "BlackBear-Antiques",
+   "location": "Wolverhampton, United Kingdom",
+   "availability": "InStock",
+   "description": "A superb Victorian sterling silver cigarette case, with repousse gadrooned sunburst pattern radiating from a vacant corner reserve. With push button opening revealing a gilded interior. Hallmarked Birmingham, 1897 by maker Deakin & Francis.",
+   "details": {
+    "Age": "1850-1899",
+    "Antique": "Yes",
+    "Brand": "Deakin & Francis",
+    "Composition": "Solid Silver",
+    "Country of Origin": "United Kingdom",
+    "Delivery": "Estimated between Wed, Oct 14 and Fri, Oct 16 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Import fees": "Est. US $0.76 Final at checkoutImport feeseBay is charging this fee to facilitate the import of your item and ensure your item arrives without any additional fees due to customs, taxes, or third party",
+    "Material": "Solid Silver",
+    "Pattern": "English Gadroon",
+    "Payments": "Diners Club",
+    "Product": "Card Cases",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "GBP 29.28 (approx US $38.79) eBay International Shipping. See detailsfor shippingLocated in: Wolverhampton, United Kingdom",
+    "Style": "Victorian"
+   },
+   "images": [
+    "data/items/ebay-39c07d0112/1.webp",
+    "data/items/ebay-39c07d0112/2.webp",
+    "data/items/ebay-39c07d0112/3.webp",
+    "data/items/ebay-39c07d0112/4.webp",
+    "data/items/ebay-39c07d0112/5.webp",
+    "data/items/ebay-39c07d0112/6.webp",
+    "data/items/ebay-39c07d0112/7.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/BAEAAeSwDMBpkkT-/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/kxQAAeSwizNpkkT-/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/iO8AAeSwQUNpkkT-/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/j1AAAeSwCDtpkkT-/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QtgAAeSwvQxpkkT-/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ikMAAeSwhA5pkkT-/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/kjAAAeSwat9pkkT9/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:47:47.899Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:47:47.899Z"
+   }
+  },
+  {
    "id": "ebay-f6fa43bc09",
    "platform": "ebay",
    "site": "eBay",
