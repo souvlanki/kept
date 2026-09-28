@@ -33,10 +33,7 @@ body {
   font-family: var(--ui);
   font-size: 16px;
   line-height: 1.5;
-  background:
-    radial-gradient(90% 55% at 50% 34%, color-mix(in oklab, var(--amb) 70%, black) 0%, transparent 70%),
-    var(--black);
-  background-attachment: fixed;
+    background: var(--black);
   padding-bottom: env(safe-area-inset-bottom, 0px);
   -webkit-font-smoothing: antialiased;
 }
