@@ -85,6 +85,7 @@
       S.demo = true;
       $('#demo-note').hidden = false;
     }
+       items.forEach((it) => { delete it.screenshot; });
     items.sort((a, b) => String(b.likedAt || '').localeCompare(String(a.likedAt || '')));
     S.all = items;
   }
