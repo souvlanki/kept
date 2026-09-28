@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "id": "ebay-51ecf140d6",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/125213558658",
+   "title": "Paul Stuart Sweater Medium - Vintage Made in Italy 100% Pure New Wool",
+   "brand": "Paul Stuart",
+   "price": {
+    "amount": "115.0",
+    "currency": "USD"
+   },
+   "priceText": "US $115.00",
+   "size": "M",
+   "condition": "Pre-owned - Good",
+   "color": "Multicolor",
+   "seller": "shir-13",
+   "location": "Bronx, New York, United States",
+   "availability": "InStock",
+   "description": "Paul Stuart Sweater - Vintage Italian 100% Pure New Wool. Light wear. A couple of small, barely noticeable imperfections in the knitting. Just dry cleaned. Marked size 44, roughly a US Men's M. US shipping only.",
+   "details": {
+    "Brand": "Paul Stuart",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Estimated between Thu, Oct 1 and Tue, Oct 6 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Material": "Wool",
+    "Neckline": "V-Neck",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $20.00 USPS Priority Mail®. See detailsfor shippingLocated in: Bronx, New York, United States",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "Pullover",
+    "Type": "Sweater"
+   },
+   "images": [
+    "data/items/ebay-51ecf140d6/1.webp",
+    "data/items/ebay-51ecf140d6/2.webp",
+    "data/items/ebay-51ecf140d6/3.webp",
+    "data/items/ebay-51ecf140d6/4.webp",
+    "data/items/ebay-51ecf140d6/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/Sd8AAOSwlb5iN5Ih/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/5kIAAOSwHc1iN5SD/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/NqEAAOSwexNiN5SH/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/7DkAAOSwcRRiN5Sz/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/gIAAAOSwIFxiN5S2/s-l1600.jpg"
+   ],
+   "likedAt": "2026-09-28T16:40:17.016Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:40:17.016Z"
+   }
+  },
+  {
    "id": "ebay-132f5057ad",
    "platform": "ebay",
    "site": "eBay",
