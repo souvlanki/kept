@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "id": "ebay-776bfb0ec0",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/236988020728",
+   "title": "Giorgio Armani Camel Hair Classic Double Breasted Coat 1990s",
+   "brand": "Camel",
+   "price": {
+    "amount": "989.0",
+    "currency": "USD"
+   },
+   "priceText": "US $989.00",
+   "size": "",
+   "condition": "Pre-owned - Excellent",
+   "color": "",
+   "seller": "The Furnished Canvas",
+   "location": "Omaha, Nebraska, United States",
+   "availability": "OutOfStock",
+   "description": "The Giorgio Armani Camel Hair Classic Double Breasted Coat from the 1990s is a stylish and timeless piece of outerwear for men. Made with high-quality camel hair, this coat exudes luxury and sophistication. The double-breasted design adds a classic touch to the coat, making it a versatile wardrobe staple that can be dressed up or down for various occasions. The iconic brand name of Giorgio Armani ensures that this coat is a top-quality and fashionable addition to any vintage clothing collection.",
+   "details": {
+    "Brand": "Camel",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Decade": "1990s",
+    "Delivery": "Estimated between Thu, Oct 1 and Tue, Oct 6 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Material": "baby camel hair",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "US $14.99 USPS Ground Advantage®. See detailsfor shippingLocated in: Omaha, Nebraska, United States"
+   },
+   "images": [
+    "data/items/ebay-776bfb0ec0/1.webp",
+    "data/items/ebay-776bfb0ec0/2.webp",
+    "data/items/ebay-776bfb0ec0/3.webp",
+    "data/items/ebay-776bfb0ec0/4.webp",
+    "data/items/ebay-776bfb0ec0/5.webp",
+    "data/items/ebay-776bfb0ec0/6.webp",
+    "data/items/ebay-776bfb0ec0/7.webp",
+    "data/items/ebay-776bfb0ec0/8.webp",
+    "data/items/ebay-776bfb0ec0/9.webp",
+    "data/items/ebay-776bfb0ec0/10.webp",
+    "data/items/ebay-776bfb0ec0/11.webp",
+    "data/items/ebay-776bfb0ec0/12.webp",
+    "data/items/ebay-776bfb0ec0/13.webp",
+    "data/items/ebay-776bfb0ec0/14.webp",
+    "data/items/ebay-776bfb0ec0/15.webp",
+    "data/items/ebay-776bfb0ec0/16.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/psQAAeSweXxqc9TQ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/SCoAAeSwxMpqc9TP/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/LjwAAeSwjYdqc9TQ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/8VoAAeSw8OVqc9TQ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/KNwAAeSwtWFqc9TQ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/kdYAAeSwGs1qc9TR/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/MbAAAeSwh~xqc9TR/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/XPIAAeSw~Lpqc9TR/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/XewAAeSwms5qc9TS/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/j3AAAeSwIX5qc9TS/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/tYkAAeSwAQ9qc9TS/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/4cgAAeSw24Rqc9TS/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/kiQAAeSwtD9qc9TT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/S74AAeSwYaxqc9TT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/doIAAeSwEMdqc9TT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/i~4AAeSw8KJqc9TT/s-l1600.webp"
+   ],
+   "screenshot": "data/items/ebay-776bfb0ec0/page.webp",
+   "likedAt": "2026-09-28T16:03:13.421Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:03:13.421Z"
+   }
+  },
+  {
    "id": "ebay-73911e83ba",
    "platform": "ebay",
    "site": "eBay",
