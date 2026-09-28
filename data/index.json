@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "ebay-132f5057ad",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/275821410423",
+   "title": "Mister Freedom Sugar Cane Made in Japan Le Valseur Linen Cotton Indigo Pants 32",
+   "brand": "Mister Freedom",
+   "price": {
+    "amount": "429.99",
+    "currency": "USD"
+   },
+   "priceText": "US $429.99",
+   "size": "32",
+   "condition": "New with tags",
+   "color": "Blue",
+   "seller": "ONE_RL_STORE",
+   "location": "Philadelphia, Pennsylvania, United States",
+   "availability": "InStock",
+   "description": "Mister Freedom x Sugar Cane. Cotton and linen blend. Made in Japan.",
+   "details": {
+    "Brand": "Mister Freedom",
+    "Color": "Blue",
+    "Condition": "New with tags: This item is brand new and has never been worn. It still has the original tags and/or ... Read moreabout the conditionNew with tags: This item is brand new and has never been worn. It s",
+    "Country of Origin": "Japan",
+    "Department": "Men",
+    "Inseam": "34",
+    "Material": "Cotton Blend",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "Free 2-4 day deliveryGet it between Wed, Sep 30 and Fri, Oct 2 to 97251. See detailsfor shippingLocated in: Philadelphia, Pennsylvania, United States",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Style": "Casual Pants",
+    "Type": "Pants",
+    "UPC": "885410754466"
+   },
+   "images": [
+    "data/items/ebay-132f5057ad/1.webp",
+    "data/items/ebay-132f5057ad/2.webp",
+    "data/items/ebay-132f5057ad/3.webp",
+    "data/items/ebay-132f5057ad/4.webp",
+    "data/items/ebay-132f5057ad/5.webp",
+    "data/items/ebay-132f5057ad/6.webp",
+    "data/items/ebay-132f5057ad/7.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/2IwAAOSw2dJkTm0E/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/wkwAAOSwwz1kTm0F/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/MF0AAOSwcEBkTm0F/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/G6MAAOSwDL1kTm0G/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/SXUAAOSw31pkTm0I/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1vQAAOSwwMBkTm0J/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/hREAAOSwy0tkTm0K/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:38:01.979Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:38:01.979Z"
+   }
+  },
+  {
    "id": "ebay-0cb3f2548e",
    "platform": "ebay",
    "site": "eBay",
