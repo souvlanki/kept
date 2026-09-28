@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "ebay-dc8aa44cd0",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/235950800487",
+   "title": "Henri-Luc Chapuis Jacket Mens Medium Vintage Corduroy Lined Coat Western Cowboy",
+   "brand": "Henri-Luc Chapuis",
+   "price": {
+    "amount": "14.0",
+    "currency": "USD"
+   },
+   "priceText": "US $14.00",
+   "size": "M",
+   "condition": "Pre-owned - Good",
+   "color": "Brown",
+   "seller": "Dusk LLC",
+   "location": "Duluth, Minnesota, United States",
+   "availability": "InStock",
+   "description": "This is missing the snap for one of the buttons plus one of the pockets is separating from the jacket on one side. See pictures for details and measurements.",
+   "details": {
+    "Brand": "Henri-Luc Chapuis",
+    "Closure": "Snap",
+    "Color": "Brown",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country of Origin": "Hong Kong",
+    "Delivery": "Estimated between Thu, Oct 1 and Mon, Oct 5 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Estimated total": "US $24.00*",
+    "Fabric Type": "Corduroy",
+    "Item price": "US $14.00",
+    "Lining Material": "Cotton",
+    "Occasion": "Casual, Party/Cocktail, Travel",
+    "Outer Shell Material": "Cotton",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "US $10.00",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "Overcoat",
+    "Type": "Jacket",
+    "Vintage": "Yes",
+    "Warmth": "Lightweight",
+    "Was": "US $69.99"
+   },
+   "images": [
+    "data/items/ebay-dc8aa44cd0/1.webp",
+    "data/items/ebay-dc8aa44cd0/2.webp",
+    "data/items/ebay-dc8aa44cd0/3.webp",
+    "data/items/ebay-dc8aa44cd0/4.webp",
+    "data/items/ebay-dc8aa44cd0/5.webp",
+    "data/items/ebay-dc8aa44cd0/6.webp",
+    "data/items/ebay-dc8aa44cd0/7.webp",
+    "data/items/ebay-dc8aa44cd0/8.webp",
+    "data/items/ebay-dc8aa44cd0/9.webp",
+    "data/items/ebay-dc8aa44cd0/10.webp",
+    "data/items/ebay-dc8aa44cd0/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/nR0AAOSwIStnmpGT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/WbkAAOSwrl9nmpGS/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Y4gAAOSwjVdnmpGU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/y4cAAOSwszVnmpGV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/x-wAAOSwoCFnmpGW/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/gvAAAOSwKb5nmpGX/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/G5cAAOSwz-xnmpGh/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/NpYAAOSwkWpnmpGZ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Q9gAAOSwAmZnmpGZ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/feYAAOSwh9JnmpGc/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/DJkAAOSwQZZnmpGc/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:42:10.653Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:42:10.653Z"
+   }
+  },
+  {
    "id": "ebay-53cbe1737d",
    "platform": "ebay",
    "site": "eBay",
