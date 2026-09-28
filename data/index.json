@@ -1,6 +1,72 @@
 {
  "items": [
   {
+   "id": "ebay-1d79b8c15e",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/186744807439",
+   "title": "Vintage Giorgio Armani Men’s Two Layer Pants, Sz 33 80’s",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "315.0",
+    "currency": "USD"
+   },
+   "priceText": "US $315.00",
+   "size": "33",
+   "condition": "Pre-owned - Excellent",
+   "color": "Black",
+   "seller": "issaack",
+   "location": "New York, New York, United States",
+   "availability": "OutOfStock",
+   "description": "Find many great new & used options and get the best deals for Vintage Giorgio Armani Men’s Two Layer Pants, Sz 33 80’s at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "Black",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Hong Kong",
+    "Delivery": "Estimated between Thu, Oct 1 and Wed, Oct 7 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Inseam": "31 in",
+    "Leg Style": "Wide-Leg",
+    "Material": "Cotton",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "Free USPS Ground Advantage®. See detailsfor shippingLocated in: New York, New York, United States",
+    "Size": "33",
+    "Size Type": "Regular",
+    "Style": "Casual Pants",
+    "Theme": "80s",
+    "Type": "Pants"
+   },
+   "images": [
+    "data/items/ebay-1d79b8c15e/1.webp",
+    "data/items/ebay-1d79b8c15e/2.webp",
+    "data/items/ebay-1d79b8c15e/3.webp",
+    "data/items/ebay-1d79b8c15e/4.webp",
+    "data/items/ebay-1d79b8c15e/5.webp",
+    "data/items/ebay-1d79b8c15e/6.webp",
+    "data/items/ebay-1d79b8c15e/7.webp",
+    "data/items/ebay-1d79b8c15e/8.webp",
+    "data/items/ebay-1d79b8c15e/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/c9MAAOSwzNpgchiT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/kWYAAOSw05BgchiY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/r70AAOSwkTFgchiW/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/fx4AAOSwzWxgchib/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/V~4AAOSwz41gchif/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/y08AAOSwGPlgchid/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/e44AAOSwbfhgchmM/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Yl0AAOSw~kVgchmP/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/w9sAAOSwsrVgchmS/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T17:18:12.173Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T17:18:12.173Z"
+   }
+  },
+  {
    "id": "ebay-08c2a716ec",
    "platform": "ebay",
    "site": "eBay",
