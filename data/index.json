@@ -1,6 +1,78 @@
 {
  "items": [
   {
+   "id": "ebay-b23a37cd89",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/327373280527",
+   "title": "Paul Stuart Plaid Long Sleeve India Madras Shirt XL USA Vintage Medium M",
+   "brand": "Paul Stuart",
+   "price": {
+    "amount": "59.99",
+    "currency": "USD"
+   },
+   "priceText": "US $59.99",
+   "size": "M",
+   "condition": "Pre-owned - Good",
+   "color": "Multicolor",
+   "seller": "Atlanta Resellers",
+   "location": "Atlanta, Georgia, United States",
+   "availability": "InStock",
+   "description": "Paul Stuart Plaid Long Sleeve India Madras Shirt XL USA Vintage Medium M The shirt is in good condition. Please see the photos for measurements and details. I am happy to answer questions. GOOD LUCK!",
+   "details": {
+    "Accents": "Button",
+    "Brand": "Paul Stuart",
+    "Character": "Atom",
+    "Closure": "Button",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country of Origin": "United States",
+    "Delivery": "Estimated between Wed, Sep 30 and Sat, Oct 3 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fabric Type": "Knit",
+    "Features": "All Seasons",
+    "Fit": "Regular",
+    "Material": "Cotton",
+    "Neckline": "Collared",
+    "Pattern": "Plaid",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $5.99 USPS Ground Advantage®. See detailsfor shippingLocated in: Atlanta, Georgia, United States",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Sleeve Length": "Short Sleeve",
+    "Theme": "USA",
+    "Type": "Button-Up",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-b23a37cd89/1.webp",
+    "data/items/ebay-b23a37cd89/2.webp",
+    "data/items/ebay-b23a37cd89/3.webp",
+    "data/items/ebay-b23a37cd89/4.webp",
+    "data/items/ebay-b23a37cd89/5.webp",
+    "data/items/ebay-b23a37cd89/6.webp",
+    "data/items/ebay-b23a37cd89/7.webp",
+    "data/items/ebay-b23a37cd89/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/R2oAAeSwkedqtch8/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QVsAAeSwTD9qtciT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/T8UAAeSw3cFqtci6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QToAAeSwsEpqtcjh/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/58AAAeSwcS9qtchh/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/VBQAAeSwuyVqtchh/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/0gYAAeSwaahqtckG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/VnsAAeSwVUdqtcoW/s-l1600.webp"
+   ],
+   "screenshot": "data/items/ebay-b23a37cd89/page.webp",
+   "likedAt": "2026-09-28T13:10:01.139Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T13:10:01.139Z"
+   }
+  },
+  {
    "id": "ebay-7d78d28242",
    "platform": "ebay",
    "site": "eBay",
