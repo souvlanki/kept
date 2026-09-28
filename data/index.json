@@ -1,6 +1,74 @@
 {
  "items": [
   {
+   "id": "ebay-72f7a2ffe7",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/389947087985",
+   "title": "Cigarette Case Kazakovskaya Filigree Vintage Smoking Box Kazakov Scan Rare USSR",
+   "brand": "",
+   "price": {
+    "amount": "250.0",
+    "currency": "USD"
+   },
+   "priceText": "US $250.00",
+   "size": "",
+   "condition": "UsedAn item that has been used previously",
+   "color": "",
+   "seller": "Rocket Vintage Store",
+   "location": "Kharkiv, Ukraine",
+   "availability": "InStock",
+   "description": "A Soviet-era item (1930s-1940s), made using Kazakov filigree. An antique cigarette case crafted using the filigree technique (also known as filigree). - A fine, openwork pattern made of thin wire, typical of the traditional filigree jewelry technique.",
+   "details": {
+    "Condition": "UsedAn item that has been used previously. See the seller’s listing for full details and description of any imperfections. See all condition definitionsopens in a new window or tab",
+    "Country of Origin": "USSR",
+    "Coupons": "-US $12.50FIVEOFF",
+    "Delivery": "Estimated between Wed, Oct 21 and Fri, Nov 6 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptanc",
+    "Estimated total": "US $237.50*",
+    "Import fees": "Import fees due prior to delivery.",
+    "Item price": "US $250.00",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“Vintage condition. See photo please.”",
+    "Shipping": "FREE"
+   },
+   "images": [
+    "data/items/ebay-72f7a2ffe7/1.webp",
+    "data/items/ebay-72f7a2ffe7/2.webp",
+    "data/items/ebay-72f7a2ffe7/3.webp",
+    "data/items/ebay-72f7a2ffe7/4.webp",
+    "data/items/ebay-72f7a2ffe7/5.webp",
+    "data/items/ebay-72f7a2ffe7/6.webp",
+    "data/items/ebay-72f7a2ffe7/7.webp",
+    "data/items/ebay-72f7a2ffe7/8.webp",
+    "data/items/ebay-72f7a2ffe7/9.webp",
+    "data/items/ebay-72f7a2ffe7/10.webp",
+    "data/items/ebay-72f7a2ffe7/11.webp",
+    "data/items/ebay-72f7a2ffe7/12.webp",
+    "data/items/ebay-72f7a2ffe7/13.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/mJoAAeSwN-lp8FcT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/d44AAeSwN8dp8Gcd/s-l1600.png",
+    "https://i.ebayimg.com/images/g/2j0AAeSwYbhp8FcT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6c4AAeSwS-xp8FcT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/2tkAAeSwDgxp8FcT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/upMAAeSwvSpp8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/sHYAAeSwgE5p8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/qJ4AAeSwLQ1p8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/sLAAAeSw93Np8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/4nMAAeSw-8pp8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/s-IAAeSwUg1p8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/vsoAAeSwuYNp8FcT/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/zGEAAeSwr9dp8FcT/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:54:36.805Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:54:36.805Z"
+   }
+  },
+  {
    "id": "ebay-6d9913d145",
    "platform": "ebay",
    "site": "eBay",
