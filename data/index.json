@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-f73ef0dd7a",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/126948200027",
+   "title": "ISAMU KATAYAMA BACKLASH Vest – Wool, Leather & Shearling – Japan Made – L",
+   "brand": "ISAMU KATAYAMA BACKLASH",
+   "price": {
+    "amount": "295.0",
+    "currency": "USD"
+   },
+   "priceText": "US $295.00",
+   "size": "L",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Brown",
+   "seller": "supad3",
+   "location": "Saint Paul, Minnesota, United States",
+   "availability": "InStock",
+   "description": "Rare Japanese designer vest by Isamu Katayama. Brown textured wool-style fabric with black leather accents and shearling collar. Looks great layered over a leather jacket or hoodie. Pre-owned with light signs of wear.",
+   "details": {
+    "Accents": "Leather, Shearling",
+    "Brand": "ISAMU KATAYAMA BACKLASH",
+    "Closure": "Button",
+    "Color": "Brown",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Country of Origin": "Japan",
+    "Delivery": "Estimated between Thu, Oct 1 and Wed, Oct 7 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Fabric Type": "Wool Blend",
+    "Fit": "Regular",
+    "Lining Material": "Polyester",
+    "Model": "1228 01",
+    "Occasion": "Casual",
+    "Outer Shell Material": "Wool Blend, Leather",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“Light wear, soft leather, no major flaws. See photos.”",
+    "Shipping": "US $12.17 UPS Ground. See detailsfor shippingLocated in: Saint Paul, Minnesota, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "Motorcycle, Heritage, Japanese Streetwear",
+    "Type": "Vest",
+    "Vintage": "No"
+   },
+   "images": [
+    "data/items/ebay-f73ef0dd7a/1.webp",
+    "data/items/ebay-f73ef0dd7a/2.webp",
+    "data/items/ebay-f73ef0dd7a/3.webp",
+    "data/items/ebay-f73ef0dd7a/4.webp",
+    "data/items/ebay-f73ef0dd7a/5.webp",
+    "data/items/ebay-f73ef0dd7a/6.webp",
+    "data/items/ebay-f73ef0dd7a/7.webp",
+    "data/items/ebay-f73ef0dd7a/8.webp",
+    "data/items/ebay-f73ef0dd7a/9.webp",
+    "data/items/ebay-f73ef0dd7a/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/ESUAAeSwYO1ntEOg/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pE0AAeSwn5ZntEOf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/GMUAAeSwvGdntEOg/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/HzMAAeSwqq1ntEOi/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/FTwAAeSwuSNntEO5/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/-SQAAeSw3cNntEOu/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/26wAAeSw0~dntEO4/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/A3cAAeSw8~NntEO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/N7IAAeSwBmxntEO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/oegAAeSw5AZntEQ1/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:44:21.692Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:44:21.692Z"
+   }
+  },
+  {
    "id": "ebay-dc8aa44cd0",
    "platform": "ebay",
    "site": "eBay",
