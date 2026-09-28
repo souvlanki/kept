@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-66ab020fed",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/286763669417",
+   "title": "Y's for men Yohji Yamamoto Balloon Pants Made in Japan",
+   "brand": "Yohji Yamamoto",
+   "price": {
+    "amount": "135.0",
+    "currency": "USD"
+   },
+   "priceText": "US $135.00",
+   "size": "M",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Black",
+   "seller": "Ebisu36",
+   "location": "Bangkok, Thailand",
+   "availability": "OutOfStock",
+   "description": "Total Length 45. Used and in good condition.",
+   "details": {
+    "Accents": "Button",
+    "Brand": "Yohji Yamamoto",
+    "Closure": "Button",
+    "Color": "Black",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Country of Origin": "Japan",
+    "Delivery": "Estimated between Mon, Oct 5 and Mon, Oct 19 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fit": "Regular",
+    "Inseam": "32 in",
+    "Leg Style": "Regular",
+    "Material": "Cotton, Linen, Wool",
+    "Occasion": "Business, Casual, Formal",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“Used and in good condition”",
+    "Shipping": "US $20.00 Economy Shipping from outside US. See detailsfor shipping",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "Chino",
+    "Theme": "90s",
+    "Type": "Pants",
+    "Vintage": "Yes",
+    "Waist Size": "32 in"
+   },
+   "images": [
+    "data/items/ebay-66ab020fed/1.webp",
+    "data/items/ebay-66ab020fed/2.webp",
+    "data/items/ebay-66ab020fed/3.webp",
+    "data/items/ebay-66ab020fed/4.webp",
+    "data/items/ebay-66ab020fed/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/BUUAAeSwHS1omyMj/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/8gUAAeSweNNomyMj/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/UHsAAeSwPA5omyMi/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/c3AAAeSwYMxomyMj/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/g08AAeSwYWRomyMj/s-l1600.jpg"
+   ],
+   "likedAt": "2026-09-28T17:01:14.271Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T17:01:14.271Z"
+   }
+  },
+  {
    "id": "ebay-72f7a2ffe7",
    "platform": "ebay",
    "site": "eBay",
