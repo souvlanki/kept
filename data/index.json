@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "id": "ebay-f6fa43bc09",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/334629204669",
+   "title": "Soviet Union Old cigarette case, Filigree 999.9 silver plated Brass. RARE!",
+   "brand": "",
+   "price": {
+    "amount": "125.0",
+    "currency": "USD"
+   },
+   "priceText": "US $125.00",
+   "size": "",
+   "condition": "UsedAn item that has been used previously",
+   "color": "",
+   "seller": "Epokha Store",
+   "location": "Poltava, Ukraine",
+   "availability": "InStock",
+   "description": "Russia Old cigarette case, Filigree 999.9 silver plated Brass. Very beautiful and rare, exclusive Filigree silver plated Brass cigarette case. Brass, silver plated.",
+   "details": {
+    "Condition": "UsedAn item that has been used previously. See the seller’s listing for full details and description of any imperfections. See all condition definitionsopens in a new window or tab",
+    "Country of Origin": "Russian Federation",
+    "Delivery": "Estimated between Mon, Oct 26 and Thu, Nov 12 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Handmade": "No",
+    "Import fees": "Import fees due prior to delivery.",
+    "Material": "silver plated brass",
+    "Modified Item": "No",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“Please carefully read the description and look at photos.Photos are the part of description.”",
+    "Shipping": "US $10.00 Economy Shipping from outside US. See detailsfor shippingLocated in: Poltava, Ukraine"
+   },
+   "images": [
+    "data/items/ebay-f6fa43bc09/1.webp",
+    "data/items/ebay-f6fa43bc09/2.webp",
+    "data/items/ebay-f6fa43bc09/3.webp",
+    "data/items/ebay-f6fa43bc09/4.webp",
+    "data/items/ebay-f6fa43bc09/5.webp",
+    "data/items/ebay-f6fa43bc09/6.webp",
+    "data/items/ebay-f6fa43bc09/7.webp",
+    "data/items/ebay-f6fa43bc09/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/lRUAAOSwf-pjc9LD/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/LwEAAOSwR85jc9LQ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6nYAAOSwTXRjc9Lb/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/028AAOSwdfRjc9Ls/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/yCUAAOSwia1jc9L2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/67cAAOSwpZljc9L9/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/-mMAAOSwXypjc9MG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/9MgAAOSw3NVjc9MT/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:46:29.326Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:46:29.326Z"
+   }
+  },
+  {
    "id": "ebay-f73ef0dd7a",
    "platform": "ebay",
    "site": "eBay",
