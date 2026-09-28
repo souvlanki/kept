@@ -69,67 +69,6 @@
    }
   },
   {
-   "id": "ebay-6d9913d145",
-   "platform": "ebay",
-   "site": "eBay",
-   "url": "https://www.ebay.com/itm/158240785645",
-   "title": "Antique Ottoman Silver Telkari Filigree Card Case 1890-1910's",
-   "brand": "Unbranded",
-   "price": {
-    "amount": "499.99",
-    "currency": "USD"
-   },
-   "priceText": "US $499.99",
-   "size": "",
-   "condition": "--not specified",
-   "color": "",
-   "seller": "snst39584",
-   "location": "Lexington, South Carolina, United States",
-   "availability": "InStock",
-   "description": "Beautiful antique late 19th/ early 20th century continental silver filigree calling card or cigarette Case. Features an incredibly intricate, double-sided floral and scrollwork design. In excellent condition.",
-   "details": {
-    "Age": "1890-1910's",
-    "Brand": "Unbranded",
-    "Composition": "Sterling Silver (.925)",
-    "Country of Origin": "Türkiye",
-    "Delivery": "Estimated between Thu, Oct 1 and Wed, Oct 7 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
-    "Pattern": "Ottoma Floral and Foliare Filigree Scrollwork",
-    "Payments": "Diners Club",
-    "Returns": "Seller does not accept returns. See details- for more information about returns",
-    "Shipping": "US $10.11 USPS Ground Advantage®. See detailsfor shippingLocated in: Lexington, South Carolina, United States",
-    "Style": "Late Ottoman/Late Victorian"
-   },
-   "images": [
-    "data/items/ebay-6d9913d145/1.webp",
-    "data/items/ebay-6d9913d145/2.webp",
-    "data/items/ebay-6d9913d145/3.webp",
-    "data/items/ebay-6d9913d145/4.webp",
-    "data/items/ebay-6d9913d145/5.webp",
-    "data/items/ebay-6d9913d145/6.webp",
-    "data/items/ebay-6d9913d145/7.webp",
-    "data/items/ebay-6d9913d145/8.webp",
-    "data/items/ebay-6d9913d145/9.webp",
-    "data/items/ebay-6d9913d145/10.webp"
-   ],
-   "sourceImages": [
-    "https://i.ebayimg.com/images/g/LNwAAeSwMk1qk2BU/s-l1600.jpg",
-    "https://i.ebayimg.com/images/g/8FgAAeSwMcdqk2BU/s-l1600.jpg",
-    "https://i.ebayimg.com/images/g/ypgAAeSw1Llqk2BV/s-l1600.jpg",
-    "https://i.ebayimg.com/images/g/SrwAAeSwjU9qk2BV/s-l1600.jpg",
-    "https://i.ebayimg.com/images/g/7Z0AAeSwe-pqk2BX/s-l1600.jpg",
-    "https://i.ebayimg.com/images/g/WKoAAeSwM6Bqk2BW/s-l1600.webp",
-    "https://i.ebayimg.com/images/g/kIgAAeSwNXNqk2BY/s-l1600.webp",
-    "https://i.ebayimg.com/images/g/QqkAAeSw6wNqk2BY/s-l1600.webp",
-    "https://i.ebayimg.com/images/g/tcYAAeSwpfhqk2Ba/s-l1600.webp",
-    "https://i.ebayimg.com/images/g/ThIAAeSwjspqk2Ba/s-l1600.webp"
-   ],
-   "likedAt": "2026-09-28T16:50:43.743Z",
-   "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-28T16:50:43.743Z"
-   }
-  },
-  {
    "id": "ebay-39c07d0112",
    "platform": "ebay",
    "site": "eBay",
