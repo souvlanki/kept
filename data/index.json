@@ -1,6 +1,80 @@
 {
  "items": [
   {
+   "id": "ebay-7d78d28242",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/377525108500",
+   "title": "Hugo Boss Gray Suit Jacket Mens 42R 100% Linen Solid Blazer Solbiati",
+   "brand": "HUGO BOSS",
+   "price": {
+    "amount": "49.99",
+    "currency": "USD"
+   },
+   "priceText": "US $49.99",
+   "size": "42",
+   "condition": "Pre-owned - Excellent",
+   "color": "Gray",
+   "seller": "newday31",
+   "location": "Chicago, Illinois, United States",
+   "availability": "InStock",
+   "description": "Guaranteed excellent clean condition hardly worn no flaws or issues. No stains scent free. Lightweight 100% linen. 3 button dual vents. Measures pit to pit 22.5 inches length from collar base 31 inches shoulders 18.5 inches sleeve from shoulder seam 25 inches. Very nice. please compare measurements for a great fit.",
+   "details": {
+    "Chest Size": "Pit To Pit 22.5”",
+    "Color": "Gray",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Delivery": "Estimated between Wed, Sep 30 and Sat, Oct 3 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fabric Type": "Woven",
+    "Features": "Inner Pockets, Stretch, Shoulder Pads",
+    "Garment Care": "Dry Clean Only",
+    "Handmade": "No",
+    "Jacket Lapel Style": "Notch",
+    "Jacket Sleeve Button Style": "Three-Button",
+    "Jacket/Coat Length": "Regular",
+    "Lining Material": "Cupro",
+    "Number of Pieces": "1 Piece",
+    "Occasion": "Business, Casual, Formal, Party/Cocktail, Travel, Wedding",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Season": "Fall, Spring, Summer, Winter",
+    "Shipping": "US $8.27 USPS Ground Advantage®. See detailsfor shippingLocated in: Chicago, Illinois, United States",
+    "Size": "42",
+    "Style": "Sport Coat",
+    "Vintage": "No"
+   },
+   "images": [
+    "data/items/ebay-7d78d28242/1.webp",
+    "data/items/ebay-7d78d28242/2.webp",
+    "data/items/ebay-7d78d28242/3.webp",
+    "data/items/ebay-7d78d28242/4.webp",
+    "data/items/ebay-7d78d28242/5.webp",
+    "data/items/ebay-7d78d28242/6.webp",
+    "data/items/ebay-7d78d28242/7.webp",
+    "data/items/ebay-7d78d28242/8.webp",
+    "data/items/ebay-7d78d28242/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/vlwAAeSwkepquCPA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/dPAAAeSwDLBquCPJ/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/angAAeSwNV9quCPM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/PZMAAeSw6z9quCP3/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/H8YAAeSwWhxquCPr/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/RjMAAeSwSGxquCQ7/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/oN4AAeSwoQRquCOE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/CLMAAeSwBBdquCQv/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/xIEAAeSwkepquCRB/s-l1600.webp"
+   ],
+   "screenshot": "data/items/ebay-7d78d28242/page.webp",
+   "likedAt": "2026-09-28T13:09:01.670Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T13:09:01.670Z"
+   }
+  },
+  {
    "id": "ebay-0b832cc2ac",
    "platform": "ebay",
    "site": "eBay",
