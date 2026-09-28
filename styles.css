@@ -464,3 +464,9 @@ h1.wordmark {
   transform: scaleY(1.22);
   transform-origin: bottom left;
 }
+
+
+/* Centre piece 20% bigger: grow downward from the top edge, and make room below it */
+.cover { transform-origin: 50% 0; }
+.drop { top: calc(34px + var(--ch) * 1.2 + 16px); }
+.stage { height: calc(var(--ch) * 1.2 + 34px + 16px + clamp(60px, calc(var(--cw) * 0.3), 95px) + 84px); }
