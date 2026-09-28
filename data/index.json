@@ -1,6 +1,78 @@
 {
  "items": [
   {
+   "id": "ebay-eebcf91066",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/358769618702",
+   "title": "Vintage 80s Giorgio Armani Pure Linen Blazer Jacket Made in Italy 48",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "415.0",
+    "currency": "USD"
+   },
+   "priceText": "US $415.00",
+   "size": "L",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Navy",
+   "seller": "ACRE_Japan",
+   "location": "Japan, Japan",
+   "availability": "InStock",
+   "description": "Made in Italy from pure linen, this archive piece features Giorgio Armani's signature unstructured tailoring with a relaxed silhouette and lightweight construction. Model: Pure Linen Tailored Jacket.",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "Navy",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Fri, Oct 2 and Thu, Oct 15 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Unisex Adults",
+    "Features": "Padded",
+    "Import fees": "Includes import fees.",
+    "Outer Shell Material": "Linen",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“Pre-owned, gently used. Some signs of wear, but overall good condition. Please check all photos.”",
+    "Shipping": "US $85.00 eBay SpeedPAK Expedited. See detailsfor shippingLocated in: Japan, Japan",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "Basic Jacket",
+    "Type": "Jacket"
+   },
+   "images": [
+    "data/items/ebay-eebcf91066/1.webp",
+    "data/items/ebay-eebcf91066/2.webp",
+    "data/items/ebay-eebcf91066/3.webp",
+    "data/items/ebay-eebcf91066/4.webp",
+    "data/items/ebay-eebcf91066/5.webp",
+    "data/items/ebay-eebcf91066/6.webp",
+    "data/items/ebay-eebcf91066/7.webp",
+    "data/items/ebay-eebcf91066/8.webp",
+    "data/items/ebay-eebcf91066/9.webp",
+    "data/items/ebay-eebcf91066/10.webp",
+    "data/items/ebay-eebcf91066/11.webp",
+    "data/items/ebay-eebcf91066/12.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/~gwAAeSwKzVqTcFm/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/FX8AAeSwC9NqTcFm/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Vc0AAeSwdjxqTcFm/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Uu0AAeSwPA1qTcFm/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/T-QAAeSwoSFqTcFm/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/PuUAAeSw18BqTcFm/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/FgAAAeSw4qlqTcFm/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/vXkAAeSwxndqTcFm/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/uFoAAeSwxtpqTcFm/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/tIAAAeSwFy9qTcFm/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/qTUAAeSwnWRqTcFm/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/DcUAAeSwFfRqTcFm/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T17:35:04.923Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T17:35:04.923Z"
+   }
+  },
+  {
    "id": "ebay-82b0bb3df1",
    "platform": "ebay",
    "site": "eBay",
