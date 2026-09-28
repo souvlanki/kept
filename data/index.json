@@ -230,8 +230,7 @@
    "screenshot": "data/items/ebay-776bfb0ec0/page.webp",
    "likedAt": "2026-09-28T16:03:13.421Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-28T16:03:13.421Z"
+    "status": "failed"
    }
   },
   {
