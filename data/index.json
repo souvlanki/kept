@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-314f63c84e",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/278362494701",
+   "title": "VNTG Giorgio Armani (42 / 52) 100% Cashmere Double Breast Overcoat",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "1100.0",
+    "currency": "USD"
+   },
+   "priceText": "US $1,100.00",
+   "size": "IT 52",
+   "condition": "Pre-owned - Excellent",
+   "color": "Charcoal",
+   "seller": "Coyote Sharp",
+   "location": "New York, New York, United States",
+   "availability": "InStock",
+   "description": "Prominent peak lapels. Chest (armpit to armpit) 25.5\". Sleeve Length (shoulder seam to cuff) 26\". Shoulder Width (seam to seam) 21\". I believe in total quality transparency at Coyote Sharp. Length (base of back collar to hem) 50\".",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "Charcoal",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Thu, Oct 1 and Wed, Oct 7 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Fabric Type": "Denim",
+    "Outer Shell Material": "Cashmere",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "US $15.00 USPS Ground Advantage®. See detailsfor shippingLocated in: New York, New York, United States",
+    "Size": "IT 52",
+    "Size Type": "Regular",
+    "Style": "Overcoat",
+    "Type": "Overcoat",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-314f63c84e/1.webp",
+    "data/items/ebay-314f63c84e/2.webp",
+    "data/items/ebay-314f63c84e/3.webp",
+    "data/items/ebay-314f63c84e/4.webp",
+    "data/items/ebay-314f63c84e/5.webp",
+    "data/items/ebay-314f63c84e/6.webp",
+    "data/items/ebay-314f63c84e/7.webp",
+    "data/items/ebay-314f63c84e/8.webp",
+    "data/items/ebay-314f63c84e/9.webp",
+    "data/items/ebay-314f63c84e/10.webp",
+    "data/items/ebay-314f63c84e/11.webp",
+    "data/items/ebay-314f63c84e/12.webp",
+    "data/items/ebay-314f63c84e/13.webp",
+    "data/items/ebay-314f63c84e/14.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/nCcAAeSw04tqkYm9/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/apUAAeSwicVqjfxd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/blEAAeSwrd5qjfxd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6~kAAeSwDFZqjfxd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mKgAAeSwzbZqjfxd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mVUAAeSwZERqjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/mZoAAeSwa1Bqjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/e7YAAeSw0DZqjfxe/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/-akAAeSwOa9qjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/N28AAeSwzMRqjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/liAAAeSw5rdqjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/RpIAAeSwvFJqjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/m3UAAeSwcXFqjfxd/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/mJQAAeSwrBFqjfxd/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-28T16:18:47.320Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T16:18:47.320Z"
+   }
+  },
+  {
    "id": "ebay-21058f477f",
    "platform": "ebay",
    "site": "eBay",
