@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-047bfb70a6",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/326697197417",
+   "title": "J. CREW Vintage Oarsman 3-Button Notch Lapel Linen Jacket in Natural Size 42 R",
+   "brand": "J.CREW",
+   "price": {
+    "amount": "59.5",
+    "currency": "USD"
+   },
+   "priceText": "US $59.50",
+   "size": "42",
+   "condition": "Pre-owned - Good",
+   "color": "Beige",
+   "seller": "cosettes-closet",
+   "location": "Tempe, Arizona, United States",
+   "availability": "OutOfStock",
+   "description": "Find many great new & used options and get the best deals for J. CREW Vintage Oarsman 3-Button Notch Lapel Linen Jacket in Natural Size 42 R at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Brand": "J.CREW",
+    "Chest Size": "44",
+    "Color": "Beige",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Estimated between Wed, Sep 30 and Sat, Oct 3 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fabric Type": "Worsted",
+    "Fit": "Classic",
+    "Jacket Cut": "Single-Breasted",
+    "Jacket Front Button Style": "Three-Button",
+    "Jacket Sleeve Button Style": "Four-Button",
+    "Jacket Vent Style": "Ventless",
+    "Jacket/Coat Length": "Regular",
+    "Material": "Linen",
+    "Number of Pieces": "One",
+    "Occasion": "Business, Casual",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "14 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "US $10.95 USPS Priority Mail®. See detailsfor shippingLocated in: Tempe, Arizona, United States",
+    "Size": "42",
+    "Size Type": "Regular",
+    "Style": "blazer",
+    "Type": "Sport Coat"
+   },
+   "images": [
+    "data/items/ebay-047bfb70a6/1.webp",
+    "data/items/ebay-047bfb70a6/2.webp",
+    "data/items/ebay-047bfb70a6/3.webp",
+    "data/items/ebay-047bfb70a6/4.webp",
+    "data/items/ebay-047bfb70a6/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/a98AAOSwk7Vm~EEA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/HHwAAOSw77Rm~EEA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/zLkAAOSwbHNm~EEA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/RP8AAOSwlkFm~EEA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/t28AAOSwwgJm~EEI/s-l1600.jpg"
+   ],
+   "likedAt": "2026-09-28T17:21:52.465Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T17:21:52.465Z"
+   }
+  },
+  {
    "id": "ebay-41bf62b35f",
    "platform": "ebay",
    "site": "eBay",
