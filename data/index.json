@@ -1,1 +1,68 @@
-{"items":[]}
+{
+ "items": [
+  {
+   "id": "ebay-75c4d2b14e",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/278415762872",
+   "title": "Vintage 80s 90s Z Cavaricci High Waisted Pleated Tapered Barrel Pants 33x32",
+   "brand": "Z Cavaricci",
+   "price": {
+    "amount": "149.0",
+    "currency": "USD"
+   },
+   "priceText": "US $149.00",
+   "size": "33",
+   "condition": "Pre-owned - Good",
+   "color": "Mustard Brown",
+   "seller": "thomslake",
+   "location": "Mentor, Ohio, United States",
+   "availability": "InStock",
+   "description": "Built with an ultra-high rise, dramatic forward-facing pleats create a voluminous \"balloon\" or \"barrel\" shape through the thighs before narrowing into a clean, sharply tapered ankle cuff.",
+   "details": {
+    "Brand": "Z Cavaricci",
+    "Color": "Mustard Brown",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country of Origin": "United States",
+    "Delivery": "Estimated between Thu, Oct 1 and Mon, Oct 5 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Inseam": "32 in",
+    "Leg Style": "Tapered",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $10.00 USPS Priority Mail®. See detailsfor shippingLocated in: Mentor, Ohio, United States",
+    "Size": "33",
+    "Size Type": "Regular",
+    "Style": "barrel",
+    "Theme": "90s",
+    "Type": "Pants"
+   },
+   "images": [
+    "data/items/ebay-75c4d2b14e/1.webp",
+    "data/items/ebay-75c4d2b14e/2.webp",
+    "data/items/ebay-75c4d2b14e/3.webp",
+    "data/items/ebay-75c4d2b14e/4.webp",
+    "data/items/ebay-75c4d2b14e/5.webp",
+    "data/items/ebay-75c4d2b14e/6.webp",
+    "data/items/ebay-75c4d2b14e/7.webp",
+    "data/items/ebay-75c4d2b14e/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/CAgAAeSwQMZquc97/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/jzUAAeSwoZ9qucyW/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/5wkAAeSwRddqucyk/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/sGsAAeSwPKBqucyy/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/nc4AAeSwTTtquczI/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1AAAAeSw9Cpqucy9/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/nl4AAeSwbu5quc-R/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/MMcAAeSwdOhquc8-/s-l1600.webp"
+   ],
+   "screenshot": "data/items/ebay-75c4d2b14e/page.webp",
+   "likedAt": "2026-09-28T12:42:05.413Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-28T12:42:05.413Z"
+   }
+  }
+ ]
+}
