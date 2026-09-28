@@ -100,7 +100,7 @@
     const root = document.documentElement.style;
     root.setProperty('--cw', cw + 'px');
     root.setProperty('--ch', ch + 'px');
-    S.dims = { cw, ch, centre: cw * 0.8, side: cw * 0.33, depth: cw * 0.9, angle: 64 };
+    S.dims = { cw, ch, centre: cw * 0.92, side: cw * 0.33, depth: cw * 0.9, angle: 64 };
     S.dirty = true;
   }
 
@@ -143,7 +143,7 @@
     const x = s * (ease * d.centre + Math.max(a - 1, 0) * d.side);
     const z = -ease * d.depth;
     const ry = s * ease * d.angle;
-    c.el.style.transform = `translate3d(${x.toFixed(2)}px,0,${z.toFixed(2)}px) rotateY(${ry.toFixed(2)}deg)`;
+    c.el.style.transform = `translate3d(${x.toFixed(2)}px,0,${z.toFixed(2)}px) rotateY(${ry.toFixed(2)}deg) scale(${(1 + 0.2 * (1 - ease)).toFixed(3)})`;
     c.el.style.zIndex = String(10000 - Math.round(a * 100));
     c.el.style.opacity = String(clamp((RANGE + 0.5 - a) / 1.5, 0, 1));
     c.shade.style.opacity = String(Math.min(0.6, ease * 0.32 + Math.max(a - 1, 0) * 0.045));
