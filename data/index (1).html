@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kept</title>
+  <meta name="description" content="An archive of second-hand pieces I've liked, preserved after the listings disappear.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪷</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Poiret+One&family=Josefin+Sans:wght@300..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="bar">
+    <div class="brand">
+      <h1 class="wordmark">Kept</h1>
+      <p class="count" id="count"></p>
+    </div>
+    <div class="tools">
+      <div class="chips" id="chips" role="group" aria-label="Filter by site"></div>
+      <label class="search">
+        <span class="sr">Search the archive</span>
+        <input id="q" type="search" placeholder="Search brand, size, seller" autocomplete="off" spellcheck="false">
+      </label>
+    </div>
+  </header>
+
+  <p class="demo-note" id="demo-note" hidden>These are sample pieces. Anything you like or watch with the Kept extension replaces them.</p>
+
+  <main>
+    <section class="stage" id="stage" tabindex="0" aria-label="Archive. Use the left and right arrow keys to browse.">
+      <div class="track" id="track"></div>
+      <div class="drop" id="drop" aria-label="Photos of this piece"></div>
+      <div class="scrubber"><input id="scrub" type="range" min="0" max="0" step="0.001" value="0" aria-label="Scroll through the archive"></div>
+      <div class="empty" id="empty" hidden></div>
+    </section>
+    <article class="info" id="info" aria-live="polite"></article>
+  </main>
+
+  <div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-labelledby="lb-cap">
+    <button class="lb-close" id="lb-close" aria-label="Close viewer">&times;</button>
+    <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous photo">&lsaquo;</button>
+    <div class="lb-body" id="lb-body"></div>
+    <button class="lb-nav lb-next" id="lb-next" aria-label="Next photo">&rsaquo;</button>
+    <p class="lb-cap" id="lb-cap"></p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
