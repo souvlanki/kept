@@ -227,7 +227,6 @@
     buildDrop(it);
     requestAnimationFrame(() => requestAnimationFrame(() => drop.classList.add('open')));
     renderInfo(it);
-    ambient(it, c);
     if (it.id) history.replaceState(null, '', '#' + encodeURIComponent(it.id));
   }
 

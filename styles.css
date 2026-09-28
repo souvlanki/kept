@@ -16,8 +16,8 @@
   --amb: #3b2a4a;
   --cw: 260px;
   --ch: 325px;
-  --display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
-  --ui: "Hanken Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --display: "Poiret One", "Josefin Sans", "Futura", "Avenir Next", sans-serif;
+  --ui: "Josefin Sans", "Futura", "Avenir Next", system-ui, sans-serif;
   color-scheme: dark;
   transition: --amb 1100ms ease;
 }
@@ -33,7 +33,7 @@ body {
   font-family: var(--ui);
   font-size: 16px;
   line-height: 1.5;
-    background: var(--black);
+  background: var(--black);
   padding-bottom: env(safe-area-inset-bottom, 0px);
   -webkit-font-smoothing: antialiased;
 }
@@ -63,12 +63,10 @@ body.lb-open { overflow: hidden; }
 .wordmark {
   margin: 0;
   font-family: var(--display);
-  font-style: italic;
-  font-weight: 500;
-  font-size: 44px;
+  font-weight: 400;
+  font-size: 42px;
   line-height: 1;
-  letter-spacing: -0.02em;
-  font-variation-settings: "opsz" 96;
+  letter-spacing: 0.1em;
 }
 
 .count { margin: 0; color: var(--mute); font-size: 14px; }
@@ -299,7 +297,7 @@ body.lb-open { overflow: hidden; }
   gap: 12px;
 }
 .empty[hidden] { display: none; }
-.empty p { margin: 0; font-family: var(--display); font-style: italic; font-size: 26px; color: var(--paper); }
+.empty p { margin: 0; font-family: var(--display); font-size: 28px; letter-spacing: 0.04em; color: var(--paper); }
 
 /* Info ------------------------------------------------------------------ */
 
@@ -316,12 +314,10 @@ body.lb-open { overflow: hidden; }
 .title {
   margin: 0;
   font-family: var(--display);
-  font-style: italic;
-  font-weight: 500;
-  font-size: clamp(28px, 3.6vw, 46px);
-  line-height: 1.06;
-  letter-spacing: -0.015em;
-  font-variation-settings: "opsz" 72;
+  font-weight: 400;
+  font-size: clamp(28px, 3.4vw, 44px);
+  line-height: 1.14;
+  letter-spacing: 0.04em;
   text-wrap: balance;
 }
 
@@ -377,10 +373,10 @@ body.lb-open { overflow: hidden; }
 .specs dd { font-size: 15px; overflow-wrap: anywhere; }
 
 .desc {
-  font-family: var(--display);
+  font-family: var(--ui);
+  font-weight: 300;
   font-size: 17px;
-  line-height: 1.7;
-  font-variation-settings: "opsz" 12;
+  line-height: 1.65;
   max-width: 62ch;
 }
 .desc p { margin: 0 0 1em; white-space: pre-line; }
