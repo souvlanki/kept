@@ -1,6 +1,48 @@
 {
  "items": [
   {
+   "id": "etsy-ce755ab543",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/481059781/vintage-1990s-giorgio-armani-brown",
+   "title": "Vintage 1990s Giorgio Armani Brown Slacks // Mens Armani Le Collezioni Pants // 1980s / 90s Choclate Trousers SZ: 36 R",
+   "brand": "GhostRabbitsVintage",
+   "price": {
+    "amount": "37.06",
+    "currency": "USD"
+   },
+   "priceText": "$130.80",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "Vintage 1980s / 90s Brown Giorgio Armani Slacks\n\nClassic handsome quality fabric and tailoring. Wool designer trousers made in Italy. Fly zip, button waistband closure, front pockets, back button pockets, partially lined, front pleats sack style fit to a narrow leg hem cuffed. Pristine condition and shape.\n\n❉ measurements:\n\nMeasurements: \nWaist: 38&quot; \nInseam: 33&quot; (with 2&quot; cuff / hem to let out for extra length&quot;)\n\nBrand: Giorgio Armani Le Collezioni\nCondition: Good to Fair. Minor scruffs see close up on last photo\n\n❉ All items are vintage and have been worn and loved, some small flaws may go unnoticed. I promise to include every detail of every garment accurately",
+   "details": {},
+   "images": [
+    "data/items/etsy-ce755ab543/1.webp",
+    "data/items/etsy-ce755ab543/2.webp",
+    "data/items/etsy-ce755ab543/3.webp",
+    "data/items/etsy-ce755ab543/4.webp",
+    "data/items/etsy-ce755ab543/5.webp",
+    "data/items/etsy-ce755ab543/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/9671696/r/il/994f39/1049430694/il_1588xN.1049430694_i6vo.jpg",
+    "https://i.etsystatic.com/9671696/r/il/2e3373/1095992935/il_1588xN.1095992935_gt9c.jpg",
+    "https://i.etsystatic.com/9671696/r/il/209888/1095992891/il_1588xN.1095992891_cvol.jpg",
+    "https://i.etsystatic.com/9671696/r/il/383639/1049430054/il_1588xN.1049430054_5u5g.jpg",
+    "https://i.etsystatic.com/9671696/r/il/5002ce/1049430028/il_1588xN.1049430028_nifp.jpg",
+    "https://i.etsystatic.com/9671696/r/il/994f39/1049430694/il_1080xN.1049430694_i6vo.jpg"
+   ],
+   "likedAt": "2026-09-29T08:12:08.233Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:12:08.233Z"
+   }
+  },
+  {
    "id": "etsy-609f68467b",
    "platform": "etsy",
    "site": "etsy.com",
