@@ -56,8 +56,9 @@
    ],
    "likedAt": "2026-09-29T09:22:03.122Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T09:22:03.122Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929092201/https://www.etsy.com/listing/4457091689/emporio-armani-wool-double-breasted",
+    "archivedAt": "2026-09-29T09:22:01Z"
    }
   },
   {
