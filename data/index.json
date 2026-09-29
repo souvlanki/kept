@@ -1,6 +1,68 @@
 {
  "items": [
   {
+   "id": "etsy-fd8a80bdbd",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4371286832/70s-vintage-gianni-versace-police-bomber",
+   "title": "70s Vintage Gianni Versace Police Bomber Jacket Made In Italy Size 46",
+   "brand": "HYPRNStore",
+   "price": {
+    "amount": "404.99",
+    "currency": "USD"
+   },
+   "priceText": "$499.99",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "InStock",
+   "description": "Please read all the description carefully before buying..if you have any questions feel free to ask\n\n(check measurements below) \nSize : please refer to actual measurementu given and compared with your best fitting clothes )\n\nSize on tag : 46 size\n\nChest : 22 inches \n\nLength : 26.5 inches \n\nShoulder length : 21.5 inches\n\nSleeves length : 21.5 inchies \n\nMeasure from collar seam to end off cuff : 29 inches \n\nMaterial : see photo \n\nCondition : Refer photo detail\n\nATTENTION : \nPlease pay close attention to measurements provided. \nDo not rely on tag size as pre-worn items may have been altered, stretched or shrunk & vintage sizes do not directly translate the modern sizes.The best way to ensure a correct fit is to compare our measurements with the measurements of a similar item that you know fits you well.Please enlarge the photos for clearer image.\n\nThank you very much for your visit.\n\n\n Item no = R6",
+   "details": {},
+   "images": [
+    "data/items/etsy-fd8a80bdbd/1.webp",
+    "data/items/etsy-fd8a80bdbd/2.webp",
+    "data/items/etsy-fd8a80bdbd/3.webp",
+    "data/items/etsy-fd8a80bdbd/4.webp",
+    "data/items/etsy-fd8a80bdbd/5.webp",
+    "data/items/etsy-fd8a80bdbd/6.webp",
+    "data/items/etsy-fd8a80bdbd/7.webp",
+    "data/items/etsy-fd8a80bdbd/8.webp",
+    "data/items/etsy-fd8a80bdbd/9.webp",
+    "data/items/etsy-fd8a80bdbd/10.webp",
+    "data/items/etsy-fd8a80bdbd/11.webp",
+    "data/items/etsy-fd8a80bdbd/12.webp",
+    "data/items/etsy-fd8a80bdbd/13.webp",
+    "data/items/etsy-fd8a80bdbd/14.webp",
+    "data/items/etsy-fd8a80bdbd/15.webp",
+    "data/items/etsy-fd8a80bdbd/16.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/41314055/r/il/d0fdb3/7254799627/il_1588xN.7254799627_qh83.jpg",
+    "https://i.etsystatic.com/41314055/r/il/8a4b6f/7206825418/il_1588xN.7206825418_fyut.jpg",
+    "https://i.etsystatic.com/41314055/r/il/e07208/7206825408/il_1588xN.7206825408_jl4s.jpg",
+    "https://i.etsystatic.com/41314055/r/il/258a24/7206825388/il_1588xN.7206825388_2uw7.jpg",
+    "https://i.etsystatic.com/41314055/r/il/c2c25f/7254799611/il_1588xN.7254799611_t7kr.jpg",
+    "https://i.etsystatic.com/41314055/r/il/c4f3f1/7254799623/il_1588xN.7254799623_qf6f.jpg",
+    "https://i.etsystatic.com/41314055/r/il/055b88/7206825430/il_1588xN.7206825430_f2l3.jpg",
+    "https://i.etsystatic.com/41314055/r/il/fdc405/7254799639/il_1588xN.7254799639_92up.jpg",
+    "https://i.etsystatic.com/41314055/r/il/14b639/7254799637/il_1588xN.7254799637_d2vc.jpg",
+    "https://i.etsystatic.com/41314055/r/il/41eb94/7254799633/il_1588xN.7254799633_8bm5.jpg",
+    "https://i.etsystatic.com/41314055/r/il/e8f963/7902904845/il_1588xN.7902904845_7jig.jpg",
+    "https://i.etsystatic.com/41314055/r/il/d11a6e/7902904839/il_1588xN.7902904839_k1ra.jpg",
+    "https://i.etsystatic.com/41314055/r/il/dc0fa0/7902904851/il_1588xN.7902904851_dgrt.jpg",
+    "https://i.etsystatic.com/41314055/r/il/58cc98/7854943998/il_1588xN.7854943998_kf2r.jpg",
+    "https://i.etsystatic.com/41314055/r/il/d7fdd7/7902904815/il_1588xN.7902904815_3wbr.jpg",
+    "https://i.etsystatic.com/41314055/r/il/d0fdb3/7254799627/il_1080xN.7254799627_qh83.jpg"
+   ],
+   "likedAt": "2026-09-29T09:03:59.446Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:03:59.446Z"
+   }
+  },
+  {
    "id": "etsy-a8f86ef7fb",
    "platform": "etsy",
    "site": "etsy.com",
