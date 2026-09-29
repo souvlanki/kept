@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "etsy-49aa3d1fcd",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4298978147/vintage-90s-luciano-carreli-tan",
+   "title": "Vintage 90s LUCIANO CARRELI Tan Gabardine Triple Pleated Cuffed Slacks w/ Triangle Belt Loops | Made in Italy | 1990s Designer Mens Pants",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "89.38",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAwesome vintage 90s Luciano Carreli tan gabardine triple pleated slacks. Incredible lightweight wool gabardine fabric and silhouette that falls to a cuffed hem. Finished with triangle belt loops at front that scream retro Versace like style. Perfect to dress up or down. Made in Italy. Please refer to measurements below. \n\n&lt;&gt; Designer: Luciano Carreli\n&lt;&gt; Made in Italy\n&lt;&gt; 100% Wool Gabardine \n&lt;&gt; Size: Please refer to measurements below. ( Model stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right. *NOTE THESE CAN BE TAILORED FOR A SMALLER.\n     waist: 18.5&quot; ( 37&quot; around with 0&quot; left to let out )\n     rise: 13&quot;\n     hips: 24.5&quot; ( 49&quot; around )\n     thigh: 15.5&quot; ( 31&quot; around )\n     inseam: 31.75&quot; ( with 0.5&quot; to let out or 2&quot; if loosing cuff )\n     cuff: 9&quot; ( 18&quot; around )\n&lt;&gt; Labeled size 36, please refer to measurements above. \n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-49aa3d1fcd/1.webp",
+    "data/items/etsy-49aa3d1fcd/2.webp",
+    "data/items/etsy-49aa3d1fcd/3.webp",
+    "data/items/etsy-49aa3d1fcd/4.webp",
+    "data/items/etsy-49aa3d1fcd/5.webp",
+    "data/items/etsy-49aa3d1fcd/6.webp",
+    "data/items/etsy-49aa3d1fcd/7.webp",
+    "data/items/etsy-49aa3d1fcd/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/7a20c8/6853305958/il_1588xN.6853305958_ivhm.jpg",
+    "https://i.etsystatic.com/8392227/r/il/85405d/6853299416/il_1588xN.6853299416_cvh5.jpg",
+    "https://i.etsystatic.com/8392227/r/il/fec51e/6901272317/il_1588xN.6901272317_k9n6.jpg",
+    "https://i.etsystatic.com/8392227/r/il/8a67d2/6901272315/il_1588xN.6901272315_me7f.jpg",
+    "https://i.etsystatic.com/8392227/r/il/6406f0/6853299492/il_1588xN.6853299492_3q3s.jpg",
+    "https://i.etsystatic.com/8392227/r/il/d27867/6901272329/il_1588xN.6901272329_73hw.jpg",
+    "https://i.etsystatic.com/8392227/r/il/dd07ed/6901272353/il_1588xN.6901272353_lb0n.jpg",
+    "https://i.etsystatic.com/8392227/r/il/7a20c8/6853305958/il_1080xN.6853305958_ivhm.jpg"
+   ],
+   "likedAt": "2026-09-29T08:59:53.847Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:59:53.847Z"
+   }
+  },
+  {
    "id": "etsy-e7354e054c",
    "platform": "etsy",
    "site": "etsy.com",
