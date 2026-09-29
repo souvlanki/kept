@@ -1,49 +1,6 @@
 {
  "items": [
   {
-   "id": "ebay-be452eae34",
-   "platform": "ebay",
-   "site": "eBay",
-   "url": "https://www.ebay.com/itm/158332983831",
-   "title": "Roads & Red Buildings Birds Eye View of Singapore City Postcard D3",
-   "brand": "",
-   "price": {
-    "amount": "13.4",
-    "currency": "USD"
-   },
-   "priceText": "US $13.40",
-   "size": "",
-   "condition": "UsedAn item that has been used previously",
-   "color": "",
-   "seller": "Dawn Books",
-   "location": "Pittsburg, Texas, United States",
-   "availability": "InStock",
-   "description": "Find many great new & used options and get the best deals for Roads & Red Buildings Birds Eye View of Singapore City Postcard D3 at the best online prices at eBay! Free shipping for many products!",
-   "details": {
-    "Condition": "UsedAn item that has been used previously. See the seller’s listing for full details and description of any imperfections. See all condition definitionsopens in a new window or tab",
-    "Delivery": "Estimated between Thu, Oct 1 and Mon, Oct 5 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
-    "Estimated total": "US $13.40*",
-    "Item price": "US $13.40",
-    "Payments": "Diners Club",
-    "Returns": "60 days returns. Seller pays for return shipping. See details- for more information about returns",
-    "Seller Notes": "“Postcard is in good condition, The postcard may have some staining and general wear, Please see ... Read moreabout the seller notes“Postcard is in good condition, The postcard may have some staining ",
-    "Shipping": "FREE",
-    "Was": "US $20.61"
-   },
-   "images": [
-    "data/items/ebay-be452eae34/1.webp",
-    "data/items/ebay-be452eae34/2.webp"
-   ],
-   "sourceImages": [
-    "https://i.ebayimg.com/images/g/KVYAAOSwYnxlnIP2/s-l1600.jpg",
-    "https://i.ebayimg.com/images/g/bNUAAOSwQN5lnIPz/s-l1600.jpg"
-   ],
-   "likedAt": "2026-09-28T18:02:04.879Z",
-   "archive": {
-    "status": "failed"
-   }
-  },
-  {
    "id": "ebay-f129fd1736",
    "platform": "ebay",
    "site": "eBay",
