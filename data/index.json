@@ -478,8 +478,9 @@
    ],
    "likedAt": "2026-09-29T09:03:39.618Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T09:03:39.618Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929090421/https://www.etsy.com/listing/1333316838/vintage-gianni-versace-jacket-men-navy",
+    "archivedAt": "2026-09-29T09:04:21Z"
    }
   },
   {
