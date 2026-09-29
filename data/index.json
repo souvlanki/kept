@@ -432,8 +432,9 @@
    ],
    "likedAt": "2026-09-29T08:07:06.354Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T08:07:06.354Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929080150/https://www.etsy.com/listing/1562352725/vintage-90s-gianni-versace-light-beige",
+    "archivedAt": "2026-09-29T08:01:50Z"
    }
   },
   {
