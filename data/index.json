@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-e6f5a01edc",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1392581016/vintage-90s-giorgio-armani-le-collezioni",
+   "title": "Vintage 90s Giorgio Armani Le Collezioni Black & Taupe Paisley Gabardine Shirt | Made in Italy | Wool/Rayon | 1990s Armani Designer Shirt",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "270.32",
+    "currency": "USD"
+   },
+   "priceText": "$54.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "InStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nBeautiful vintage 80s/90s Giorgio Armani Le Collezioni black and taupe paisley print shirt. Made from luxurious rayon and wool gabardine that drapes perfectly. Perfect to dress up or down. Softly slouched chest pockets and a rounded saddle hemline gives this incredible shirt the legendary Armani flare. Made in Italy. Please refer to measurements below for best fit.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 85% Rayon 15% Wool\n&lt;&gt; Size: Please refer to measurements below for best fit. ( model stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     shoulder to shoulder: 20.5&quot;\n     underarm to underarm: 23&quot; ( 46“ around )\n     sleeve from shoulder: 23.5&quot;\n     overall length: 30&quot;\n&lt;&gt; Labeled 16/41, please refer to measurements above for best fit.\n&lt;&gt; Great Vintage condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-e6f5a01edc/1.webp",
+    "data/items/etsy-e6f5a01edc/2.webp",
+    "data/items/etsy-e6f5a01edc/3.webp",
+    "data/items/etsy-e6f5a01edc/4.webp",
+    "data/items/etsy-e6f5a01edc/5.webp",
+    "data/items/etsy-e6f5a01edc/6.webp",
+    "data/items/etsy-e6f5a01edc/7.webp",
+    "data/items/etsy-e6f5a01edc/8.webp",
+    "data/items/etsy-e6f5a01edc/9.webp",
+    "data/items/etsy-e6f5a01edc/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/9ecfba/4578184870/il_1588xN.4578184870_avfn.jpg",
+    "https://i.etsystatic.com/8392227/r/il/cd30ca/4578187892/il_1588xN.4578187892_hv41.jpg",
+    "https://i.etsystatic.com/8392227/r/il/0cc546/4626429367/il_1588xN.4626429367_ms6s.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2a8f99/4578187876/il_1588xN.4578187876_ocrw.jpg",
+    "https://i.etsystatic.com/8392227/r/il/09bdf5/4626429475/il_1588xN.4626429475_rb9f.jpg",
+    "https://i.etsystatic.com/8392227/r/il/51d3c7/4626429543/il_1588xN.4626429543_3yew.jpg",
+    "https://i.etsystatic.com/8392227/r/il/f36ca3/4626429487/il_1588xN.4626429487_ao6w.jpg",
+    "https://i.etsystatic.com/8392227/r/il/359eca/4626429419/il_1588xN.4626429419_rru9.jpg",
+    "https://i.etsystatic.com/8392227/r/il/b9eb3c/4578187868/il_1588xN.4578187868_a27w.jpg",
+    "https://i.etsystatic.com/8392227/r/il/9ecfba/4578184870/il_1080xN.4578184870_avfn.jpg"
+   ],
+   "likedAt": "2026-09-29T09:04:53.260Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:04:53.260Z"
+   }
+  },
+  {
    "id": "etsy-af3a9e92ff",
    "platform": "etsy",
    "site": "etsy.com",
