@@ -270,8 +270,9 @@
    ],
    "likedAt": "2026-09-29T09:05:00.731Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T09:05:00.731Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929090458/https://www.etsy.com/listing/1543961487/vintage-80s-giorgio-armani-le-collezioni",
+    "archivedAt": "2026-09-29T09:04:58Z"
    }
   },
   {
