@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-525d68a3de",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1418532114/vintage-90s-gianni-versace-seafoam-green",
+   "title": "Vintage 90s GIANNI VERSACE Seafoam Green Cashmere Quadruple Pleated Tapered Leg Pants | Made in Italy | 1990s VERSACE Designer Mens Pants",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "648.00",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nUnbelievable vintage 90s Gianni Versace seafoam green cashmere blend quadruple pleated tapered leg slacks. Super luxurious soft wool and cashmere blend with all the incredible stylings of Gianni Versace. Amazing ultra high waisted fit that drapes beautifully falling to a soft tapered leg. Excellent slacks to dress up or down. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Gianni Versace\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 85% Wool 15% Cashmere\n&lt;&gt; Size: Please refer to measurements. ( model stands 6&#39;3&quot; tall )\n&lt;&gt; Measurements: laying flat from left to right\n     waist: 16&quot; ( 32&quot; around with 1.75&quot; to let out )\n     front rise: 13&quot;\n     hips: 24&quot; ( 48&quot; around )\n     inseam: 32.75&quot; ( with 1.&quot; for extra length )\n     bottom hem width: 7.5&quot;\n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-525d68a3de/1.webp",
+    "data/items/etsy-525d68a3de/2.webp",
+    "data/items/etsy-525d68a3de/3.webp",
+    "data/items/etsy-525d68a3de/4.webp",
+    "data/items/etsy-525d68a3de/5.webp",
+    "data/items/etsy-525d68a3de/6.webp",
+    "data/items/etsy-525d68a3de/7.webp",
+    "data/items/etsy-525d68a3de/8.webp",
+    "data/items/etsy-525d68a3de/9.webp",
+    "data/items/etsy-525d68a3de/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/d23db9/4702139208/il_1588xN.4702139208_675c.jpg",
+    "https://i.etsystatic.com/8392227/r/il/7e4264/4702140294/il_1588xN.4702140294_ntal.jpg",
+    "https://i.etsystatic.com/8392227/r/il/1cdd3b/4702140328/il_1588xN.4702140328_er2o.jpg",
+    "https://i.etsystatic.com/8392227/r/il/d09875/4702140066/il_1588xN.4702140066_gyyf.jpg",
+    "https://i.etsystatic.com/8392227/r/il/8e2a44/4702140150/il_1588xN.4702140150_o2w2.jpg",
+    "https://i.etsystatic.com/8392227/r/il/7b415f/4702140180/il_1588xN.4702140180_bnxj.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2e4e02/4702140210/il_1588xN.4702140210_ou2m.jpg",
+    "https://i.etsystatic.com/8392227/r/il/0d97e7/4702140256/il_1588xN.4702140256_lj1g.jpg",
+    "https://i.etsystatic.com/8392227/r/il/afedea/4750370917/il_1588xN.4750370917_17yi.jpg",
+    "https://i.etsystatic.com/8392227/r/il/d23db9/4702139208/il_1080xN.4702139208_675c.jpg"
+   ],
+   "likedAt": "2026-09-29T07:52:23.049Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T07:52:23.049Z"
+   }
+  },
+  {
    "id": "etsy-6c4ea3e29d",
    "platform": "etsy",
    "site": "etsy.com",
