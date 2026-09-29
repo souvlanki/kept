@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-6d89b15d54",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1562352725/vintage-90s-gianni-versace-light-beige",
+   "title": "RESERVED 90s Gianni Versace Light Beige Silk Pleated Tapered Leg Pants | Made in Italy | 100% Silk | UNWORN | 1990s Versace Designer Slacks",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "548.00",
+    "currency": "USD"
+   },
+   "priceText": "$548.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "InStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAbsolutely amazing vintage 90s Gianni Versace 1992 collection light beige silk pleated tapered leg slacks. Super luxurious silk drapes beautifully with an ultra high waist that falls to a soft tapered leg. Unworn with original unhemmed leg. Excellent relaxed fit slacks to dress up or down. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Gianni Versace \n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Silk\n&lt;&gt; Size: Please refer to measurements. ( model stands 6&#39;3&quot; tall )\n&lt;&gt; Measurements: laying flat from left to right\n     waist: 15&quot; - 15.25&quot; ( 30&quot; - 30.5&quot; around with 2.25&quot; to let out ) *NOTE these sit high on the waist over belly button.\n     front rise: 13&quot;\n     hips: 23.5&quot; ( 47&quot; around )\n     inseam: 37&quot; ( unhemmed )\n     bottom hem width: 8.5&quot;\n&lt;&gt; Labeled 46, please refer to measurements above for best fit.\n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-6d89b15d54/1.webp",
+    "data/items/etsy-6d89b15d54/2.webp",
+    "data/items/etsy-6d89b15d54/3.webp",
+    "data/items/etsy-6d89b15d54/4.webp",
+    "data/items/etsy-6d89b15d54/5.webp",
+    "data/items/etsy-6d89b15d54/6.webp",
+    "data/items/etsy-6d89b15d54/7.webp",
+    "data/items/etsy-6d89b15d54/8.webp",
+    "data/items/etsy-6d89b15d54/9.webp",
+    "data/items/etsy-6d89b15d54/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/2a4e16/5359795101/il_1588xN.5359795101_3w27.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2f2c64/5359798531/il_1588xN.5359798531_43y7.jpg",
+    "https://i.etsystatic.com/8392227/r/il/e85357/5311624556/il_1588xN.5311624556_ark9.jpg",
+    "https://i.etsystatic.com/8392227/r/il/f96829/5359798523/il_1588xN.5359798523_ko4e.jpg",
+    "https://i.etsystatic.com/8392227/r/il/66d8de/5359798547/il_1588xN.5359798547_fxrw.jpg",
+    "https://i.etsystatic.com/8392227/r/il/1937d8/5311624538/il_1588xN.5311624538_b5zg.jpg",
+    "https://i.etsystatic.com/8392227/r/il/fe9836/5311624548/il_1588xN.5311624548_mwqe.jpg",
+    "https://i.etsystatic.com/8392227/r/il/3e2af5/5311624576/il_1588xN.5311624576_dk3s.jpg",
+    "https://i.etsystatic.com/8392227/r/il/44d3ec/5311624602/il_1588xN.5311624602_csub.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2a4e16/5359795101/il_1080xN.5359795101_3w27.jpg"
+   ],
+   "likedAt": "2026-09-29T08:07:06.354Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:07:06.354Z"
+   }
+  },
+  {
    "id": "etsy-d561f2c005",
    "platform": "etsy",
    "site": "etsy.com",
