@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "etsy-609f68467b",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1560890213/vintage-90s-gianni-versace-lilac-wool",
+   "title": "Vintage 90s GIANNI VERSACE Lilac Wool Gabardine Triple Pleated Cuffed Leg Pants | Made in Italy | 100% Wool | 1990s VERSACE Designer Pants",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "548.00",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nThese unbelievable vintage 90s 1992 collection Gianni Versace lilac wool gabardine triple pleated tapered cuffed leg slacks are a shop favorite! Rare pants with all the incredible stylings of the true early 90s Gianni Versace design. Amazing high waisted fit that drapes beautifully falling to a soft tapered cuffed leg. Excellent slacks to dress up or down. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Gianni Versace\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Wool \n&lt;&gt; Size: Please refer to measurements. ( model stands 6&#39;3&quot; tall )\n&lt;&gt; Measurements: laying flat from left to right\n     waist: 15.75&quot; - 16&quot; ( 31.5&quot; - 32&quot; around with 1.5&quot; to let out )\n     front rise: 13&quot;\n     hips: 24&quot; ( 48&quot; around )\n     inseam: 29&quot; ( with 2&quot; for extra length )\n     bottom hem width: 8.75&quot;\n&lt;&gt; Labeled size 48, please refer to measurements above for best fit.\n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-609f68467b/1.webp",
+    "data/items/etsy-609f68467b/2.webp",
+    "data/items/etsy-609f68467b/3.webp",
+    "data/items/etsy-609f68467b/4.webp",
+    "data/items/etsy-609f68467b/5.webp",
+    "data/items/etsy-609f68467b/6.webp",
+    "data/items/etsy-609f68467b/7.webp",
+    "data/items/etsy-609f68467b/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/dcbb92/5318557145/il_1588xN.5318557145_fiso.jpg",
+    "https://i.etsystatic.com/8392227/r/il/aa138a/5318556697/il_1588xN.5318556697_1soo.jpg",
+    "https://i.etsystatic.com/8392227/r/il/bdb17a/5270367928/il_1588xN.5270367928_nazi.jpg",
+    "https://i.etsystatic.com/8392227/r/il/222940/5318556719/il_1588xN.5318556719_52uy.jpg",
+    "https://i.etsystatic.com/8392227/r/il/4b183e/5270367952/il_1588xN.5270367952_kepi.jpg",
+    "https://i.etsystatic.com/8392227/r/il/76f7d3/5318556725/il_1588xN.5318556725_t3zq.jpg",
+    "https://i.etsystatic.com/8392227/r/il/4fac26/5318556797/il_1588xN.5318556797_df4j.jpg",
+    "https://i.etsystatic.com/8392227/r/il/dcbb92/5318557145/il_1080xN.5318557145_fiso.jpg"
+   ],
+   "likedAt": "2026-09-29T08:08:55.213Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:08:55.213Z"
+   }
+  },
+  {
    "id": "etsy-6d89b15d54",
    "platform": "etsy",
    "site": "etsy.com",
