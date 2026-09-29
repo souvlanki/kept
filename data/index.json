@@ -530,8 +530,9 @@
    ],
    "likedAt": "2026-09-29T08:04:09.814Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T08:04:09.814Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929080203/https://www.etsy.com/listing/1733170197/vintage-giorgio-armani-collezioni",
+    "archivedAt": "2026-09-29T08:02:03Z"
    }
   },
   {
