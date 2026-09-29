@@ -242,8 +242,9 @@
    ],
    "likedAt": "2026-09-29T08:14:55.841Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T08:14:55.841Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929080818/https://www.etsy.com/listing/1398648645/vintage-80s-byblos-charcoal-double",
+    "archivedAt": "2026-09-29T08:08:18Z"
    }
   },
   {
