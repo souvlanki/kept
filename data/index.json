@@ -1,6 +1,68 @@
 {
  "items": [
   {
+   "id": "etsy-c2df631c46",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4533803990/pick-giorgio-armani-blouson-brown-boxy",
+   "title": "Pick!! Giorgio Armani Blouson Brown Boxy Jacket Hard Wool Size 52 Large",
+   "brand": "808VintagePick",
+   "price": {
+    "amount": "152.60",
+    "currency": "USD"
+   },
+   "priceText": "$349.30",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "WELCOME ! Thanks For Visiting Our Shop😘😘😘\nPLEASE READ & KNOW BEFORE YOU DO PAYMENT.     \n\n👇👇👇👇👇👇👇👇👇👇👇👇\n\nItem : Giorgio Armani Jacket\n\nMeasurement : Pit 27 inches & Length 27 inches\nShoulder : 20 inches\nSleeve : 24 inches \n\nHad defect at back sleeve. Please refer photo \nCondition:8/10 Good\n\nSelling the best item for you.\n\n👉👉👉Any PURCHASE or BUNDLE $100 above will get special FREEGIFT 🎉🎉🎉👈👈👈\n\n💥 PLEASE LEAVE YOUR PHONE NUMBER  FOR SHIPPING DETAIL💥\n\nPurchase more item /BUNDLE guys.\n\n💥For FAST shipping ,Add $30 with DHL Express (3-5Day)\n.\n💥Payment with Paypal ONLY❗\n.\nPlease double CHECK your sizing because  item cannot bex refund.Please be careful to make payment.\n\n\nNo Refund !! \nsupport and review & HAVE A GOOD SHOPPING 🥰🥰",
+   "details": {},
+   "images": [
+    "data/items/etsy-c2df631c46/1.webp",
+    "data/items/etsy-c2df631c46/2.webp",
+    "data/items/etsy-c2df631c46/3.webp",
+    "data/items/etsy-c2df631c46/4.webp",
+    "data/items/etsy-c2df631c46/5.webp",
+    "data/items/etsy-c2df631c46/6.webp",
+    "data/items/etsy-c2df631c46/7.webp",
+    "data/items/etsy-c2df631c46/8.webp",
+    "data/items/etsy-c2df631c46/9.webp",
+    "data/items/etsy-c2df631c46/10.webp",
+    "data/items/etsy-c2df631c46/11.webp",
+    "data/items/etsy-c2df631c46/12.webp",
+    "data/items/etsy-c2df631c46/13.webp",
+    "data/items/etsy-c2df631c46/14.webp",
+    "data/items/etsy-c2df631c46/15.webp",
+    "data/items/etsy-c2df631c46/16.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/27171257/r/il/a56a6d/8221251288/il_1588xN.8221251288_43jx.jpg",
+    "https://i.etsystatic.com/27171257/r/il/b92c3d/8221251286/il_1588xN.8221251286_ox2h.jpg",
+    "https://i.etsystatic.com/27171257/r/il/295652/8221251296/il_1588xN.8221251296_kpne.jpg",
+    "https://i.etsystatic.com/27171257/r/il/2a1959/8269175329/il_1588xN.8269175329_25dl.jpg",
+    "https://i.etsystatic.com/27171257/r/il/f62a08/8221251332/il_1588xN.8221251332_9ktt.jpg",
+    "https://i.etsystatic.com/27171257/r/il/91de32/8269175373/il_1588xN.8269175373_6oed.jpg",
+    "https://i.etsystatic.com/27171257/r/il/5aa1a9/8269175339/il_1588xN.8269175339_evty.jpg",
+    "https://i.etsystatic.com/27171257/r/il/bbad4a/8221251272/il_1588xN.8221251272_gjkn.jpg",
+    "https://i.etsystatic.com/27171257/r/il/09ec94/8221251282/il_1588xN.8221251282_ppnt.jpg",
+    "https://i.etsystatic.com/27171257/r/il/dc8a81/8269175353/il_1588xN.8269175353_gbon.jpg",
+    "https://i.etsystatic.com/27171257/r/il/caf3fc/8221251454/il_1588xN.8221251454_mbpk.jpg",
+    "https://i.etsystatic.com/27171257/r/il/345d75/8269175495/il_1588xN.8269175495_pdj4.jpg",
+    "https://i.etsystatic.com/27171257/r/il/1f2e34/8269175489/il_1588xN.8269175489_1yo7.jpg",
+    "https://i.etsystatic.com/27171257/r/il/69fd00/8269175487/il_1588xN.8269175487_jupt.jpg",
+    "https://i.etsystatic.com/27171257/r/il/3d51f5/8269175479/il_1588xN.8269175479_lnj3.jpg",
+    "https://i.etsystatic.com/27171257/r/il/a56a6d/8221251288/il_1080xN.8221251288_43jx.jpg"
+   ],
+   "likedAt": "2026-09-29T03:02:49.604Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T03:02:49.604Z"
+   }
+  },
+  {
    "id": "depop-5679b7573d",
    "platform": "depop",
    "site": "depop.com",
