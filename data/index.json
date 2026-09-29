@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "id": "etsy-8adedbb015",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1535446456/vintage-90s-gianni-versace-chambray-blue",
+   "title": "Vintage 90s Gianni Versace Chambray Blue Stonewashed Linen Triple Pleated Pants | Made in Italy | 100% Linen | 1990s Versace Designer Slacks",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "548.00",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAbsolutely amazing vintage 90s Gianni Versace chambray blue stonewashed triple pleated tapered leg slacks. Super luxurious lightweight linen drapes beautifully with an ultra high waist that falls to a soft tapered leg. Excellent relaxed fit slacks to dress up or down any day of the year. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Gianni Versace \n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Linen\n&lt;&gt; Size: Please refer to measurements. ( model stands 6&#39;3&quot; tall )\n&lt;&gt; Measurements: laying flat from left to right\n     waist: 15&quot; ( 31&quot; around with 1.75&quot; to let out ) *NOTE these sit high on the waist over belly button.\n     front rise: 13&quot;\n     hips: 23&quot;\n     inseam: 36.5&quot; ( unhemmed )\n     bottom hem width: 8.25&quot;\n&lt;&gt; Labeled 46, please refer to measurements above for best fit.\n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-8adedbb015/1.webp",
+    "data/items/etsy-8adedbb015/2.webp",
+    "data/items/etsy-8adedbb015/3.webp",
+    "data/items/etsy-8adedbb015/4.webp",
+    "data/items/etsy-8adedbb015/5.webp",
+    "data/items/etsy-8adedbb015/6.webp",
+    "data/items/etsy-8adedbb015/7.webp",
+    "data/items/etsy-8adedbb015/8.webp",
+    "data/items/etsy-8adedbb015/9.webp",
+    "data/items/etsy-8adedbb015/10.webp",
+    "data/items/etsy-8adedbb015/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/3922ba/5218473860/il_1588xN.5218473860_ghww.jpg",
+    "https://i.etsystatic.com/8392227/r/il/bef17c/5266686209/il_1588xN.5266686209_2i61.jpg",
+    "https://i.etsystatic.com/8392227/r/il/817d46/5218474868/il_1588xN.5218474868_fco3.jpg",
+    "https://i.etsystatic.com/8392227/r/il/18ce43/5218474886/il_1588xN.5218474886_qj8p.jpg",
+    "https://i.etsystatic.com/8392227/r/il/861bba/5218474904/il_1588xN.5218474904_5wxj.jpg",
+    "https://i.etsystatic.com/8392227/r/il/5bdf94/5266686269/il_1588xN.5266686269_q0k0.jpg",
+    "https://i.etsystatic.com/8392227/r/il/c1695d/5218474902/il_1588xN.5218474902_evce.jpg",
+    "https://i.etsystatic.com/8392227/r/il/9ce53b/5266686319/il_1588xN.5266686319_q23c.jpg",
+    "https://i.etsystatic.com/8392227/r/il/202cf7/5266686353/il_1588xN.5266686353_m6eq.jpg",
+    "https://i.etsystatic.com/8392227/r/il/0ea6f3/5266686351/il_1588xN.5266686351_duui.jpg",
+    "https://i.etsystatic.com/8392227/r/il/3922ba/5218473860/il_1080xN.5218473860_ghww.jpg"
+   ],
+   "likedAt": "2026-09-29T07:56:46.778Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T07:56:46.778Z"
+   }
+  },
+  {
    "id": "etsy-09231258c6",
    "platform": "etsy",
    "site": "etsy.com",
