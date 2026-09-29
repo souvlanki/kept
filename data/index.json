@@ -148,8 +148,9 @@
    ],
    "likedAt": "2026-09-29T09:09:38.990Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T09:09:38.990Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929090938/https://www.etsy.com/listing/1016924612/vintage-giorgio-armani-sweater",
+    "archivedAt": "2026-09-29T09:09:38Z"
    }
   },
   {
