@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-a8f86ef7fb",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1333316838/vintage-gianni-versace-jacket-men-navy",
+   "title": "Vintage GIANNI VERSACE Cotton Blouson Jacket, Navy Blue, Made in Italy, Men&#39;s XL",
+   "brand": "ZeusVintage",
+   "price": {
+    "amount": "241.29",
+    "currency": "USD"
+   },
+   "priceText": "$52.78",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "An excellent vintage mens jacket from the 90s by luxury Italian fashion designer, Gianni Versace. In a navy blue cotton with a beige facing and a blouson style fit. The buttons fasten with a fly front which gives a minimalist look. \n\nSize: Marked IT 52 which roughly equates to a US 42/ Mens XL but this gives a slightly loose fit on the chest like most blouson jackets. Please check the measurements. \nChest - 46” / 117cm\nWaist - 40” / 101cm\nLength (Shoulder to Hem) - 23” / 58cm\nShoulder to Shoulder - 20” / 51cm\nSleeve Pit to Cuff - 19” / 48cm\nSleeve Shoulder to Cuff - 26” / 66cm\n\nCondition: Very Good Vintage Condition - Very faint sheen to one sleeve as pictured. Faint pink mark to inside lining, not seen when worn. No holes or tears.\n\n- Made in Italy\n- Front button fastenings\n- Two front breast pockets\n\nMaterials: 100% Cotton",
+   "details": {},
+   "images": [
+    "data/items/etsy-a8f86ef7fb/1.webp",
+    "data/items/etsy-a8f86ef7fb/2.webp",
+    "data/items/etsy-a8f86ef7fb/3.webp",
+    "data/items/etsy-a8f86ef7fb/4.webp",
+    "data/items/etsy-a8f86ef7fb/5.webp",
+    "data/items/etsy-a8f86ef7fb/6.webp",
+    "data/items/etsy-a8f86ef7fb/7.webp",
+    "data/items/etsy-a8f86ef7fb/8.webp",
+    "data/items/etsy-a8f86ef7fb/9.webp",
+    "data/items/etsy-a8f86ef7fb/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/7767985/r/il/d9998a/4396414439/il_1588xN.4396414439_ssdm.jpg",
+    "https://i.etsystatic.com/7767985/r/il/c8b668/4349018240/il_1588xN.4349018240_jty2.jpg",
+    "https://i.etsystatic.com/7767985/r/il/bbb9dc/4349018268/il_1588xN.4349018268_oeen.jpg",
+    "https://i.etsystatic.com/7767985/r/il/de1824/4349018252/il_1588xN.4349018252_5i2j.jpg",
+    "https://i.etsystatic.com/7767985/r/il/80cbba/4396414461/il_1588xN.4396414461_ptsj.jpg",
+    "https://i.etsystatic.com/7767985/r/il/ee681e/4349018260/il_1588xN.4349018260_aus6.jpg",
+    "https://i.etsystatic.com/7767985/r/il/8323ed/4349018270/il_1588xN.4349018270_7w8e.jpg",
+    "https://i.etsystatic.com/7767985/r/il/e1b61f/4396414487/il_1588xN.4396414487_gflk.jpg",
+    "https://i.etsystatic.com/7767985/r/il/5e3cde/4349018264/il_1588xN.4349018264_q9y6.jpg",
+    "https://i.etsystatic.com/7767985/r/il/d9998a/4396414439/il_1080xN.4396414439_ssdm.jpg"
+   ],
+   "likedAt": "2026-09-29T09:03:39.618Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:03:39.618Z"
+   }
+  },
+  {
    "id": "etsy-1444a65e6a",
    "platform": "etsy",
    "site": "etsy.com",
