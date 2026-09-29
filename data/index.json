@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "id": "etsy-ee41a6db10",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1892563423/vintage-1980s-giorgio-armani-collezioni",
+   "title": "Vintage 1980s Giorgio Armani Collezioni Oversized Raglan Sleeve Shirt. Cut in a textured tonal dobby stripe. Made in Italy. Big Sz M.",
+   "brand": "Numstore",
+   "price": {
+    "amount": "172.22",
+    "currency": "USD"
+   },
+   "priceText": "$385.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "Vintage 1980s Giorgio Armani Collezioni Oversized Raglan Sleeve Shirt. Cut in a textured tonal dobby stripe. Made in Italy. Big Sz M. Excellent condition. \n\nPlease study the photos and measurements- if questions come up please reach out;) \n\nMeasurements:\nChest- pit to pit: 23 3/8”\nLength- Taken from the high point shoulder/ nape of neck to bottom hem: 32”\nSleeve- Two point measurement taken from center back neck to shoulder to bottom of sleeve hem: 35 1/4”\nShoulders: NA raglan sleeve\nAcross bottom hem: 23 1/2”",
+   "details": {},
+   "images": [
+    "data/items/etsy-ee41a6db10/1.webp",
+    "data/items/etsy-ee41a6db10/2.webp",
+    "data/items/etsy-ee41a6db10/3.webp",
+    "data/items/etsy-ee41a6db10/4.webp",
+    "data/items/etsy-ee41a6db10/5.webp",
+    "data/items/etsy-ee41a6db10/6.webp",
+    "data/items/etsy-ee41a6db10/7.webp",
+    "data/items/etsy-ee41a6db10/8.webp",
+    "data/items/etsy-ee41a6db10/9.webp",
+    "data/items/etsy-ee41a6db10/10.webp",
+    "data/items/etsy-ee41a6db10/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/13544538/r/il/99d6a7/6738343028/il_1588xN.6738343028_l7z0.jpg",
+    "https://i.etsystatic.com/13544538/r/il/71fa30/6738342966/il_1588xN.6738342966_elpv.jpg",
+    "https://i.etsystatic.com/13544538/r/il/4d3c4d/6738342968/il_1588xN.6738342968_m0ky.jpg",
+    "https://i.etsystatic.com/13544538/r/il/feb950/6738342940/il_1588xN.6738342940_o8tp.jpg",
+    "https://i.etsystatic.com/13544538/r/il/c05dbe/6738342982/il_1588xN.6738342982_9mok.jpg",
+    "https://i.etsystatic.com/13544538/r/il/73fd35/6786369267/il_1588xN.6786369267_kc68.jpg",
+    "https://i.etsystatic.com/13544538/r/il/a8ee8b/6738342990/il_1588xN.6738342990_87hc.jpg",
+    "https://i.etsystatic.com/13544538/r/il/089e6e/6786369167/il_1588xN.6786369167_ql93.jpg",
+    "https://i.etsystatic.com/13544538/r/il/ad6d27/6786369335/il_1588xN.6786369335_4do2.jpg",
+    "https://i.etsystatic.com/13544538/r/il/47068b/6738342668/il_1588xN.6738342668_ki11.jpg",
+    "https://i.etsystatic.com/13544538/r/il/99d6a7/6738343028/il_1080xN.6738343028_l7z0.jpg"
+   ],
+   "likedAt": "2026-09-29T08:19:07.578Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:19:07.578Z"
+   }
+  },
+  {
    "id": "etsy-82e49eaedc",
    "platform": "etsy",
    "site": "etsy.com",
