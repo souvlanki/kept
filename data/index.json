@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "id": "etsy-c121f52e4f",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/747365615/90s-black-pleated-baggy-pants-unisex",
+   "title": "90s black pleated baggy pants, unisex, high waist, Bojo One World label, deadstock, 1990",
+   "brand": "OldSoulVintageWares",
+   "price": {
+    "amount": "65.40",
+    "currency": "USD"
+   },
+   "priceText": "$17.44",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "Bojo ONE WORLD label by Bojo Productions\n\nBlack drop-waisted high rise baggy pants have wide belt loops, six pleats on each side, two buttons, zipper behind a flap, BOJO fly label, two side deep pockets and two back slit pockets. \n\nDeadstock, with original tags. They have never been washed or worn. They will likely run the first time being washed, so wash separately before wear. Outside tag is bent.\n\nTags read:\n100% Cotton\n33&quot; Waist\n33&quot; Inseam\n13&quot;  Rise\n44&quot; Hips\n\nBojo Productions has brought this design to you through creative planning. Our name has been placed on your pants with the confidence that you will be proud to wear our design. We have sewn our fly label so that it can be removed with no harm to the garment. This allows you to choose the final design. Wear it well. Bojo\n\nStyle No. 11-361\n\nMachine wash warm separately\nDo not bleach\nTumble dry medium\nWarm iron\nWash once before wearing\n\nMade in Hong Kong",
+   "details": {},
+   "images": [
+    "data/items/etsy-c121f52e4f/1.webp",
+    "data/items/etsy-c121f52e4f/2.webp",
+    "data/items/etsy-c121f52e4f/3.webp",
+    "data/items/etsy-c121f52e4f/4.webp",
+    "data/items/etsy-c121f52e4f/5.webp",
+    "data/items/etsy-c121f52e4f/6.webp",
+    "data/items/etsy-c121f52e4f/7.webp",
+    "data/items/etsy-c121f52e4f/8.webp",
+    "data/items/etsy-c121f52e4f/9.webp",
+    "data/items/etsy-c121f52e4f/10.webp",
+    "data/items/etsy-c121f52e4f/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/9505279/r/il/66b994/2104951353/il_1588xN.2104951353_tk39.jpg",
+    "https://i.etsystatic.com/9505279/r/il/8ec284/2104950877/il_1588xN.2104950877_t649.jpg",
+    "https://i.etsystatic.com/9505279/r/il/bcdce4/2057367842/il_1588xN.2057367842_i7wi.jpg",
+    "https://i.etsystatic.com/9505279/r/il/3c6146/2104925119/il_1588xN.2104925119_n1rc.jpg",
+    "https://i.etsystatic.com/9505279/r/il/a8ece9/2104925897/il_1588xN.2104925897_j2ku.jpg",
+    "https://i.etsystatic.com/9505279/r/il/77e43b/2104926359/il_1588xN.2104926359_75v5.jpg",
+    "https://i.etsystatic.com/9505279/r/il/c7247a/2057341754/il_1588xN.2057341754_fh1m.jpg",
+    "https://i.etsystatic.com/9505279/r/il/5d1ee2/2104951081/il_1588xN.2104951081_d9r5.jpg",
+    "https://i.etsystatic.com/9505279/r/il/744500/2104951337/il_1588xN.2104951337_qxp8.jpg",
+    "https://i.etsystatic.com/9505279/r/il/7225d7/2057367128/il_1588xN.2057367128_dzlq.jpg",
+    "https://i.etsystatic.com/9505279/r/il/66b994/2104951353/il_1080xN.2104951353_tk39.jpg"
+   ],
+   "likedAt": "2026-09-29T09:01:53.390Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:01:53.390Z"
+   }
+  },
+  {
    "id": "etsy-6997247fac",
    "platform": "etsy",
    "site": "etsy.com",
