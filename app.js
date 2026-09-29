@@ -31,7 +31,7 @@
   const PLATFORMS = {
     depop: 'Depop', ebay: 'eBay', vinted: 'Vinted', grailed: 'Grailed',
     vestiaire: 'Vestiaire Collective', poshmark: 'Poshmark', mercari: 'Mercari',
-    etsy: 'Etsy', carousell: 'Carousell', therealreal: 'The RealReal',
+    etsy: 'Etsy', carousell: 'Carousell', therealreal: 'The RealReal', instagram: 'IG',
   };
 
   // ---------------------------------------------------------------- helpers
