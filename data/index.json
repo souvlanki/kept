@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "etsy-6c4ea3e29d",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1599924325/vintage-80s-giorgio-armani-le-collezioni",
+   "title": "Vintage 80s Giorgio Armani Le Collezioni Charcoal Linen Collarless Shirt | Made in Italy | 100% Linen | 1980s Armani Designer Mens Shirt",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "244.16",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAbsolutely beautiful vintage 80s Giorgio Armani Le Collezioni charcoal linen shirt. Perfect relaxed fit flowing linen shirt to dress up or down any day of the year. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Linen\n&lt;&gt; Size: Please refer to measurements below for best fit. ( model stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     shoulder to shoulder: 21&quot;\n     underarm to underarm: 27&quot;\n     sleeve from shoulder: 21.5&quot; ( *NOTE, drop shoulder gives extra length to overall sleeve fit )\n     overall length: 32&quot;\n&lt;&gt; Labeled Large, please refer to measurements above for best fit.\n&lt;&gt; Great Vintage Condition. Two small pinhead blemishes to back right elbow. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-6c4ea3e29d/1.webp",
+    "data/items/etsy-6c4ea3e29d/2.webp",
+    "data/items/etsy-6c4ea3e29d/3.webp",
+    "data/items/etsy-6c4ea3e29d/4.webp",
+    "data/items/etsy-6c4ea3e29d/5.webp",
+    "data/items/etsy-6c4ea3e29d/6.webp",
+    "data/items/etsy-6c4ea3e29d/7.webp",
+    "data/items/etsy-6c4ea3e29d/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/777cec/5461191292/il_1588xN.5461191292_ezmc.jpg",
+    "https://i.etsystatic.com/8392227/r/il/3c2d70/5461192042/il_1588xN.5461192042_af2m.jpg",
+    "https://i.etsystatic.com/8392227/r/il/f3d618/5509311351/il_1588xN.5509311351_gfsp.jpg",
+    "https://i.etsystatic.com/8392227/r/il/07ebed/5461192090/il_1588xN.5461192090_7p7r.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2ae1e4/5461192092/il_1588xN.5461192092_dsl8.jpg",
+    "https://i.etsystatic.com/8392227/r/il/ccf7af/5461192096/il_1588xN.5461192096_j0wc.jpg",
+    "https://i.etsystatic.com/8392227/r/il/529442/5509311443/il_1588xN.5509311443_p591.jpg",
+    "https://i.etsystatic.com/8392227/r/il/777cec/5461191292/il_1080xN.5461191292_ezmc.jpg"
+   ],
+   "likedAt": "2026-09-29T07:51:24.545Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T07:51:24.545Z"
+   }
+  },
+  {
    "id": "etsy-a748056bc3",
    "platform": "etsy",
    "site": "etsy.com",
