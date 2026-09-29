@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "other-dee24097c1",
+   "platform": "other",
+   "site": "eBay",
+   "url": "https://web.archive.org/web/20250827191236/https://www.ebay.com/itm/157251077866?_skw=men+armani+jacket&itmmeta=01K2Z9TVEBGMX94J3C5Y4JYM4M&hash=item249ce506ea%3Ag%3AOy8AAeSwz3pooeCA&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1fPuA0m4zupPfVsM5wjIFCrXkqqGj0wYq6xJkrv9qVu%2F4Re7%2FAXigLTRxztPhMEAMLVuVHyCBKKB%2FF3CJsQdzLLhXftOcOdwkGki7q%2B71RgLrCOWz6XA%2F6iqAfGYfj2N4Ic71BTT1Z7OoEsv5SLIpmt9sIJPNP0isMGnEWiMszG4njDKVrDJY8KU4OOqjckIAXv3AiUUSSV724ysQFD6NlnXsCjOa8WM%2BMXrmo7UywMcHYkHGKQmlQpcjJOHw490jw%3D%7Ctkp%3ABk9SR8C36-mXZg&LH_ItemCondition=1500%7C3000",
+   "title": "Vintage Giorgio Armani Jacket Coat Shearling Lamb Fur Made In Italy Sz 52 USA 42",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "499.99",
+    "currency": "USD"
+   },
+   "priceText": "US $499.99",
+   "size": "USA 42 Italy 52",
+   "condition": "Pre-owned - Good",
+   "color": "Green",
+   "seller": "",
+   "location": "Sacramento, California, United States",
+   "availability": "https://web.archive.org/web/20250827191236/https://schema.org/OutOfStock",
+   "description": "This Vintage Giorgio Armani Jacket Coat is a luxurious and stylish addition to any wardrobe. Made in Italy with high-quality shearling lamb fur and cotton outer shell, this heavyweight bomber jacket is perfect for travel, casual outings, and even activities such as walking, riding, hunting, and racing. The green color, solid pattern, and fur trim accents add a touch of sophistication, while the zip closure and bodywarmer features make it comfortable and practical for everyday wear. This unisex jacket in size USA 42 (Italy 52) exudes a vintage charm with its unique design and high-performance capabilities.",
+   "details": {
+    "Accents": "Fur Trim",
+    "Brand": "Giorgio Armani",
+    "Closure": "Zip",
+    "Color": "Green",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Estimated between Fri, Aug 29 and Wed, Sep 3 to 94118 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Unisex Adults",
+    "Fabric Type": "cotton",
+    "Features": "Bodywarmer",
+    "Garment Care": "Dry Clean Only",
+    "Jacket/Coat Length": "Hip",
+    "Lining Material": "Acetate",
+    "Material": "Shearling",
+    "Modified Item": "No",
+    "Occasion": "Casual, Travel",
+    "Outer Shell Material": "Cotton",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $12.15 USPS Ground Advantage®. See detailsfor shippingLocated in: Sacramento, California, United States",
+    "Size": "USA 42 Italy 52",
+    "Style": "Bomber",
+    "Vintage": "Yes",
+    "Warmth": "Heavyweight"
+   },
+   "images": [],
+   "sourceImages": [
+    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/Oy8AAeSwz3pooeCA/s-l1600.jpg",
+    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/SyQAAeSwPq5ooeCA/s-l1600.jpg",
+    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/IAcAAeSwo9xooeCB/s-l1600.jpg",
+    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/ZdMAAeSwcfZooeCB/s-l1600.jpg",
+    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/VIUAAeSw4d5ooeCD/s-l1600.jpg",
+    "https://web.archive.org/web/20250827191236im_/https://i.ebayimg.com/images/g/Oy8AAeSwz3pooeCA/s-l1600.jpg"
+   ],
+   "likedAt": "2026-09-29T03:05:44.289Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T03:05:44.289Z"
+   }
+  },
+  {
    "id": "etsy-c2df631c46",
    "platform": "etsy",
    "site": "etsy.com",
