@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "id": "etsy-1805b6e495",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4429424850/gianni-versace-design-vintage-shetland",
+   "title": "Gianni Versace design Vintage Shetland Wool Sweater Blue/Red Stripe Unisex MED",
+   "brand": "",
+   "price": {
+    "amount": "215.82",
+    "currency": "USD"
+   },
+   "priceText": "$159.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "MonteBGoods",
+   "location": "",
+   "availability": "InStock",
+   "description": "This is a late 80's early 90's world sweater. Tag is consistent for the time. Sweater was made in Hong Kong as some pieces were during that era. No holes some pilling in good vintage condition. See pictures for measurements",
+   "details": {},
+   "images": [
+    "data/items/etsy-1805b6e495/1.webp",
+    "data/items/etsy-1805b6e495/2.webp",
+    "data/items/etsy-1805b6e495/3.webp",
+    "data/items/etsy-1805b6e495/4.webp",
+    "data/items/etsy-1805b6e495/5.webp",
+    "data/items/etsy-1805b6e495/6.webp",
+    "data/items/etsy-1805b6e495/7.webp",
+    "data/items/etsy-1805b6e495/8.webp",
+    "data/items/etsy-1805b6e495/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/60670015/r/il/35e679/7581924111/il_1588xN.7581924111_jm2a.jpg",
+    "https://i.etsystatic.com/60670015/r/il/7151e9/7533988066/il_1588xN.7533988066_qi3l.jpg",
+    "https://i.etsystatic.com/60670015/r/il/9e046c/7533988088/il_1588xN.7533988088_bybb.jpg",
+    "https://i.etsystatic.com/60670015/r/il/1c93d8/7581924171/il_1588xN.7581924171_21lw.jpg",
+    "https://i.etsystatic.com/60670015/r/il/3ee140/7581924191/il_1588xN.7581924191_h1hn.jpg",
+    "https://i.etsystatic.com/60670015/r/il/24025e/7533988178/il_1588xN.7533988178_2ykm.jpg",
+    "https://i.etsystatic.com/60670015/r/il/36a743/7581924253/il_1588xN.7581924253_ckrt.jpg",
+    "https://i.etsystatic.com/60670015/r/il/bcace6/7533988220/il_1588xN.7533988220_2z10.jpg",
+    "https://i.etsystatic.com/60670015/r/il/35e679/7581924111/il_1080xN.7581924111_jm2a.jpg"
+   ],
+   "likedAt": "2026-09-29T09:38:06.058Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:38:06.058Z"
+   }
+  },
+  {
    "id": "etsy-04adfe1422",
    "platform": "etsy",
    "site": "etsy.com",
