@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "id": "etsy-09231258c6",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1519393218/vintage-80s-giorgio-armani-black-ivory",
+   "title": "Vintage 80s Giorgio Armani Black & Ivory Tweed Dot Check Suit Unworn w/ Tags | Made in Italy | Size 52R | 1980s Armani Designer Mens Suit",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "1258.00",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nThis absolutely beautiful vintage 80s Giorgio Armani black and ivory tweed dot check suit unworn with original tags is a shop favorite! Luxurious Armani tailoring with a bold shoulder frame and high waisted pleated slacks. Extremely versatile Fall/Winter suit to dress up or down. Timeless to tailor to your specifications worthy of any event. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Wool\n&lt;&gt; Size: Please refer to measurements for best fit. ( model wears a 40, and stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     BLAZER:\n     shoulder to shoulder: 19&quot;\n     underarm to underarm: 23&quot; ( 46&quot; around )\n     waist: 21&quot; ( 42&quot; around )\n     sleeve length from shoulder: 25&quot; (with 1.5&quot; extra length to let out)\n     overall length: 30.75&quot;\n     PANTS:\n     waist: 17&quot; ( 34&quot; around with 2.25&quot; extra length to let out)\n     front rise: 12.25&quot;\n     hips: 23&quot; ( 46&quot; around )\n     inseam: 36.5&quot; ( unhemmed ) \n     hem width: 9.5&quot;\n&lt;&gt; Labeled Italian 54R, please refer to measurements above for best fit.\n&lt;&gt; Condition: Great Vintage Condition. Unworn with tags still attached. Please note that all vintage items are not new and \ntherefore may have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out the entire shop for all things vintage for His and Hers.\n\nFor an exclusive look behind the scenes of The Vault and to shop early \nFollow us on INSTAGRAM \n@thevault1969\n\n* ALWAYS BE SURE TO READ OUR SHOP POLICIES, WE DO NOT ACCEPT RETURNS DUE TO THE NATURE OF BUYING VINTAGE. ANY AND ALL QUESTIONS ARE ENCOURAGED PRIOR TO PURCHASE!",
+   "details": {},
+   "images": [
+    "data/items/etsy-09231258c6/1.webp",
+    "data/items/etsy-09231258c6/2.webp",
+    "data/items/etsy-09231258c6/3.webp",
+    "data/items/etsy-09231258c6/4.webp",
+    "data/items/etsy-09231258c6/5.webp",
+    "data/items/etsy-09231258c6/6.webp",
+    "data/items/etsy-09231258c6/7.webp",
+    "data/items/etsy-09231258c6/8.webp",
+    "data/items/etsy-09231258c6/9.webp",
+    "data/items/etsy-09231258c6/10.webp",
+    "data/items/etsy-09231258c6/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/f8cca0/5136463834/il_1588xN.5136463834_86t8.jpg",
+    "https://i.etsystatic.com/8392227/r/il/14d3a9/5184683709/il_1588xN.5184683709_gk1c.jpg",
+    "https://i.etsystatic.com/8392227/r/il/1df459/5136463762/il_1588xN.5136463762_e7mi.jpg",
+    "https://i.etsystatic.com/8392227/r/il/233389/5184683669/il_1588xN.5184683669_kjnd.jpg",
+    "https://i.etsystatic.com/8392227/r/il/5087c6/5136463844/il_1588xN.5136463844_czek.jpg",
+    "https://i.etsystatic.com/8392227/r/il/567ae5/5136463838/il_1588xN.5136463838_pah9.jpg",
+    "https://i.etsystatic.com/8392227/r/il/01d38b/5184683597/il_1588xN.5184683597_lvpg.jpg",
+    "https://i.etsystatic.com/8392227/r/il/90155c/5184683621/il_1588xN.5184683621_t552.jpg",
+    "https://i.etsystatic.com/8392227/r/il/04d3d9/5136463848/il_1588xN.5136463848_ju63.jpg",
+    "https://i.etsystatic.com/8392227/r/il/fd9b8d/5184683805/il_1588xN.5184683805_16qb.jpg",
+    "https://i.etsystatic.com/8392227/r/il/f8cca0/5136463834/il_1080xN.5136463834_86t8.jpg"
+   ],
+   "likedAt": "2026-09-29T07:55:45.536Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T07:58:03.544Z"
+   }
+  },
+  {
    "id": "etsy-8adedbb015",
    "platform": "etsy",
    "site": "etsy.com",
@@ -50,58 +102,6 @@
    "archive": {
     "status": "pending",
     "requestedAt": "2026-09-29T07:56:46.778Z"
-   }
-  },
-  {
-   "id": "etsy-09231258c6",
-   "platform": "etsy",
-   "site": "etsy.com",
-   "url": "https://www.etsy.com/listing/1519393218/vintage-80s-giorgio-armani-black-ivory",
-   "title": "Vintage 80s Giorgio Armani Black & Ivory Tweed Dot Check Suit Unworn w/ Tags | Made in Italy | Size 52R | 1980s Armani Designer Mens Suit",
-   "brand": "TheVault1969",
-   "price": {
-    "amount": "1258.00",
-    "currency": "USD"
-   },
-   "priceText": "$183.12",
-   "size": "",
-   "condition": "",
-   "color": "",
-   "seller": "Shop",
-   "location": "Need to get in touch with the seller? Try messaging them on ",
-   "availability": "OutOfStock",
-   "description": "FREE DOMESTIC SHIPPING\n\nThis absolutely beautiful vintage 80s Giorgio Armani black and ivory tweed dot check suit unworn with original tags is a shop favorite! Luxurious Armani tailoring with a bold shoulder frame and high waisted pleated slacks. Extremely versatile Fall/Winter suit to dress up or down. Timeless to tailor to your specifications worthy of any event. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Wool\n&lt;&gt; Size: Please refer to measurements for best fit. ( model wears a 40, and stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     BLAZER:\n     shoulder to shoulder: 19&quot;\n     underarm to underarm: 23&quot; ( 46&quot; around )\n     waist: 21&quot; ( 42&quot; around )\n     sleeve length from shoulder: 25&quot; (with 1.5&quot; extra length to let out)\n     overall length: 30.75&quot;\n     PANTS:\n     waist: 17&quot; ( 34&quot; around with 2.25&quot; extra length to let out)\n     front rise: 12.25&quot;\n     hips: 23&quot; ( 46&quot; around )\n     inseam: 36.5&quot; ( unhemmed ) \n     hem width: 9.5&quot;\n&lt;&gt; Labeled Italian 54R, please refer to measurements above for best fit.\n&lt;&gt; Condition: Great Vintage Condition. Unworn with tags still attached. Please note that all vintage items are not new and \ntherefore may have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out the entire shop for all things vintage for His and Hers.\n\nFor an exclusive look behind the scenes of The Vault and to shop early \nFollow us on INSTAGRAM \n@thevault1969\n\n* ALWAYS BE SURE TO READ OUR SHOP POLICIES, WE DO NOT ACCEPT RETURNS DUE TO THE NATURE OF BUYING VINTAGE. ANY AND ALL QUESTIONS ARE ENCOURAGED PRIOR TO PURCHASE!",
-   "details": {},
-   "images": [
-    "data/items/etsy-09231258c6/1.webp",
-    "data/items/etsy-09231258c6/2.webp",
-    "data/items/etsy-09231258c6/3.webp",
-    "data/items/etsy-09231258c6/4.webp",
-    "data/items/etsy-09231258c6/5.webp",
-    "data/items/etsy-09231258c6/6.webp",
-    "data/items/etsy-09231258c6/7.webp",
-    "data/items/etsy-09231258c6/8.webp",
-    "data/items/etsy-09231258c6/9.webp",
-    "data/items/etsy-09231258c6/10.webp",
-    "data/items/etsy-09231258c6/11.webp"
-   ],
-   "sourceImages": [
-    "https://i.etsystatic.com/8392227/r/il/f8cca0/5136463834/il_1588xN.5136463834_86t8.jpg",
-    "https://i.etsystatic.com/8392227/r/il/14d3a9/5184683709/il_1588xN.5184683709_gk1c.jpg",
-    "https://i.etsystatic.com/8392227/r/il/1df459/5136463762/il_1588xN.5136463762_e7mi.jpg",
-    "https://i.etsystatic.com/8392227/r/il/233389/5184683669/il_1588xN.5184683669_kjnd.jpg",
-    "https://i.etsystatic.com/8392227/r/il/5087c6/5136463844/il_1588xN.5136463844_czek.jpg",
-    "https://i.etsystatic.com/8392227/r/il/567ae5/5136463838/il_1588xN.5136463838_pah9.jpg",
-    "https://i.etsystatic.com/8392227/r/il/01d38b/5184683597/il_1588xN.5184683597_lvpg.jpg",
-    "https://i.etsystatic.com/8392227/r/il/90155c/5184683621/il_1588xN.5184683621_t552.jpg",
-    "https://i.etsystatic.com/8392227/r/il/04d3d9/5136463848/il_1588xN.5136463848_ju63.jpg",
-    "https://i.etsystatic.com/8392227/r/il/fd9b8d/5184683805/il_1588xN.5184683805_16qb.jpg",
-    "https://i.etsystatic.com/8392227/r/il/f8cca0/5136463834/il_1080xN.5136463834_86t8.jpg"
-   ],
-   "likedAt": "2026-09-29T07:55:45.536Z",
-   "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T07:55:45.536Z"
    }
   },
   {
