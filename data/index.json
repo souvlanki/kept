@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-d561f2c005",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1786087087/true-vintage-1960s1970s-bianchi-firenze",
+   "title": "True Vintage 1960&#39;s/1970&#39;s Bianchi Firenze Chain Stitched Wool Bicycle Jersey Size L",
+   "brand": "ThriftPiff",
+   "price": {
+    "amount": "200.84",
+    "currency": "USD"
+   },
+   "priceText": "",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "InStock",
+   "description": "Bianchi Firenze wool bicycle jersey from the 1960&#39;s/1970&#39;s, made in Italy. Chain stitched logos on the front and back of the jersey, pockets on the back. Wool knit material. No size tag, fits size L best, supposed to fit tight to the body. 8/10 condition, some minor holes throughout. 21x30.5",
+   "details": {},
+   "images": [
+    "data/items/etsy-d561f2c005/1.webp",
+    "data/items/etsy-d561f2c005/2.webp",
+    "data/items/etsy-d561f2c005/3.webp",
+    "data/items/etsy-d561f2c005/4.webp",
+    "data/items/etsy-d561f2c005/5.webp",
+    "data/items/etsy-d561f2c005/6.webp",
+    "data/items/etsy-d561f2c005/7.webp",
+    "data/items/etsy-d561f2c005/8.webp",
+    "data/items/etsy-d561f2c005/9.webp",
+    "data/items/etsy-d561f2c005/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/53075553/r/il/f036e9/6233300774/il_1588xN.6233300774_8g2c.jpg",
+    "https://i.etsystatic.com/53075553/r/il/bf263a/6281360679/il_1588xN.6281360679_lhkg.jpg",
+    "https://i.etsystatic.com/53075553/r/il/0c3fa4/6233300782/il_1588xN.6233300782_9iqo.jpg",
+    "https://i.etsystatic.com/53075553/r/il/acaf71/6281360677/il_1588xN.6281360677_76d0.jpg",
+    "https://i.etsystatic.com/53075553/r/il/f2c83e/6233300790/il_1588xN.6233300790_3swh.jpg",
+    "https://i.etsystatic.com/53075553/r/il/345435/6281361391/il_1588xN.6281361391_5qi8.jpg",
+    "https://i.etsystatic.com/53075553/r/il/78259b/6233300798/il_1588xN.6233300798_2m78.jpg",
+    "https://i.etsystatic.com/53075553/r/il/3253b6/6233301604/il_1588xN.6233301604_l5qh.jpg",
+    "https://i.etsystatic.com/53075553/r/il/9289e7/6233301552/il_1588xN.6233301552_favj.jpg",
+    "https://i.etsystatic.com/53075553/r/il/f036e9/6233300774/il_1080xN.6233300774_8g2c.jpg"
+   ],
+   "likedAt": "2026-09-29T08:06:48.858Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:06:48.858Z"
+   }
+  },
+  {
    "id": "etsy-03c351e75c",
    "platform": "etsy",
    "site": "etsy.com",
