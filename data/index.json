@@ -428,8 +428,9 @@
    ],
    "likedAt": "2026-09-29T09:03:59.446Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T09:03:59.446Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929090353/https://www.etsy.com/listing/4371286832/70s-vintage-gianni-versace-police-bomber",
+    "archivedAt": "2026-09-29T09:03:53Z"
    }
   },
   {
