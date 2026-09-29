@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "id": "ebay-95b4259b6a",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/158353039887",
+   "title": "Giorgio Armani Le Collezioni Linen Rayon Wool Dress Pants Black 32 Used",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "265.48",
+    "currency": "USD"
+   },
+   "priceText": "US $265.48",
+   "size": "32",
+   "condition": "Pre-owned - Good",
+   "color": "Black",
+   "seller": "J-TRENDHUB",
+   "location": "Tokyo, Japan, Japan",
+   "availability": "InStock",
+   "description": "Material: Linen, rayon and wool blend. Colour: Black. Item type: Dress trousers / slacks. Condition: Still wearable with plenty of life left — shows signs of wear, and the inner waist button is missing.",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "Black",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country of Origin": "Italy",
+    "Customized": "NA",
+    "Delivery": "Estimated between Mon, Oct 5 and Thu, Oct 15 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Import fees": "Includes import fees.",
+    "Inseam": "80 cm",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "Free eBay SpeedPAK Expedited. See detailsfor shippingLocated in: Tokyo, Japan, Japan",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Style": "Dress Trousers"
+   },
+   "images": [
+    "data/items/ebay-95b4259b6a/1.webp",
+    "data/items/ebay-95b4259b6a/2.webp",
+    "data/items/ebay-95b4259b6a/3.webp",
+    "data/items/ebay-95b4259b6a/4.webp",
+    "data/items/ebay-95b4259b6a/5.webp",
+    "data/items/ebay-95b4259b6a/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/Rh4AAeSw2LFquMbD/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ceoAAeSwQfBquMbG/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/b0AAAeSw7rVquMbK/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/aE8AAeSwC7lquMbP/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/KqkAAeSwm3FquMbU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/rJcAAeSwQGtquMbX/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-29T09:41:29.680Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:41:29.680Z"
+   }
+  },
+  {
    "id": "etsy-1805b6e495",
    "platform": "etsy",
    "site": "etsy.com",
