@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "etsy-649f22fce7",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1887239448/vintage-90s-zanella-terracotta-shadow",
+   "title": "Vintage 90s ZANELLA Terracotta Shadow Plaid Triple Pleated Gabardine Cuffed Slacks | Made in Italy | 100% Wool | 1990s Designer Mens Pants",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "135.16",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAwesome vintage 90s Zanella terracotta shadow plaid triple pleated slacks. Incredible lightweight wool gabardine fabric and silhouette that falls to a cuffed hem. Perfect to dress up or down. Made in Italy. Please refer to measurements below. \n\n&lt;&gt; Designer: Zanella \n&lt;&gt; Made in Italy\n&lt;&gt; 100% Wool Gabardine \n&lt;&gt; Size: Please refer to measurements below. ( Model stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right. *NOTE THESE CAN BE TAILORED FOR A SMALLER OR LARGER FIT.\n     waist: 18.75&quot; ( 37.5&quot; around with 0.75&quot; left to let out and can be brought in up to 3&quot; for a smaller fit )\n     rise: 13&quot;\n     hips: 25.75&quot; ( 51.5&quot; around )\n     thigh: 16&quot; ( 32&quot; around )\n     inseam: 31.75&quot; ( with 1.75&quot; to let out if loosing cuff )\n     cuff: 9.5&quot; ( 19&quot; around )\n&lt;&gt; Labeled size 36, please refer to measurements above for best fit.\n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-649f22fce7/1.webp",
+    "data/items/etsy-649f22fce7/2.webp",
+    "data/items/etsy-649f22fce7/3.webp",
+    "data/items/etsy-649f22fce7/4.webp",
+    "data/items/etsy-649f22fce7/5.webp",
+    "data/items/etsy-649f22fce7/6.webp",
+    "data/items/etsy-649f22fce7/7.webp",
+    "data/items/etsy-649f22fce7/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/e8f8e3/6796076768/il_1588xN.6796076768_gcyc.jpg",
+    "https://i.etsystatic.com/8392227/r/il/3506e9/6844086095/il_1588xN.6844086095_oc7b.jpg",
+    "https://i.etsystatic.com/8392227/r/il/eb1f84/6796081108/il_1588xN.6796081108_s2vc.jpg",
+    "https://i.etsystatic.com/8392227/r/il/e68636/6796081110/il_1588xN.6796081110_pomp.jpg",
+    "https://i.etsystatic.com/8392227/r/il/854c6b/6796081112/il_1588xN.6796081112_5lp6.jpg",
+    "https://i.etsystatic.com/8392227/r/il/23a085/6844086143/il_1588xN.6844086143_r07z.jpg",
+    "https://i.etsystatic.com/8392227/r/il/bdb3ad/7137874440/il_1588xN.7137874440_2es2.jpg",
+    "https://i.etsystatic.com/8392227/r/il/e8f8e3/6796076768/il_1080xN.6796076768_gcyc.jpg"
+   ],
+   "likedAt": "2026-09-29T08:18:27.719Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:18:27.719Z"
+   }
+  },
+  {
    "id": "etsy-80df4ed834",
    "platform": "etsy",
    "site": "etsy.com",
