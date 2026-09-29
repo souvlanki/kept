@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-a748056bc3",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1690497535/1950s60s-vintage-french-artists-smock",
+   "title": "1950s/60s Vintage French artists smock striped workshirt work shirt S/M 39",
+   "brand": "PatchedandFaded",
+   "price": {
+    "amount": "103.57",
+    "currency": "USD"
+   },
+   "priceText": "$74.45",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "There are detailed measurements below! Please read all the way down.\n\n1950s -60s striped cotton work shirt. \n\n Made of very soft midweight cotton with yellow/white stripe. \nOpens with three buttons at the chest. Pullover style and very long tail. Buttons to cuffs. \nVintage so has signs of use: the surface has some natural &quot;bobbling&quot; and pulls, but no tears I can see. Worn, but loved.\n\nRoughly a modern Medium. Marked size is 39. Actual measurements when laid flat:\nArmpit to armpit 23.5&quot; 60cm\nAcross Shoulders 17&quot; 43cm\nArmpit to cuff 21.5&quot; 55cm\nShoulder cuff 23&quot; 59cm\nLength down back 34&quot; 87cm\nPlease compare with an item you own before ordering.\n\n***********************************************\nDeliveries\n\n-I&#39;m happy to combine postage on multiple purchases- just ask beforehand.\n\n-Import duties and taxes are buyers responsibility. We also can’t predict how long Customs may hold on to items for inspection.\n\n-Everything is sent with a tracking number. We post everything within 3 working days. Everything is packaged safely with recycled material. We don’t make a penny from P&P and we charge you what the post service charges us!\n\n-If a parcel arrives damaged, it is the buyer&#39;s responsibility to file a complaint immediately with the delivery service. Any insurance is void unless this is done at delivery time!\n\nReturns and refunds\n\n-If there is anything you are unsure about or if you need further information about an item to re-assure you please ask before buying! I aim to provide as much information as possible and make my listings as accurate as I can.\n\n-Refunds are only for the item price and not for shipping costs and will be issued when I get the item back.\n\n-Reimportation costs and any other damage will be deducted from the refundable amount.",
+   "details": {},
+   "images": [
+    "data/items/etsy-a748056bc3/1.webp",
+    "data/items/etsy-a748056bc3/2.webp",
+    "data/items/etsy-a748056bc3/3.webp",
+    "data/items/etsy-a748056bc3/4.webp",
+    "data/items/etsy-a748056bc3/5.webp",
+    "data/items/etsy-a748056bc3/6.webp",
+    "data/items/etsy-a748056bc3/7.webp",
+    "data/items/etsy-a748056bc3/8.webp",
+    "data/items/etsy-a748056bc3/9.webp",
+    "data/items/etsy-a748056bc3/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/13710205/r/il/bb5d1d/5864484971/il_1588xN.5864484971_rzl1.jpg",
+    "https://i.etsystatic.com/13710205/r/il/45e330/5864467539/il_1588xN.5864467539_kud9.jpg",
+    "https://i.etsystatic.com/13710205/r/il/09f13f/5816397548/il_1588xN.5816397548_7g2b.jpg",
+    "https://i.etsystatic.com/13710205/r/il/67bb19/5816397872/il_1588xN.5816397872_6hmi.jpg",
+    "https://i.etsystatic.com/13710205/r/il/33381f/5864484583/il_1588xN.5864484583_1rys.jpg",
+    "https://i.etsystatic.com/13710205/r/il/50c068/5864484973/il_1588xN.5864484973_iqza.jpg",
+    "https://i.etsystatic.com/13710205/r/il/fdbd89/5816398496/il_1588xN.5816398496_5lxq.jpg",
+    "https://i.etsystatic.com/13710205/r/il/282891/5816399246/il_1588xN.5816399246_erl2.jpg",
+    "https://i.etsystatic.com/13710205/r/il/b499f6/5864485757/il_1588xN.5864485757_iduc.jpg",
+    "https://i.etsystatic.com/13710205/r/il/bb5d1d/5864484971/il_1080xN.5864484971_rzl1.jpg"
+   ],
+   "likedAt": "2026-09-29T07:50:01.960Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T07:50:01.960Z"
+   }
+  },
+  {
    "id": "instagram-29920acd6c",
    "platform": "instagram",
    "site": "Instagram",
