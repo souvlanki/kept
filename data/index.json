@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "id": "etsy-8eb29da6db",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4581528404/giorgio-armani-le-collezioni-linen-shirt",
+   "title": "Giorgio Armani Le Collezioni Linen Shirt Mens Small Red Plaid Band Collar Vtg",
+   "brand": "",
+   "price": {
+    "amount": "185.29",
+    "currency": "USD"
+   },
+   "priceText": "$79.99",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "HisAndHersCurated",
+   "location": "",
+   "availability": "InStock",
+   "description": "The Giorgio Armani Le Collezioni Linen Shirt is a vintage piece with a classic red plaid design and a stylish band collar. Made in Italy, this shirt is crafted from high-quality linen fabric, featuring long sleeves and a button closure for a sophisticated look. Perfect for casual or travel occasions, this shirt from the renowned designer brand offers a modern yet retro vibe with its timeless design and quality construction. Ideal for all seasons, this shirt is a versatile and stylish addition to any man's wardrobe.",
+   "details": {},
+   "images": [
+    "data/items/etsy-8eb29da6db/1.webp",
+    "data/items/etsy-8eb29da6db/2.webp",
+    "data/items/etsy-8eb29da6db/3.webp",
+    "data/items/etsy-8eb29da6db/4.webp",
+    "data/items/etsy-8eb29da6db/5.webp",
+    "data/items/etsy-8eb29da6db/6.webp",
+    "data/items/etsy-8eb29da6db/7.webp",
+    "data/items/etsy-8eb29da6db/8.webp",
+    "data/items/etsy-8eb29da6db/9.webp",
+    "data/items/etsy-8eb29da6db/10.webp",
+    "data/items/etsy-8eb29da6db/11.webp",
+    "data/items/etsy-8eb29da6db/12.webp",
+    "data/items/etsy-8eb29da6db/13.webp",
+    "data/items/etsy-8eb29da6db/14.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/67462492/r/il/875b3f/8569993166/il_1588xN.8569993166_gf59.jpg",
+    "https://i.etsystatic.com/67462492/r/il/63a658/8569993184/il_1588xN.8569993184_47n9.jpg",
+    "https://i.etsystatic.com/67462492/r/il/f9dbd6/8569993220/il_1588xN.8569993220_ja0m.jpg",
+    "https://i.etsystatic.com/67462492/r/il/42245a/8569993240/il_1588xN.8569993240_pz93.jpg",
+    "https://i.etsystatic.com/67462492/r/il/d196cc/8569993290/il_1588xN.8569993290_nlyc.jpg",
+    "https://i.etsystatic.com/67462492/r/il/f07c2d/8569993330/il_1588xN.8569993330_lfcu.jpg",
+    "https://i.etsystatic.com/67462492/r/il/7d5c9d/8617838579/il_1588xN.8617838579_hpnq.jpg",
+    "https://i.etsystatic.com/67462492/r/il/742f44/8569993416/il_1588xN.8569993416_q5k8.jpg",
+    "https://i.etsystatic.com/67462492/r/il/cc6817/8569993476/il_1588xN.8569993476_pfqb.jpg",
+    "https://i.etsystatic.com/67462492/r/il/3587ab/8617838709/il_1588xN.8617838709_tdz9.jpg",
+    "https://i.etsystatic.com/67462492/r/il/a089cc/8569993554/il_1588xN.8569993554_2idi.jpg",
+    "https://i.etsystatic.com/67462492/r/il/db09a6/8569993594/il_1588xN.8569993594_3joj.jpg",
+    "https://i.etsystatic.com/67462492/r/il/67dbe5/8569993642/il_1588xN.8569993642_b9g1.jpg",
+    "https://i.etsystatic.com/67462492/r/il/875b3f/8569993166/il_1080xN.8569993166_gf59.jpg"
+   ],
+   "likedAt": "2026-09-29T09:24:45.313Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:24:45.313Z"
+   }
+  },
+  {
    "id": "etsy-baeb8c7e19",
    "platform": "etsy",
    "site": "etsy.com",
