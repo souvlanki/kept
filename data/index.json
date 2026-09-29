@@ -1,6 +1,44 @@
 {
  "items": [
   {
+   "id": "etsy-e7354e054c",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1762207460/90s-armani-button-up",
+   "title": "90s Armani Button Up",
+   "brand": "ShopJonesEclectic",
+   "price": {
+    "amount": "87.20",
+    "currency": "USD"
+   },
+   "priceText": "$52.32",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "OutOfStock",
+   "description": "90s Armani button up shirt. Soft cotton and silk blend. Men’s size S.\n\nPTP 22”\nCollar to hem 29”\n\nIn great vintage condition but with an older piece, please handle with care.",
+   "details": {},
+   "images": [
+    "data/items/etsy-e7354e054c/1.webp",
+    "data/items/etsy-e7354e054c/2.webp",
+    "data/items/etsy-e7354e054c/3.webp",
+    "data/items/etsy-e7354e054c/4.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/22540500/r/il/a0da2f/6188339344/il_1588xN.6188339344_cdzp.jpg",
+    "https://i.etsystatic.com/22540500/r/il/46c4ce/6236363741/il_1588xN.6236363741_1sh9.jpg",
+    "https://i.etsystatic.com/22540500/r/il/0a781a/6236363745/il_1588xN.6236363745_hats.jpg",
+    "https://i.etsystatic.com/22540500/r/il/a0da2f/6188339344/il_1080xN.6188339344_cdzp.jpg"
+   ],
+   "likedAt": "2026-09-29T08:59:46.587Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:59:46.587Z"
+   }
+  },
+  {
    "id": "etsy-5829db813c",
    "platform": "etsy",
    "site": "etsy.com",
