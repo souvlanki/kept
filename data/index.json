@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "etsy-fe9f6c2a60",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1016924612/vintage-giorgio-armani-sweater",
+   "title": "Vintage Giorgio Armani Sweater",
+   "brand": "RexandRexy",
+   "price": {
+    "amount": "136.25",
+    "currency": "USD"
+   },
+   "priceText": "$38.15",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "Vintage Giorgio Armani 100% wool, tomato red & green geometric designs, crew neck, mint condition, no wear or tear, no stains. Size Medium\nMeasurements\nChest 42in\nSleeves 32in\nlength 25in",
+   "details": {},
+   "images": [
+    "data/items/etsy-fe9f6c2a60/1.webp",
+    "data/items/etsy-fe9f6c2a60/2.webp",
+    "data/items/etsy-fe9f6c2a60/3.webp",
+    "data/items/etsy-fe9f6c2a60/4.webp",
+    "data/items/etsy-fe9f6c2a60/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/7874920/r/il/bcbd4f/3126294840/il_1588xN.3126294840_itok.jpg",
+    "https://i.etsystatic.com/7874920/r/il/14527d/3174013863/il_1588xN.3174013863_sdx3.jpg",
+    "https://i.etsystatic.com/7874920/r/il/b199f3/3126295466/il_1588xN.3126295466_aull.jpg",
+    "https://i.etsystatic.com/7874920/r/il/892091/3126295722/il_1588xN.3126295722_jhc1.jpg",
+    "https://i.etsystatic.com/7874920/r/il/bcbd4f/3126294840/il_1080xN.3126294840_itok.jpg"
+   ],
+   "likedAt": "2026-09-29T09:09:38.990Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:09:38.990Z"
+   }
+  },
+  {
    "id": "etsy-22914093f5",
    "platform": "etsy",
    "site": "etsy.com",
