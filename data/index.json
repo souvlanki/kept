@@ -1,6 +1,68 @@
 {
  "items": [
   {
+   "id": "etsy-a3ae480b47",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4420743406/80s-rare-vintage-gianni-versace-brown",
+   "title": "80s Rare Vintage Gianni Versace Brown Leather Cardigan Jacket Mens Size L-XL",
+   "brand": "",
+   "price": {
+    "amount": "466.00",
+    "currency": "USD"
+   },
+   "priceText": "$95.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "FullClothingStore",
+   "location": "",
+   "availability": "InStock",
+   "description": "Please note!\n\nThe jacket is slightly oversized, so be sure to check the measurements as there is no size tag!\n\n\n\nAs the jacket is over 30 years old, it has some minor defects, such as stains and scratches. Please look carefully at the photos.\n\nI am always happy to provide additional photos and measurements.\n\n\nBack (collar to hem):   26.5 \" / 67 cm\nSleeve length (shoulder to cuff): 19.3 \" /  49 cm\nChest (pit to pit):  31.5 \"  /  80  cm\nShoulders:  33.5 \" /  85 cm\n\nPlease check all photos and measurements!\n\n\nShipping from Ukraine\nApproximate delivery time  2-4 weeks\n\n\nPlease contact us about any questions before and after purchase.",
+   "details": {},
+   "images": [
+    "data/items/etsy-a3ae480b47/1.webp",
+    "data/items/etsy-a3ae480b47/2.webp",
+    "data/items/etsy-a3ae480b47/3.webp",
+    "data/items/etsy-a3ae480b47/4.webp",
+    "data/items/etsy-a3ae480b47/5.webp",
+    "data/items/etsy-a3ae480b47/6.webp",
+    "data/items/etsy-a3ae480b47/7.webp",
+    "data/items/etsy-a3ae480b47/8.webp",
+    "data/items/etsy-a3ae480b47/9.webp",
+    "data/items/etsy-a3ae480b47/10.webp",
+    "data/items/etsy-a3ae480b47/11.webp",
+    "data/items/etsy-a3ae480b47/12.webp",
+    "data/items/etsy-a3ae480b47/13.webp",
+    "data/items/etsy-a3ae480b47/14.webp",
+    "data/items/etsy-a3ae480b47/15.webp",
+    "data/items/etsy-a3ae480b47/16.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/47568273/r/il/2cbe20/8398159885/il_1588xN.8398159885_159a.jpg",
+    "https://i.etsystatic.com/47568273/r/il/a2566f/8350273360/il_1588xN.8350273360_tmsa.jpg",
+    "https://i.etsystatic.com/47568273/r/il/a568af/8398159953/il_1588xN.8398159953_lu8z.jpg",
+    "https://i.etsystatic.com/47568273/r/il/d245b4/8350273252/il_1588xN.8350273252_b3zp.jpg",
+    "https://i.etsystatic.com/47568273/r/il/74da89/8350273258/il_1588xN.8350273258_327n.jpg",
+    "https://i.etsystatic.com/47568273/r/il/2980f1/8350273554/il_1588xN.8350273554_9584.jpg",
+    "https://i.etsystatic.com/47568273/r/il/228968/8350274216/il_1588xN.8350274216_a71m.jpg",
+    "https://i.etsystatic.com/47568273/r/il/ff2566/8350274270/il_1588xN.8350274270_37rg.jpg",
+    "https://i.etsystatic.com/47568273/r/il/76d0da/8398160431/il_1588xN.8398160431_ari8.jpg",
+    "https://i.etsystatic.com/47568273/r/il/08a0b2/8398160881/il_1588xN.8398160881_n6c7.jpg",
+    "https://i.etsystatic.com/47568273/r/il/4edbb8/8398160271/il_1588xN.8398160271_5466.jpg",
+    "https://i.etsystatic.com/47568273/r/il/0486a9/8350274336/il_1588xN.8350274336_768k.jpg",
+    "https://i.etsystatic.com/47568273/r/il/a6d45f/8350274274/il_1588xN.8350274274_9uwg.jpg",
+    "https://i.etsystatic.com/47568273/r/il/7c92f0/8350274286/il_1588xN.8350274286_ey8k.jpg",
+    "https://i.etsystatic.com/47568273/r/il/492d09/8398161423/il_1588xN.8398161423_1uvi.jpg",
+    "https://i.etsystatic.com/47568273/r/il/f76b0b/8350274880/il_1588xN.8350274880_6lbq.jpg"
+   ],
+   "likedAt": "2026-09-29T09:30:01.479Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:30:01.479Z"
+   }
+  },
+  {
    "id": "etsy-8eb29da6db",
    "platform": "etsy",
    "site": "etsy.com",
