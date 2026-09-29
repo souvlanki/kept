@@ -631,8 +631,9 @@
    ],
    "likedAt": "2026-09-29T08:01:22.369Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T08:01:22.369Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929080138/https://www.etsy.com/listing/1497286003/vintage-80s-giorgio-armani-black-ivory",
+    "archivedAt": "2026-09-29T08:01:38Z"
    }
   },
   {
