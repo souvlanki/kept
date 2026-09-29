@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "etsy-35cefb1bfa",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1528799371/vintage-le-glazik-depius-1928-workers",
+   "title": "Vintage Le Glazik Depius 1928 Workers Jacket",
+   "brand": "ShineOnCrazyVintage",
+   "price": {
+    "amount": "272.50",
+    "currency": "USD"
+   },
+   "priceText": "$100.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "InStock",
+   "description": "✅ I’m Open To Offer\n✅ Make Sure To Check All Photo And Measurements\n✅ Message Me If You Have Any Question\n✅ Look At My Other Item For Discounts\n✅ Leave A Follow For Drops And New Item\n\nSize On Tag : 34\n\nMEASUREMENTS\n✂️ Chest ( Armpit To Armpit ) - 18\n✂️ Length ( Top Shoulder To Hem ) - 24\n✂️ Shoulder ( Shoulder to Shoulder ) - 14.5\n✂️ Sleeve Length ( Top Of Shoulder To Hem Of Sleeve ) - 22.5\n\nLV 72\n\nMATERIALS : Refer Photo\n\nCONDITION :Refer Photo\n\nSHIPPING\n🚚 Standard Shipping $25\n🚚 DHL Express + $25 ( 3-7 Business Day )\n\nPAYMENT \n💰 We accept All Payment support by Etsy. The item will be sent within 2-5 days after payment is completed.\n\nREFUNDS\n🔁 Refunds Are Available If Any Item Received Is Not As We Described. No Refunds For Wrong Sizes So Please Check And Compare Measurements To Something You Own Before Bidding. Most Of My Items Are Vintage/Used Items, So Please Check Pictures And Ask Questions. Thank You.",
+   "details": {},
+   "images": [
+    "data/items/etsy-35cefb1bfa/1.webp",
+    "data/items/etsy-35cefb1bfa/2.webp",
+    "data/items/etsy-35cefb1bfa/3.webp",
+    "data/items/etsy-35cefb1bfa/4.webp",
+    "data/items/etsy-35cefb1bfa/5.webp",
+    "data/items/etsy-35cefb1bfa/6.webp",
+    "data/items/etsy-35cefb1bfa/7.webp",
+    "data/items/etsy-35cefb1bfa/8.webp",
+    "data/items/etsy-35cefb1bfa/9.webp",
+    "data/items/etsy-35cefb1bfa/10.webp",
+    "data/items/etsy-35cefb1bfa/11.webp",
+    "data/items/etsy-35cefb1bfa/12.webp",
+    "data/items/etsy-35cefb1bfa/13.webp",
+    "data/items/etsy-35cefb1bfa/14.webp",
+    "data/items/etsy-35cefb1bfa/15.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/27071082/r/il/8ca2a5/5162582629/il_1588xN.5162582629_rlo7.jpg",
+    "https://i.etsystatic.com/27071082/r/il/c90276/5114350614/il_1588xN.5114350614_jfmi.jpg",
+    "https://i.etsystatic.com/27071082/r/il/313990/5162583039/il_1588xN.5162583039_fihm.jpg",
+    "https://i.etsystatic.com/27071082/r/il/e7c4ea/5114351272/il_1588xN.5114351272_5e91.jpg",
+    "https://i.etsystatic.com/27071082/r/il/c4d08f/5114351502/il_1588xN.5114351502_5vus.jpg",
+    "https://i.etsystatic.com/27071082/r/il/f10fb7/5162583935/il_1588xN.5162583935_fmo2.jpg",
+    "https://i.etsystatic.com/27071082/r/il/da37ce/5114352010/il_1588xN.5114352010_np6d.jpg",
+    "https://i.etsystatic.com/27071082/r/il/b61a75/5162584377/il_1588xN.5162584377_o0kh.jpg",
+    "https://i.etsystatic.com/27071082/r/il/1b587d/5114353932/il_1588xN.5114353932_d4b1.jpg",
+    "https://i.etsystatic.com/27071082/r/il/d63f29/5114356388/il_1588xN.5114356388_jtll.jpg",
+    "https://i.etsystatic.com/27071082/r/il/8ca2a5/5162582629/il_75x75.5162582629_rlo7.jpg",
+    "https://i.etsystatic.com/27071082/r/il/e7c4ea/5114351272/il_75x75.5114351272_5e91.jpg",
+    "https://i.etsystatic.com/27071082/r/il/c4d08f/5114351502/il_75x75.5114351502_5vus.jpg",
+    "https://i.etsystatic.com/27071082/r/il/b61a75/5162584377/il_75x75.5162584377_o0kh.jpg",
+    "https://i.etsystatic.com/27071082/r/il/8ca2a5/5162582629/il_1080xN.5162582629_rlo7.jpg"
+   ],
+   "likedAt": "2026-09-29T09:10:24.486Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:10:24.486Z"
+   }
+  },
+  {
    "id": "etsy-0facd44d9a",
    "platform": "etsy",
    "site": "etsy.com",
