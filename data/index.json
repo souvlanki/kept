@@ -130,8 +130,9 @@
    ],
    "likedAt": "2026-09-29T08:59:46.587Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T08:59:46.587Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929085944/https://www.etsy.com/listing/1762207460/90s-armani-button-up",
+    "archivedAt": "2026-09-29T08:59:44Z"
    }
   },
   {
