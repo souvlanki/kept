@@ -156,8 +156,9 @@
    ],
    "likedAt": "2026-09-29T09:05:47.336Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-09-29T09:05:47.336Z"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20260929090547/https://www.etsy.com/listing/895140241/vintage-90s-marithe-francos-girbaud",
+    "archivedAt": "2026-09-29T09:05:47Z"
    }
   },
   {
