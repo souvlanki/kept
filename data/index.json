@@ -1,10 +1,10 @@
 {
  "items": [
   {
-   "id": "other-dee24097c1",
-   "platform": "other",
+   "id": "ebay-f9798c4856",
+   "platform": "ebay",
    "site": "eBay",
-   "url": "https://web.archive.org/web/20250827191236/https://www.ebay.com/itm/157251077866?_skw=men+armani+jacket&itmmeta=01K2Z9TVEBGMX94J3C5Y4JYM4M&hash=item249ce506ea%3Ag%3AOy8AAeSwz3pooeCA&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1fPuA0m4zupPfVsM5wjIFCrXkqqGj0wYq6xJkrv9qVu%2F4Re7%2FAXigLTRxztPhMEAMLVuVHyCBKKB%2FF3CJsQdzLLhXftOcOdwkGki7q%2B71RgLrCOWz6XA%2F6iqAfGYfj2N4Ic71BTT1Z7OoEsv5SLIpmt9sIJPNP0isMGnEWiMszG4njDKVrDJY8KU4OOqjckIAXv3AiUUSSV724ysQFD6NlnXsCjOa8WM%2BMXrmo7UywMcHYkHGKQmlQpcjJOHw490jw%3D%7Ctkp%3ABk9SR8C36-mXZg&LH_ItemCondition=1500%7C3000",
+   "url": "https://www.ebay.com/itm/157251077866",
    "title": "Vintage Giorgio Armani Jacket Coat Shearling Lamb Fur Made In Italy Sz 52 USA 42",
    "brand": "Giorgio Armani",
    "price": {
@@ -15,7 +15,7 @@
    "size": "USA 42 Italy 52",
    "condition": "Pre-owned - Good",
    "color": "Green",
-   "seller": "",
+   "seller": "vintagesale1",
    "location": "Sacramento, California, United States",
    "availability": "https://web.archive.org/web/20250827191236/https://schema.org/OutOfStock",
    "description": "This Vintage Giorgio Armani Jacket Coat is a luxurious and stylish addition to any wardrobe. Made in Italy with high-quality shearling lamb fur and cotton outer shell, this heavyweight bomber jacket is perfect for travel, casual outings, and even activities such as walking, riding, hunting, and racing. The green color, solid pattern, and fur trim accents add a touch of sophistication, while the zip closure and bodywarmer features make it comfortable and practical for everyday wear. This unisex jacket in size USA 42 (Italy 52) exudes a vintage charm with its unique design and high-performance capabilities.",
@@ -45,18 +45,47 @@
     "Vintage": "Yes",
     "Warmth": "Heavyweight"
    },
-   "images": [],
-   "sourceImages": [
-    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/Oy8AAeSwz3pooeCA/s-l1600.jpg",
-    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/SyQAAeSwPq5ooeCA/s-l1600.jpg",
-    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/IAcAAeSwo9xooeCB/s-l1600.jpg",
-    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/ZdMAAeSwcfZooeCB/s-l1600.jpg",
-    "https://web.archive.org/web/20250827191236/https://i.ebayimg.com/images/g/VIUAAeSw4d5ooeCD/s-l1600.jpg",
-    "https://web.archive.org/web/20250827191236im_/https://i.ebayimg.com/images/g/Oy8AAeSwz3pooeCA/s-l1600.jpg"
+   "images": [
+    "data/items/ebay-f9798c4856/1.webp",
+    "data/items/ebay-f9798c4856/2.webp",
+    "data/items/ebay-f9798c4856/3.webp",
+    "data/items/ebay-f9798c4856/4.webp",
+    "data/items/ebay-f9798c4856/5.webp",
+    "data/items/ebay-f9798c4856/6.webp",
+    "data/items/ebay-f9798c4856/7.webp",
+    "data/items/ebay-f9798c4856/8.webp",
+    "data/items/ebay-f9798c4856/9.webp",
+    "data/items/ebay-f9798c4856/10.webp",
+    "data/items/ebay-f9798c4856/11.webp",
+    "data/items/ebay-f9798c4856/12.webp",
+    "data/items/ebay-f9798c4856/13.webp",
+    "data/items/ebay-f9798c4856/14.webp",
+    "data/items/ebay-f9798c4856/15.webp",
+    "data/items/ebay-f9798c4856/16.webp"
    ],
-   "likedAt": "2026-09-29T03:05:44.289Z",
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/Oy8AAeSwz3pooeCA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/SyQAAeSwPq5ooeCA/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/IAcAAeSwo9xooeCB/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ZdMAAeSwcfZooeCB/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/VIUAAeSw4d5ooeCD/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/qt0AAeSw2cNooeCD/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/qSIAAeSwzG9ooeCE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/JG0AAeSwpsxooeCF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/IBsAAeSwpZpooeCF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/IboAAeSwHS9ooeCG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/VaAAAeSwav5ooeCG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/hHMAAeSwh6pooeCH/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Vt8AAeSws6pooeCH/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/NBIAAeSwo1looeCI/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Cb4AAeSwcfVooeCJ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/v0oAAeSw52BooeCJ/s-l1600.webp"
+   ],
+   "likedAt": "2026-09-29T03:22:14.428Z",
    "archive": {
-    "status": "failed"
+    "status": "archived",
+    "url": "https://web.archive.org/web/20250827191236/https://www.ebay.com/itm/157251077866?_skw=men+armani+jacket&itmmeta=01K2Z9TVEBGMX94J3C5Y4JYM4M&hash=item249ce506ea%3Ag%3AOy8AAeSwz3pooeCA&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1fPuA0m4zupPfVsM5wjIFCrXkqqGj0wYq6xJkrv9qVu%2F4Re7%2FAXigLTRxztPhMEAMLVuVHyCBKKB%2FF3CJsQdzLLhXftOcOdwkGki7q%2B71RgLrCOWz6XA%2F6iqAfGYfj2N4Ic71BTT1Z7OoEsv5SLIpmt9sIJPNP0isMGnEWiMszG4njDKVrDJY8KU4OOqjckIAXv3AiUUSSV724ysQFD6NlnXsCjOa8WM%2BMXrmo7UywMcHYkHGKQmlQpcjJOHw490jw%3D%7Ctkp%3ABk9SR8C36-mXZg&LH_ItemCondition=1500%7C3000",
+    "archivedAt": "2025-08-27T19:12:36Z"
    }
   },
   {
