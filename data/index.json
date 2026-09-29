@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "id": "etsy-03c351e75c",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1733170197/vintage-giorgio-armani-collezioni",
+   "title": "Vintage GIORGIO ARMANI COLLEZIONI Charcoal Gray Cashmere Blend Shawl Collar Chore Jacket w/ Insulated Lining | Designer Armani Wool Jacket",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "324.00",
+    "currency": "USD"
+   },
+   "priceText": "$268.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "InStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAwesome Giorgio Armani Collezioni charcoal wool and cashmere blend chore coat. Super versatile style with its classic and super clean hybrid blazer design. Super soft and finished with a champagne insulated lining. This is one of the most stylish and tailored winter jackets around. The shawl collar allows to be flipped out and buttoned for a full frontal closure for extra warmth. Perfect timeless jacket for fall or winter dressed up or down year after year. Please refer to measurements below.  \n\n&lt;&gt; Designer: Giorgio Armani Collezioni \n&lt;&gt; Made in Romania\n&lt;&gt; Fabric: 80% Wool 15% Polymide 5% Cashmere 100% Polymide lining \n&lt;&gt; Size: Labeled 42. Best estimate modern fit Mens Large/40R (model stands 6&#39;3&quot;)\n&lt;&gt; Measurements: laying flat from left to right\n     shoulder to shoulder: 18.5&quot;\n     underarm to underarm: 22.75&quot; ( 45.5&quot; around )\n     sleeve length from shoulder to sleeve end: 25&quot; \n     overall length from top back shoulder to hem: 29.25&quot;\n&lt;&gt; Condition: Great Vintage Condition. Please note that all vintage items are not new and therefore may have minor \n     imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out the entire shop for all things vintage for His and Hers.\n\nFor an exclusive look behind the scenes of The Vault and to shop early \nFollow us on INSTAGRAM \n@thevault1969\n\n* ALWAYS BE SURE TO READ OUR SHOP POLICIES, WE DO NOT ACCEPT RETURNS DUE TO THE NATURE OF BUYING VINTAGE. ANY AND ALL QUESTIONS ARE ENCOURAGED PRIOR TO PURCHASE!",
+   "details": {},
+   "images": [
+    "data/items/etsy-03c351e75c/1.webp",
+    "data/items/etsy-03c351e75c/2.webp",
+    "data/items/etsy-03c351e75c/3.webp",
+    "data/items/etsy-03c351e75c/4.webp",
+    "data/items/etsy-03c351e75c/5.webp",
+    "data/items/etsy-03c351e75c/6.webp",
+    "data/items/etsy-03c351e75c/7.webp",
+    "data/items/etsy-03c351e75c/8.webp",
+    "data/items/etsy-03c351e75c/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/b2fbc9/6046249701/il_1588xN.6046249701_9bjm.jpg",
+    "https://i.etsystatic.com/8392227/r/il/e0be45/6046249615/il_1588xN.6046249615_9gu5.jpg",
+    "https://i.etsystatic.com/8392227/r/il/7ec03a/6046249621/il_1588xN.6046249621_payv.jpg",
+    "https://i.etsystatic.com/8392227/r/il/0a6573/5998176230/il_1588xN.5998176230_cad5.jpg",
+    "https://i.etsystatic.com/8392227/r/il/6c5e33/5998176242/il_1588xN.5998176242_s50p.jpg",
+    "https://i.etsystatic.com/8392227/r/il/d67dc0/6046249633/il_1588xN.6046249633_rw3r.jpg",
+    "https://i.etsystatic.com/8392227/r/il/22fc11/6046249635/il_1588xN.6046249635_ti3r.jpg",
+    "https://i.etsystatic.com/8392227/r/il/702a65/6046249641/il_1588xN.6046249641_qag7.jpg",
+    "https://i.etsystatic.com/8392227/r/il/b2fbc9/6046249701/il_1080xN.6046249701_9bjm.jpg"
+   ],
+   "likedAt": "2026-09-29T08:04:09.814Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:04:09.814Z"
+   }
+  },
+  {
    "id": "etsy-76942e8e7c",
    "platform": "etsy",
    "site": "etsy.com",
