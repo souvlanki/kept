@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "etsy-af3a9e92ff",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1747664331/vintage-80s-giorgio-armani-le-collezioni",
+   "title": "Vintage 80s Giorgio Armani Le Collezioni Greens & Purple Buffalo Plaid Pullover Collared Henley Shirt | Made in Italy | 1980s Designer Shirt",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "263.78",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAwesome vintage 80s Giorgio Armani Le Collezioni soft lightweight flannel cotton pullover collar henley shirt. Striking buffalo plaid print of shades of green and purple. Perfect dressed up or down. Flowing relaxed fit with a high low straight cut hemline. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; 100% Cotton\n&lt;&gt; Size: Please refer to measurements for best modern fit. ( model stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     shoulder to shoulder: 21&quot;\n     underarm to underarm: 27.5&quot; ( 55&quot; around )\n     sleeve from shoulder: 24.5&quot;\n     overall length at front: 28.5&quot; \n     overall length at back: 32&quot;\n&lt;&gt; Great Vintage Condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-af3a9e92ff/1.webp",
+    "data/items/etsy-af3a9e92ff/2.webp",
+    "data/items/etsy-af3a9e92ff/3.webp",
+    "data/items/etsy-af3a9e92ff/4.jpg",
+    "data/items/etsy-af3a9e92ff/5.webp",
+    "data/items/etsy-af3a9e92ff/6.webp",
+    "data/items/etsy-af3a9e92ff/7.webp",
+    "data/items/etsy-af3a9e92ff/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/e6a949/6062376324/il_1588xN.6062376324_a90y.jpg",
+    "https://i.etsystatic.com/8392227/r/il/7fca58/6062376918/il_1588xN.6062376918_cdyt.jpg",
+    "https://i.etsystatic.com/8392227/r/il/a69358/6110441909/il_1588xN.6110441909_3m5j.jpg",
+    "https://i.etsystatic.com/8392227/r/il/0e2c61/6110441917/il_1588xN.6110441917_gdpn.jpg",
+    "https://i.etsystatic.com/8392227/r/il/b9a647/6062376944/il_1588xN.6062376944_o3fz.jpg",
+    "https://i.etsystatic.com/8392227/r/il/631d5d/6062376946/il_1588xN.6062376946_o096.jpg",
+    "https://i.etsystatic.com/8392227/r/il/126663/6110441929/il_1588xN.6110441929_s3jm.jpg",
+    "https://i.etsystatic.com/8392227/r/il/e6a949/6062376324/il_1080xN.6062376324_a90y.jpg"
+   ],
+   "likedAt": "2026-09-29T09:04:03.475Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:04:03.475Z"
+   }
+  },
+  {
    "id": "etsy-fd8a80bdbd",
    "platform": "etsy",
    "site": "etsy.com",
