@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "depop-5679b7573d",
+   "platform": "depop",
+   "site": "depop.com",
+   "url": "https://www.depop.com/products/2econdhanddan-vintage-j-press-tennis-cricket",
+   "title": "Vintage J. Press Tennis Cricket Cable-Knit  V-Neck...",
+   "brand": "Other",
+   "price": {
+    "amount": "233.96",
+    "currency": "USD"
+   },
+   "priceText": "$32.20",
+   "size": "",
+   "condition": "Used",
+   "color": "",
+   "seller": "2econdhanddan",
+   "location": "",
+   "availability": "SoldOut",
+   "description": "Vintage J. Press Tennis Cricket Cable-Knit  V-Neck Sweater Tan Pink Men Size M Rare\n\nA beautiful tennis sweater from the classic menswear brand J. Press. This piece definitely has the Ivy League flair the brand is known for.\n\nCondition: Good used condition with a few small holes near the bottom hem. These holes are not very noticeable in my opinion. No stains or other issues! Please review all photos carefully - I highlight each flaw. For its age, I would say this piece is in great condition. \n\nColors: the sweater is a Dark Tan in color with magenta and navy stripe accents. \n\nFabric: Fabric is 100% pure wool. Quite soft and not itchy. Made in the UK. No odor. \n\nSize: Labeled a size Medium. \n\nApprox. Measurements laying flat: \n\n22” chest across pit to pit \n17” bottom hem across \n26” center back length \n18.5” shoulder seam to shoulder seam \n23” sleeve length from shoulder seam \n\n**We use recycled packaging when possible for less environmental impact**",
+   "details": {},
+   "images": [
+    "data/items/depop-5679b7573d/1.webp",
+    "data/items/depop-5679b7573d/2.webp",
+    "data/items/depop-5679b7573d/3.webp",
+    "data/items/depop-5679b7573d/4.webp",
+    "data/items/depop-5679b7573d/5.webp",
+    "data/items/depop-5679b7573d/6.webp",
+    "data/items/depop-5679b7573d/7.webp",
+    "data/items/depop-5679b7573d/8.webp"
+   ],
+   "sourceImages": [
+    "https://media-photos.depop.com/b1/33962794/1674295457_f5c477df2c974476be1d8d6378de777c/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295510_3ce1e70438164415af5e94e00f104302/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295558_28a32199238e4a80b280bc7ed02e544a/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295590_7f525c268a2d49a4a31d8fd53dec3fd0/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295638_8e21b1eda2b5490c8b9e5d3cd30e1563/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295700_410e99a627034edcb068ae6e21faf405/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295774_0d4ea7b09deb491c91e9f405106c121b/P0.jpg",
+    "https://media-photos.depop.com/b1/33962794/1674295858_1a8a9d89e5d04b56bc3056ace46400a0/P0.jpg"
+   ],
+   "likedAt": "2026-09-29T02:58:39.654Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T02:58:39.654Z"
+   }
+  },
+  {
    "id": "ebay-f129fd1736",
    "platform": "ebay",
    "site": "eBay",
