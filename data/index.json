@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-b88ab648e5",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1497286003/vintage-80s-giorgio-armani-black-ivory",
+   "title": "Vintage 80s Giorgio Armani Black & Ivory Cotton Birdseye Herringbone Suit Unworn w/ Tags | Made in Italy | Size 50 | 1980s Designer Suit",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "1598.00",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nThis absolutely beautiful vintage 80s Giorgio Armani black and ivory birdseye herringbone stripe cotton suit unworn with original tags is a shop favorite! Luxurious Armani crisp cotton fabric tailored with a bold shoulder frame and high waisted pleated slacks. The intricate and unique birdseye herringbone design dances between black and gray making this an extremely versatile suit to dress up or down. Timeless to tailor to your specifications worthy of any event. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; Fabric: 100% Cotton \n&lt;&gt; Size: Please refer to measurements for best fit. ( model wears a 40, and stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     BLAZER:\n     shoulder to shoulder: 18.5&quot;\n     underarm to underarm: 22.25&quot; ( 45&quot; around )\n     waist: 20&quot; ( 40&quot; around )\n     sleeve length from shoulder: 25&quot; (with 1.5&quot; extra length to let out)\n     overall length: 30&quot;\n     PANTS:\n     waist: 16.5&quot; ( 33&quot; around with 2.25&quot; extra length to let out)\n     front rise: 12&quot;\n     hips: 23&quot; ( 46&quot; around )\n     inseam: 36&quot; ( unhemmed ) \n     hem width: 9.5&quot;\n&lt;&gt; Labeled Italian 50R, please refer to measurements above for best fit.\n&lt;&gt; Condition: Great Vintage Condition. Unworn with tags still attached. Please note that all vintage items are not new and \ntherefore may have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out the entire shop for all things vintage for His and Hers.\n\nFor an exclusive look behind the scenes of The Vault and to shop early \nFollow us on INSTAGRAM \n@thevault1969\n\n* ALWAYS BE SURE TO READ OUR SHOP POLICIES, WE DO NOT ACCEPT RETURNS DUE TO THE NATURE OF BUYING VINTAGE. ANY AND ALL QUESTIONS ARE ENCOURAGED PRIOR TO PURCHASE!",
+   "details": {},
+   "images": [
+    "data/items/etsy-b88ab648e5/1.webp",
+    "data/items/etsy-b88ab648e5/2.webp",
+    "data/items/etsy-b88ab648e5/3.webp",
+    "data/items/etsy-b88ab648e5/4.webp",
+    "data/items/etsy-b88ab648e5/5.webp",
+    "data/items/etsy-b88ab648e5/6.webp",
+    "data/items/etsy-b88ab648e5/7.webp",
+    "data/items/etsy-b88ab648e5/8.webp",
+    "data/items/etsy-b88ab648e5/9.webp",
+    "data/items/etsy-b88ab648e5/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/592dfd/5024212533/il_1588xN.5024212533_9xiv.jpg",
+    "https://i.etsystatic.com/8392227/r/il/474723/4975935192/il_1588xN.4975935192_69bv.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2341cf/5024191305/il_1588xN.5024191305_fzn3.jpg",
+    "https://i.etsystatic.com/8392227/r/il/f56942/5024191309/il_1588xN.5024191309_rg1f.jpg",
+    "https://i.etsystatic.com/8392227/r/il/b39739/4975935424/il_1588xN.4975935424_e2pd.jpg",
+    "https://i.etsystatic.com/8392227/r/il/3f3d91/4975935282/il_1588xN.4975935282_nghd.jpg",
+    "https://i.etsystatic.com/8392227/r/il/776f27/5024191411/il_1588xN.5024191411_l26l.jpg",
+    "https://i.etsystatic.com/8392227/r/il/536308/5024191307/il_1588xN.5024191307_o0n6.jpg",
+    "https://i.etsystatic.com/8392227/r/il/4b44a1/4975935426/il_1588xN.4975935426_pqs3.jpg",
+    "https://i.etsystatic.com/8392227/r/il/592dfd/5024212533/il_1080xN.5024212533_9xiv.jpg"
+   ],
+   "likedAt": "2026-09-29T08:01:22.369Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:01:22.369Z"
+   }
+  },
+  {
    "id": "etsy-29805801b5",
    "platform": "etsy",
    "site": "etsy.com",
