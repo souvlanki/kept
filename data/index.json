@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "etsy-1444a65e6a",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1839575265/vintage-1980s-cashmere-bomber-jacket",
+   "title": "Vintage 1980s Cashmere Bomber Jacket Majer Est 1942 Coat Large",
+   "brand": "YaYaRetro",
+   "price": {
+    "amount": "139.52",
+    "currency": "USD"
+   },
+   "priceText": "$64.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "",
+   "availability": "InStock",
+   "description": "1980s bomber jacket. Super soft, navy blue cashmere fabric. Satin lining. This jacket is on the lighter side. Fine ribbing at the cuffs and hem. Long sleeves. Small collar. Two front welt pockets. There is an inside pocket with a zipper and welt covering. (right about the label) Fastens with a heavy metal zipper covered with a placket and plastic buttons. Label reads. &quot;Majer best 1942, 100% cashmere, made in the USA, L.&quot; Freshly dry cleaned. Excellent condition. \n\nMeasurements:\nShoulders = 25&quot;\nChest = 58&quot;\nWaist = 56&quot;\nHips = 38&quot; unstretched\nSleeves = 26&quot;\nLength from top of shoulder to hem = 25.5&quot;\n\nAll measurements are taken with the garment flat, doubled for the bust (chest), waist, hips, and circumference. Please make sure you leave yourself a little wiggle room for a comfortable fit!\n\nSome garments may be clipped to show proper fit.\nSome photos may be edited to better show details.\n\nShipping\nI ship within 2 business days (usually only one). Shipping is via USPS mail. Returns accepted within seven days of arrival minus shipping costs. \n\nGuide to Condition of Vintage Clothing:\nMint: Beautiful and perfect. Possibly never worn\nExcellent: Little visible wear, lightly worn.\nVery Good: Normal wear for the age of the garment. A few minor visible problems that will not detract from the overall look of the garment.\nGood: A few obvious visible flaws. Garment construction is sound and wearable.\nFair: Well-loved and well-worn garments with obvious flaws in fabric and construction. Great for inspiration or costume.",
+   "details": {},
+   "images": [
+    "data/items/etsy-1444a65e6a/1.jpg",
+    "data/items/etsy-1444a65e6a/2.webp",
+    "data/items/etsy-1444a65e6a/3.webp",
+    "data/items/etsy-1444a65e6a/4.webp",
+    "data/items/etsy-1444a65e6a/5.webp",
+    "data/items/etsy-1444a65e6a/6.webp",
+    "data/items/etsy-1444a65e6a/7.webp",
+    "data/items/etsy-1444a65e6a/8.webp",
+    "data/items/etsy-1444a65e6a/9.webp",
+    "data/items/etsy-1444a65e6a/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/6999636/r/il/e40568/6490722314/il_1588xN.6490722314_9kvy.jpg",
+    "https://i.etsystatic.com/6999636/r/il/741459/6538840825/il_1588xN.6538840825_q9oo.jpg",
+    "https://i.etsystatic.com/6999636/r/il/373f61/6538839237/il_1588xN.6538839237_jjuj.jpg",
+    "https://i.etsystatic.com/6999636/r/il/2bf5be/6538839273/il_1588xN.6538839273_q1bf.jpg",
+    "https://i.etsystatic.com/6999636/r/il/f5d7af/6490719928/il_1588xN.6490719928_a6w9.jpg",
+    "https://i.etsystatic.com/6999636/r/il/b04034/6538839275/il_1588xN.6538839275_73wz.jpg",
+    "https://i.etsystatic.com/6999636/r/il/53725a/6490719932/il_1588xN.6490719932_8oia.jpg",
+    "https://i.etsystatic.com/6999636/r/il/0241e2/6538839285/il_1588xN.6538839285_iufw.jpg",
+    "https://i.etsystatic.com/6999636/r/il/d06e32/6490719936/il_1588xN.6490719936_69gi.jpg",
+    "https://i.etsystatic.com/6999636/r/il/e40568/6490722314/il_1080xN.6490722314_9kvy.jpg"
+   ],
+   "likedAt": "2026-09-29T09:02:40.701Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:02:40.701Z"
+   }
+  },
+  {
    "id": "etsy-c121f52e4f",
    "platform": "etsy",
    "site": "etsy.com",
