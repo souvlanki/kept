@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "etsy-baeb8c7e19",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/4457091689/emporio-armani-wool-double-breasted",
+   "title": "Emporio Armani Wool Double Breasted Stripped Coat Grey Men’s Size 48 Made in Italy",
+   "brand": "",
+   "price": {
+    "amount": "309.56",
+    "currency": "USD"
+   },
+   "priceText": "$355.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "AnimaMY",
+   "location": "",
+   "availability": "InStock",
+   "description": "Condition: 8/10\n\n• Good used with minimal signs of wear. One cracked button inside of the coat. The previous owner was replaced one of the body buttons. Refer photos.\n• Has 5 pockets in total.\n• Material:\nOuter - 100% Wool\nLining - 100% Rayon\n• Size 48 on tag. Refer manual measurements for sizing. Recommended to men’s M or women’s L/XL.\n• Manual Measurements:\nArmpit to armpit - 21.5in\nLength - 32in\nShoulders - 18.5in\nSleeve Length - 23.5in",
+   "details": {},
+   "images": [
+    "data/items/etsy-baeb8c7e19/1.webp",
+    "data/items/etsy-baeb8c7e19/2.webp",
+    "data/items/etsy-baeb8c7e19/3.webp",
+    "data/items/etsy-baeb8c7e19/4.webp",
+    "data/items/etsy-baeb8c7e19/5.webp",
+    "data/items/etsy-baeb8c7e19/6.webp",
+    "data/items/etsy-baeb8c7e19/7.webp",
+    "data/items/etsy-baeb8c7e19/8.webp",
+    "data/items/etsy-baeb8c7e19/9.webp",
+    "data/items/etsy-baeb8c7e19/10.webp",
+    "data/items/etsy-baeb8c7e19/11.webp",
+    "data/items/etsy-baeb8c7e19/12.webp",
+    "data/items/etsy-baeb8c7e19/13.webp",
+    "data/items/etsy-baeb8c7e19/14.webp",
+    "data/items/etsy-baeb8c7e19/15.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/24182935/r/il/56b762/7705596540/il_1588xN.7705596540_khxd.jpg",
+    "https://i.etsystatic.com/24182935/r/il/a7aeb4/7753537895/il_1588xN.7753537895_6ryb.jpg",
+    "https://i.etsystatic.com/24182935/r/il/30a2a4/7705596538/il_1588xN.7705596538_rqpj.jpg",
+    "https://i.etsystatic.com/24182935/r/il/e7fe9a/7705596530/il_1588xN.7705596530_iypl.jpg",
+    "https://i.etsystatic.com/24182935/r/il/3405c3/7705596606/il_1588xN.7705596606_cfh1.jpg",
+    "https://i.etsystatic.com/24182935/r/il/256cb1/7705596576/il_1588xN.7705596576_onmt.jpg",
+    "https://i.etsystatic.com/24182935/r/il/e6608e/7705596610/il_1588xN.7705596610_oah0.jpg",
+    "https://i.etsystatic.com/24182935/r/il/a57237/7705596598/il_1588xN.7705596598_azy8.jpg",
+    "https://i.etsystatic.com/24182935/r/il/6c25c6/7753537921/il_1588xN.7753537921_77em.jpg",
+    "https://i.etsystatic.com/24182935/r/il/9c085c/7705596640/il_1588xN.7705596640_c7e9.jpg",
+    "https://i.etsystatic.com/24182935/r/il/89d8d1/7705596552/il_1588xN.7705596552_l499.jpg",
+    "https://i.etsystatic.com/24182935/r/il/15ab7f/7753537893/il_1588xN.7753537893_s9r1.jpg",
+    "https://i.etsystatic.com/24182935/r/il/8b77fd/7753537897/il_1588xN.7753537897_rpjn.jpg",
+    "https://i.etsystatic.com/24182935/r/il/36aeca/7705596638/il_1588xN.7705596638_ia85.jpg",
+    "https://i.etsystatic.com/24182935/r/il/56b762/7705596540/il_1080xN.7705596540_khxd.jpg"
+   ],
+   "likedAt": "2026-09-29T09:22:03.122Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:22:03.122Z"
+   }
+  },
+  {
    "id": "etsy-35cefb1bfa",
    "platform": "etsy",
    "site": "etsy.com",
