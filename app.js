@@ -62,6 +62,18 @@
     return new Intl.DateTimeFormat(undefined, { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
   }
 
+    // Some sites (Etsy) store punctuation as HTML codes; show the real characters.
+  const decoder = document.createElement('textarea');
+  const decode = (v) => {
+    if (typeof v !== 'string' || !/&(#\d+|#x[0-9a-f]+|[a-z]+);/i.test(v)) return v;
+    decoder.innerHTML = v;
+    return decoder.value;
+  };
+  function fixText(it) {
+    ['title', 'brand', 'size', 'condition', 'color', 'seller', 'location', 'description', 'priceText'].forEach((k) => { it[k] = decode(it[k]); });
+    if (it.details) for (const k of Object.keys(it.details)) it.details[k] = decode(it.details[k]);
+    if (/^shop$/i.test(String(it.seller || '').trim())) it.seller = ''; // older Etsy saves
+  }
   const waybackFallback = (url) => `https://web.archive.org/web/${url}`;
 
   const photos = (it) => (it.images && it.images.length ? it.images : it.screenshot ? [it.screenshot] : []);
@@ -86,6 +98,7 @@
       $('#demo-note').hidden = false;
     }
        items.forEach((it) => { delete it.screenshot; });
+        items.forEach(fixText);
     items.sort((a, b) => String(b.likedAt || '').localeCompare(String(a.likedAt || '')));
     S.all = items;
   }
