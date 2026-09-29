@@ -1,6 +1,52 @@
 {
  "items": [
   {
+   "id": "etsy-c1df806ca7",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1750787879/vintage-80s-giorgio-armani-le-collezioni",
+   "title": "Vintage 80s GIORGIO ARMANI Le Collezioni Navy & Gray Check Longline Loop Collar Shirt | Made in Italy | 100% Cotton | 1980s Designer Shirt",
+   "brand": "TheVault1969",
+   "price": {
+    "amount": "276.86",
+    "currency": "USD"
+   },
+   "priceText": "$183.12",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "FREE DOMESTIC SHIPPING\n\nAwesome vintage 80s Giorgio Armani Le Collezioni navy blue and gray micro check plaid button up shirt. Such a great shirt in a soft cotton flannel like fabric that is smooth and luxurious. Finished with a loop top collar and a relaxed longline saddle hemline silhouette. Perfect throw on and go shirt dressed up or down. Made in Italy. Please refer to measurements below.\n\n&lt;&gt; Designer: Giorgio Armani\n&lt;&gt; Made in Italy\n&lt;&gt; 100% Cotton\n&lt;&gt; Size: Please refer to measurements below for best fit. ( model stands 6&#39;3&quot; )\n&lt;&gt; Measurements: laying flat from left to right.\n     shoulder to shoulder: 20.5&quot;\n     underarm to underarm: 26.5&quot; ( 53&quot; around )\n     sleeve from shoulder: 24&quot;\n     overall length: 33.75&quot;\n&lt;&gt; Labeled 15.5/39, best estimate fit modern Med-XL depending on desired fit. Please refer to measurements above for best fit.\n&lt;&gt; Great Vintage condition. Please note that vintage items are not new and therefore might have minor imperfections.\n\nPlease feel free to ask with any questions you may have and be sure to check out our full store for both Mens and Womens.\n\nFollow us on INSTAGRAM \n@TheVault1969  &  @Home1969",
+   "details": {},
+   "images": [
+    "data/items/etsy-c1df806ca7/1.webp",
+    "data/items/etsy-c1df806ca7/2.webp",
+    "data/items/etsy-c1df806ca7/3.webp",
+    "data/items/etsy-c1df806ca7/4.webp",
+    "data/items/etsy-c1df806ca7/5.webp",
+    "data/items/etsy-c1df806ca7/6.webp",
+    "data/items/etsy-c1df806ca7/7.webp",
+    "data/items/etsy-c1df806ca7/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/8392227/r/il/57ba0a/6129441465/il_1588xN.6129441465_62hm.jpg",
+    "https://i.etsystatic.com/8392227/r/il/3ca1a4/6081378626/il_1588xN.6081378626_dxyq.jpg",
+    "https://i.etsystatic.com/8392227/r/il/c6956e/6081378752/il_1588xN.6081378752_h1vi.jpg",
+    "https://i.etsystatic.com/8392227/r/il/2ba89e/6129442387/il_1588xN.6129442387_lrky.jpg",
+    "https://i.etsystatic.com/8392227/r/il/e9db6b/6081378754/il_1588xN.6081378754_fdem.jpg",
+    "https://i.etsystatic.com/8392227/r/il/eb3e2b/6129442389/il_1588xN.6129442389_743k.jpg",
+    "https://i.etsystatic.com/8392227/r/il/63ab99/6129442417/il_1588xN.6129442417_n3ch.jpg",
+    "https://i.etsystatic.com/8392227/r/il/57ba0a/6129441465/il_1080xN.6129441465_62hm.jpg"
+   ],
+   "likedAt": "2026-09-29T08:19:12.163Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T08:19:12.163Z"
+   }
+  },
+  {
    "id": "etsy-ee41a6db10",
    "platform": "etsy",
    "site": "etsy.com",
