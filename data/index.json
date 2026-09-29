@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "id": "etsy-0facd44d9a",
+   "platform": "etsy",
+   "site": "etsy.com",
+   "url": "https://www.etsy.com/listing/1495941737/vintage-1940s-chimayo-southwest-blanket",
+   "title": "Vintage 1940’s Chimayo Southwest Blanket Ganscraft Original Hand Woven Zipper Rockabilly Jacket, 40’s Vintage Clothing",
+   "brand": "VintageOnHollywood",
+   "price": {
+    "amount": "2750.00",
+    "currency": "USD"
+   },
+   "priceText": "$550.00",
+   "size": "",
+   "condition": "",
+   "color": "",
+   "seller": "Shop",
+   "location": "Need to get in touch with the seller? Try messaging them on ",
+   "availability": "OutOfStock",
+   "description": "Vintage 1940’s Chimayo Southwest Blanket Ganscraft Original Hand Woven Zipper Rockabilly Jacket.\n\nTag Size 14. Please check the measurements below. \n\nVery good condition.  Minor wear. (see photos)\n\nThe label is  “Ganscraft”.  Original 1940’s. \n\nChimayo southwest jacket with corduroy sleeves and collar details.\n\nAll Sales Final.   Please ask any questions before purchase.  \n\nTake a look at our Store for more Vintage Clothing - VintageOnHollywood.  \n\nMEASUREMENTS \n\nShoulder to Shoulder: 15 1/2”\nUnderarm to Underarm: 18”\nOuter Sleeve Length (shoulder edge to cuff edge): 21 1/2”\nTop to Bottom Length (from collar fold): 19”\nWaist: 16” (maxed out)",
+   "details": {},
+   "images": [
+    "data/items/etsy-0facd44d9a/1.webp",
+    "data/items/etsy-0facd44d9a/2.webp",
+    "data/items/etsy-0facd44d9a/3.webp",
+    "data/items/etsy-0facd44d9a/4.webp",
+    "data/items/etsy-0facd44d9a/5.webp",
+    "data/items/etsy-0facd44d9a/6.webp",
+    "data/items/etsy-0facd44d9a/7.webp",
+    "data/items/etsy-0facd44d9a/8.webp",
+    "data/items/etsy-0facd44d9a/9.webp",
+    "data/items/etsy-0facd44d9a/10.webp",
+    "data/items/etsy-0facd44d9a/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.etsystatic.com/14239169/r/il/fefce1/4967965446/il_1588xN.4967965446_huwa.jpg",
+    "https://i.etsystatic.com/14239169/r/il/4c16b8/4967966582/il_1588xN.4967966582_4o6w.jpg",
+    "https://i.etsystatic.com/14239169/r/il/8584e4/5016228083/il_1588xN.5016228083_gte2.jpg",
+    "https://i.etsystatic.com/14239169/r/il/d05160/5016228091/il_1588xN.5016228091_hjgu.jpg",
+    "https://i.etsystatic.com/14239169/r/il/e52318/4967966658/il_1588xN.4967966658_qpoe.jpg",
+    "https://i.etsystatic.com/14239169/r/il/cf660f/5016227737/il_1588xN.5016227737_hfaq.jpg",
+    "https://i.etsystatic.com/14239169/r/il/fcd22c/4967966712/il_1588xN.4967966712_iuf2.jpg",
+    "https://i.etsystatic.com/14239169/r/il/44bceb/5016228011/il_1588xN.5016228011_lr3o.jpg",
+    "https://i.etsystatic.com/14239169/r/il/bf5ea6/4967966492/il_1588xN.4967966492_60ni.jpg",
+    "https://i.etsystatic.com/14239169/r/il/7ce39a/4967966722/il_1588xN.4967966722_dek3.jpg",
+    "https://i.etsystatic.com/14239169/r/il/fefce1/4967965446/il_1080xN.4967965446_huwa.jpg"
+   ],
+   "likedAt": "2026-09-29T09:09:45.458Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-09-29T09:09:45.458Z"
+   }
+  },
+  {
    "id": "etsy-fe9f6c2a60",
    "platform": "etsy",
    "site": "etsy.com",
