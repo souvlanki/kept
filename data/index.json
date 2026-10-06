@@ -1,6 +1,69 @@
 {
  "items": [
   {
+   "id": "ebay-483dcca6c7",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/188121443966",
+   "title": "Made in Italy Brown Corduroy Cotton Pleated Button Casual Pants for Men Size 36",
+   "brand": "monitaly",
+   "price": {
+    "amount": "195.0",
+    "currency": "USD"
+   },
+   "priceText": "US $195.00",
+   "size": "36",
+   "condition": "Pre-owned - Excellent",
+   "color": "Brown",
+   "seller": "ize206",
+   "location": "Chicago, Illinois, United States",
+   "availability": "InStock",
+   "description": "Made in Italy Brown Corduroy Cotton Pleated Button Casual Pants for Men Size 36",
+   "details": {
+    "Accents": "Pleated, Button",
+    "Brand": "monitaly",
+    "Closure": "Button",
+    "Color": "Brown",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Delivery": "Estimated between Fri, Oct 9 and Thu, Oct 15 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fabric Type": "Corduroy",
+    "Fit": "Regular",
+    "Front Type": "Pleated",
+    "Inseam": "30 in",
+    "Leg Style": "Tapered",
+    "Material": "Cotton",
+    "Occasion": "Casual",
+    "Pattern": "Solid",
+    "Payments": "Diners Club. See details",
+    "Pocket Type": "Flap Pocket",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $8.27 USPS Ground Advantage®. See detailsfor shippingLocated in: Chicago, Illinois, United States",
+    "Size": "36",
+    "Size Type": "Regular",
+    "Style": "Casual Pants",
+    "Type": "Pants",
+    "Waist Size": "36 in"
+   },
+   "images": [
+    "data/items/ebay-483dcca6c7/1.webp",
+    "data/items/ebay-483dcca6c7/2.webp",
+    "data/items/ebay-483dcca6c7/3.webp",
+    "data/items/ebay-483dcca6c7/4.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/sGMAAeSwdUVpqMxK/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/zdUAAeSwc0RpqMxj/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Y2YAAeSwR09pqMxz/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/XYoAAeSwa25pqMyS/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-06T14:45:21.338Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T14:45:21.338Z"
+   }
+  },
+  {
    "id": "ebay-c897b478d8",
    "platform": "ebay",
    "site": "eBay",
