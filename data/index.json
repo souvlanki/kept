@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "id": "ebay-934704a03a",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/307216342236",
+   "title": "Armani Collezioni Men's Down Jacket Hood Bordeaux 50 Nylon Puffer S784",
+   "brand": "Armani Collezioni",
+   "price": {
+    "amount": "261.4",
+    "currency": "USD"
+   },
+   "priceText": "US $261.40",
+   "size": "M",
+   "condition": "Pre-owned - Good",
+   "color": "Bordeaux",
+   "seller": "Sakura Retro Games Hobby Japan",
+   "location": "Japan, Japan",
+   "availability": "InStock",
+   "description": "✔ -Color : Bordeaux. ✔ - Outer Shell Material: Nylon. ✔ - Type: Down Jacket. US orders: import duties already paid (DDP).",
+   "details": {
+    "Brand": "Armani Collezioni",
+    "California Prop 65 Warning": "NA",
+    "Color": "Bordeaux",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country": "Japan",
+    "Country of Origin": "NA",
+    "Delivery": "Estimated between Tue, Oct 13 and Tue, Oct 20 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Discounts": "-US $15.68KOI6TUEWED",
+    "Estimated total": "US $333.12*",
+    "Features": "NA",
+    "Handling time": "Up to 7 business days.",
+    "Import fees": "Includes import fees.",
+    "Item price": "US $261.40",
+    "MPN": "NA",
+    "Outer Shell Material": "NA",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "US $87.40",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "NA",
+    "Theme": "NA",
+    "Type": "Down Jacket"
+   },
+   "images": [
+    "data/items/ebay-934704a03a/1.webp",
+    "data/items/ebay-934704a03a/2.webp",
+    "data/items/ebay-934704a03a/3.webp",
+    "data/items/ebay-934704a03a/4.webp",
+    "data/items/ebay-934704a03a/5.webp",
+    "data/items/ebay-934704a03a/6.webp",
+    "data/items/ebay-934704a03a/7.webp",
+    "data/items/ebay-934704a03a/8.webp",
+    "data/items/ebay-934704a03a/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/DREAAeSw0IlqxE9V/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6qMAAeSws4FqxE9V/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/VeQAAeSwfTxqxE9U/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/roAAAeSwmZdqxE9V/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ngUAAeSwcjxqxE9V/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/MRgAAeSwfKJqxE9U/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/kskAAeSwclBqxE9U/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/y4kAAeSwxE9qxE9V/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/dnwAAeSwG2VqxE9U/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T15:13:03.436Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:13:03.436Z"
+   }
+  },
+  {
    "id": "ebay-c4b9cbe006",
    "platform": "ebay",
    "site": "eBay",
