@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "id": "ebay-bb91b78fb6",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/306267351054",
+   "title": "Giorgio Armani 80 s Vintage Jacket Blouson Size L",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "385.99",
+    "currency": "USD"
+   },
+   "priceText": "US $385.99",
+   "size": "L",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "NA",
+   "seller": "Lucky Cat's Store",
+   "location": "Hyogo, Japan",
+   "availability": "InStock",
+   "description": "Length approx. This item is in Japanese sizes. It's one size smaller than the US size.",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "NA",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Fri, Oct 23 and Tue, Oct 27 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Department": "Men",
+    "Import fees": "Includes import fees.",
+    "Outer Shell Material": "NA",
+    "Payments": "Diners Club",
+    "Returns": "60 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Seller Notes": "“good”",
+    "Shipping": "Free Expedited Shipping from outside US. See detailsfor shippingLocated in: Hyogo, Japan",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "NA",
+    "Theme": "80s",
+    "Type": "Jacket",
+    "UPC": "NA"
+   },
+   "images": [
+    "data/items/ebay-bb91b78fb6/1.webp",
+    "data/items/ebay-bb91b78fb6/2.webp",
+    "data/items/ebay-bb91b78fb6/3.webp",
+    "data/items/ebay-bb91b78fb6/4.webp",
+    "data/items/ebay-bb91b78fb6/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/D74AAOSwt3BoCh00/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0U0AAOSw8ztoCh01/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1IwAAOSwV4JoCh04/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/zxUAAOSwfuloCh06/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6ncAAOSwvkVoCh09/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-06T15:16:56.154Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:16:56.154Z"
+   }
+  },
+  {
    "id": "ebay-2bd7c281a0",
    "platform": "ebay",
    "site": "eBay",
