@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "ebay-c897b478d8",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/227551089785",
+   "title": "Giorgio Armani Dress Pants Mens 32 Navy Le Collezioni Wool Pleated Italy",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "99.99",
+    "currency": "USD"
+   },
+   "priceText": "US $99.99",
+   "size": "32",
+   "condition": "Pre-owned - Excellent",
+   "color": "Blue",
+   "seller": "Vido Clothing",
+   "location": "Apopka, Florida, United States",
+   "availability": "InStock",
+   "description": "Giorgio Armani Le Collezioni trousers crafted from premium Italian wool with a sophisticated micro-ribbed texture. This item is in excellent condition. Front Style: Double Pleated. Material: 100% Wool.",
+   "details": {
+    "Accents": "Button, Pleated",
+    "Brand": "Giorgio Armani",
+    "Closure": "Button, Zip",
+    "Color": "Blue",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Delivery": "Estimated between Fri, Oct 9 and Fri, Oct 16 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fit": "Regular",
+    "Front Type": "Pleated",
+    "Garment Care": "Dry Clean Only",
+    "Inseam": "34 in",
+    "Leg Style": "Straight",
+    "Material": "Wool",
+    "Occasion": "Business, Formal, Wedding",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Rise": "High (Greater than 12 in)",
+    "Shipping": "US $9.99 USPS Ground Advantage®. See detailsfor shippingLocated in: Apopka, Florida, United States",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Type": "Pants",
+    "Vintage": "Yes",
+    "Waist Size": "32 in"
+   },
+   "images": [
+    "data/items/ebay-c897b478d8/1.webp",
+    "data/items/ebay-c897b478d8/2.webp",
+    "data/items/ebay-c897b478d8/3.webp",
+    "data/items/ebay-c897b478d8/4.webp",
+    "data/items/ebay-c897b478d8/5.webp",
+    "data/items/ebay-c897b478d8/6.webp",
+    "data/items/ebay-c897b478d8/7.webp",
+    "data/items/ebay-c897b478d8/8.webp",
+    "data/items/ebay-c897b478d8/9.webp",
+    "data/items/ebay-c897b478d8/10.webp",
+    "data/items/ebay-c897b478d8/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/X~sAAeSwkIlqwcSE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Ym4AAeSwCIZqwcSE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/YbgAAeSwKsVqwcSE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Fn4AAeSw~2dqwcSE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/E04AAeSw-bxqwcSE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Dk0AAeSwG5NqwcSE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/IHkAAeSwEzlqwcSE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/D7kAAeSwMXhqwcSE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/YTsAAeSwcAxqwcSE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/YbcAAeSwKsVqwcSE/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/XfkAAeSwAvNqwcSE/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T14:44:37.486Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T14:44:37.486Z"
+   }
+  },
+  {
    "id": "ebay-b0bc67c6c9",
    "platform": "ebay",
    "site": "eBay",
