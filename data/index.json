@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "ebay-91148fe0a0",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/227526959515",
+   "title": "Vintage 1980s Yves Saint Laurent Jacket Men's Size M Full Zip Rare item used",
+   "brand": "Yves Saint Laurent",
+   "price": {
+    "amount": "216.39",
+    "currency": "USD"
+   },
+   "priceText": "US $216.39",
+   "size": "M",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Black",
+   "seller": "rarac-3594",
+   "location": "Fukuoka, Japan",
+   "availability": "InStock",
+   "description": "Even if you think to yourself, \"But the item I want is only available in Japan.\".",
+   "details": {
+    "Brand": "Yves Saint Laurent",
+    "Color": "Black",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Country of Origin": "Japan",
+    "Delivery": "Estimated between Mon, Oct 26 and Thu, Oct 29 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Estimated total": "US $266.39*",
+    "Import fees": "Includes import fees.",
+    "Item price": "US $216.39",
+    "MPN": "Does not apply",
+    "Model": "Does not apply",
+    "Outer Shell Material": "unknow",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Seller Notes": "“Length 76cm Body width 64cm Shoulder width 47cm Sleeve length 60cm”",
+    "Shipping": "US $50.00",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Style": "Jacket",
+    "Type": "Jacket",
+    "UPC": "Does not apply",
+    "Was": "US $240.43"
+   },
+   "images": [
+    "data/items/ebay-91148fe0a0/1.webp",
+    "data/items/ebay-91148fe0a0/2.webp",
+    "data/items/ebay-91148fe0a0/3.webp",
+    "data/items/ebay-91148fe0a0/4.webp",
+    "data/items/ebay-91148fe0a0/5.webp",
+    "data/items/ebay-91148fe0a0/6.webp",
+    "data/items/ebay-91148fe0a0/7.webp",
+    "data/items/ebay-91148fe0a0/8.webp",
+    "data/items/ebay-91148fe0a0/9.webp",
+    "data/items/ebay-91148fe0a0/10.webp",
+    "data/items/ebay-91148fe0a0/11.webp",
+    "data/items/ebay-91148fe0a0/12.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/ClUAAeSwTx1qtHp2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/CkQAAeSwkedqtHp2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/CnsAAeSwtyZqtHp2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ABwAAeSwGTlqtHp2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/B2gAAeSw1kVqtHp2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/-dAAAeSwpPxqtHp2/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/AQEAAeSws~pqtHp2/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/9wsAAeSwmbxqtHp2/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/~soAAeSwEcVqtHp2/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Cb8AAeSw6p5qtHp2/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/CSMAAeSwuWBqtHp2/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/BcAAAeSwHmxqtHp2/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T15:18:57.243Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:18:57.243Z"
+   }
+  },
+  {
    "id": "ebay-091cc08bf0",
    "platform": "ebay",
    "site": "eBay",
