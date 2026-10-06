@@ -1,6 +1,73 @@
 {
  "items": [
   {
+   "id": "ebay-9a9e55bc61",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/227552557701",
+   "title": "Vtg Hugo Boss Lightweight Reversible Jacket Beige And Black Size L",
+   "brand": "HUGO BOSS",
+   "price": {
+    "amount": "10.0",
+    "currency": "USD"
+   },
+   "priceText": "US $10.00",
+   "size": "L",
+   "condition": "Pre-owned - Excellent",
+   "color": "Black",
+   "seller": "Ebaebaelc",
+   "location": "Florence, Alabama, United States",
+   "availability": "InStock",
+   "description": "Vtg Hugo Boss Lightweight Reversible Jacket Beige And Black Size L Chest 19 inches Sleeve 20 inches *All items are preowned and will show wear unless otherwise specified. *Please review all pictures and description prior to purchasing.",
+   "details": {
+    "Accents": "Logo",
+    "Brand": "HUGO BOSS",
+    "Cancellations": "No cancellations for auctions. See details- for more information about cancellations",
+    "Color": "Black",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Delivery": "Estimated between Sat, Oct 17 and Fri, Oct 23 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Features": "Lightweight, Reversible",
+    "Fit": "Regular",
+    "Garment Care": "Machine Washable",
+    "Insulation Material": "Polyester",
+    "Occasion": "Casual",
+    "Outer Shell Material": "Cotton",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Season": "Spring, Fall, Winter",
+    "Shipping": "US $10.11 USPS Ground Advantage®. See detailsfor shippingLocated in: Florence, Alabama, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "Windbreaker",
+    "Type": "Jacket",
+    "Vintage": "No"
+   },
+   "images": [
+    "data/items/ebay-9a9e55bc61/1.webp",
+    "data/items/ebay-9a9e55bc61/2.webp",
+    "data/items/ebay-9a9e55bc61/3.webp",
+    "data/items/ebay-9a9e55bc61/4.webp",
+    "data/items/ebay-9a9e55bc61/5.webp",
+    "data/items/ebay-9a9e55bc61/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/nw0AAeSwOgJqGNZc/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pKMAAeSw~DZqGNZc/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/08oAAeSwolFqGNZd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/5zYAAeSwHC5qGNZd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mTgAAeSwM~xqGNZe/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1boAAeSwTUFqGNZe/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T15:31:27.270Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:31:27.270Z"
+   }
+  },
+  {
    "id": "ebay-1e7355c464",
    "platform": "ebay",
    "site": "eBay",
