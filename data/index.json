@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-c7886d1f32",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/237108985828",
+   "title": "Vintage Giorgio Armani Le Collezioni Linen Shirt Men’s Large Beige Made In Italy",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "99.99",
+    "currency": "USD"
+   },
+   "priceText": "US $99.99",
+   "size": "L",
+   "condition": "Pre-owned - Excellent",
+   "color": "Beige",
+   "seller": "faygofan",
+   "location": "Lake Mary, Florida, United States",
+   "availability": "InStock",
+   "description": "Very good condition, some brown specks in material due to flax in the linen",
+   "details": {
+    "Accents": "Button",
+    "Brand": "Giorgio Armani",
+    "Closure": "Button",
+    "Color": "Beige",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Thu, Oct 8 and Tue, Oct 13 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fabric Type": "Woven",
+    "Features": "All Seasons, Breathable, Lightweight",
+    "Fit": "Regular",
+    "Material": "Linen, Cotton",
+    "Neckline": "Collared",
+    "Occasion": "Business, Casual, Party/Cocktail, Travel, Wedding",
+    "Pattern": "Striped",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "US $7.05 USPS Ground Advantage®. See detailsfor shippingLocated in: Lake Mary, Florida, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Theme": "Classic, Designer, Italian, Preppy, Luxury, Resort, Vacation, Minimalist, 90s",
+    "Type": "Button-Up",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-c7886d1f32/1.webp",
+    "data/items/ebay-c7886d1f32/2.webp",
+    "data/items/ebay-c7886d1f32/3.webp",
+    "data/items/ebay-c7886d1f32/4.webp",
+    "data/items/ebay-c7886d1f32/5.webp",
+    "data/items/ebay-c7886d1f32/6.webp",
+    "data/items/ebay-c7886d1f32/7.webp",
+    "data/items/ebay-c7886d1f32/8.webp",
+    "data/items/ebay-c7886d1f32/9.webp",
+    "data/items/ebay-c7886d1f32/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/mM0AAeSwr9JqxGgY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/dCIAAeSwwSlqxGgY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/-b8AAeSwmZdqxGgY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/uYwAAeSwVWZqxGgY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/30YAAeSwf5ZqxGgY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/wFkAAeSwAOdqxGgY/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/YVYAAeSwAUNqxGgY/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/kDoAAeSwyIdqxGgY/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/YWIAAeSwAUNqxGgZ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Z3wAAeSwa0hqxGgZ/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T14:40:54.970Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T14:40:54.970Z"
+   }
+  },
+  {
    "id": "ebay-74d85d80bc",
    "platform": "ebay",
    "site": "eBay Australia",
