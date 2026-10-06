@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "id": "ebay-74d85d80bc",
+   "platform": "ebay",
+   "site": "eBay Australia",
+   "url": "https://www.ebay.com.au/itm/394674850741",
+   "title": "Canon Rebel G, Rebel G QD, EOS Kiss or EOS 500N w/ 35-80mm Auto Focus EF lens",
+   "brand": "Canon",
+   "price": {
+    "amount": "204.07",
+    "currency": "AUD"
+   },
+   "priceText": "US $142.28",
+   "size": "",
+   "condition": "Very Good - Refurbished",
+   "color": "",
+   "seller": "Blue Penn",
+   "location": "Tempe, Arizona, United States",
+   "availability": "InStock",
+   "description": "Canon sold this model as Rebel G in the USA and Canada, New EOS Kiss in Japan and EOS 500N elsewhere. In general, we classify our inventory into GOOD and VERY GOOD condition. If you care a lot about the item condition, we suggest you look at only ones in VERY GOOD condition.",
+   "details": {
+    "Brand": "Canon",
+    "Condition": "Very Good - Refurbished",
+    "Country of Origin": "Japan",
+    "Focus Type": "Auto",
+    "Format": "35 mm",
+    "MPN": "Does Not Apply",
+    "Mount": "Canon EF",
+    "Payments": "Diners Club",
+    "Postage": "Free delivery in 2-4 daysGet it between Thu, 8 Oct and Sat, 10 Oct to 97230-5030 . See detailsfor deliveryLocated in: Tempe, Arizona, United States",
+    "Returns": "30-day returns. Seller pays for return postage. See details- for more information about returns",
+    "Seller notes": "“1 year warranty”",
+    "Type": "SLR",
+    "UPC": "Does Not Apply"
+   },
+   "images": [
+    "data/items/ebay-74d85d80bc/1.webp",
+    "data/items/ebay-74d85d80bc/2.webp",
+    "data/items/ebay-74d85d80bc/3.webp",
+    "data/items/ebay-74d85d80bc/4.webp",
+    "data/items/ebay-74d85d80bc/5.webp",
+    "data/items/ebay-74d85d80bc/6.webp",
+    "data/items/ebay-74d85d80bc/7.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/MHEAAOSw2L9n8Auq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/P2MAAOSwjTdn8Aur/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/xFIAAOSwFcln8Aun/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6kQAAOSwzQhn8Aum/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/x-sAAOSwDd5n8Auk/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/wO4AAOSwMrpn8Aul/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Q3AAAOSwAcJn8Auj/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T14:11:35.113Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T14:11:35.113Z"
+   }
+  },
+  {
    "id": "ebay-02f4772369",
    "platform": "ebay",
    "site": "eBay",
