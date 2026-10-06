@@ -1,6 +1,65 @@
 {
  "items": [
   {
+   "id": "ebay-0104932f61",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/298732479361",
+   "title": "Vintage 1980s/90 Giorgio Armani Le Collezioni Bomber Style Jacket Size 40 Unisex",
+   "brand": "Flight",
+   "price": {
+    "amount": "350.0",
+    "currency": "USD"
+   },
+   "priceText": "US $350.00",
+   "size": "40",
+   "condition": "Pre-owned - Excellent",
+   "color": "Green",
+   "seller": "treecops",
+   "location": "Bellevue, Nebraska, United States",
+   "availability": "InStock",
+   "description": "• \"White Label\" Le Collezioni line piece, crafted in Italy. Estate sale find. No flaws, stains, or fraying. There are two VERY small pin holes in the shoulder area lining, there is a button tab at the top of the zipper, but no button on the opposite side under the collar (no idea if there ever was one as there don’t appear to be any marks there that would indicate a button had been sewn there) and the fabric on the left arm/cuff appears slightly lighter than that of the right arm/cuff.",
+   "details": {
+    "Brand": "Flight",
+    "Color": "Green",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Thu, Oct 8 and Tue, Oct 13 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Unisex Adults",
+    "Lining Material": "Rayon/viscose/acrylic",
+    "Outer Shell Material": "Cotton",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $12.10 USPS Ground Advantage®. See detailsfor shippingLocated in: Bellevue, Nebraska, United States",
+    "Size": "40",
+    "Size Type": "Regular",
+    "Style": "Bomber Jacket",
+    "Theme": "80s, 80s Armani Military",
+    "Type": "Jacket"
+   },
+   "images": [
+    "data/items/ebay-0104932f61/1.webp",
+    "data/items/ebay-0104932f61/2.webp",
+    "data/items/ebay-0104932f61/3.webp",
+    "data/items/ebay-0104932f61/4.webp",
+    "data/items/ebay-0104932f61/5.webp",
+    "data/items/ebay-0104932f61/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/1PEAAeSwPGFqwnSX/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pRMAAeSwWAZqwnSX/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/3dwAAeSwG8ZqwnSX/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/px4AAeSwG7pqwnSX/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ATsAAeSwlyRqwnSY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/rbkAAeSwOTVqwnSZ/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T15:14:49.464Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:14:49.464Z"
+   }
+  },
+  {
    "id": "ebay-a1a4048acd",
    "platform": "ebay",
    "site": "eBay",
