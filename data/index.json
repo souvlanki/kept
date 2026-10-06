@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-c4b9cbe006",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/158352907730",
+   "title": "Armani Collezioni Dress Pants Mens 36/32 Brown Herringbone Pleated Sartorial",
+   "brand": "Armani Collezioni",
+   "price": {
+    "amount": "49.99",
+    "currency": "USD"
+   },
+   "priceText": "US $49.99",
+   "size": "36",
+   "condition": "Pre-owned - Excellent",
+   "color": "Brown",
+   "seller": "Theetruekidd",
+   "location": "Cincinnati, Ohio, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Armani Collezioni Dress Pants Mens 36/32 Brown Herringbone Pleated Sartorial at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Button, Pleated, Zipper",
+    "Brand": "Armani Collezioni",
+    "Closure": "Button, Zip",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Thu, Oct 8 and Tue, Oct 13 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Fabric Type": "Tweed",
+    "Fit": "Relaxed",
+    "Front Type": "Pleated",
+    "Garment Care": "Dry Clean Only",
+    "Inseam": "32 in",
+    "Leg Style": "Straight",
+    "Occasion": "Business, Formal",
+    "Payments": "Diners Club",
+    "Pocket Type": "Slash Pocket",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Rise": "High (Greater than 12 in)",
+    "Season": "Fall, Spring, Winter",
+    "Shipping": "US $8.99 USPS Ground Advantage®. See detailsfor shippingLocated in: Cincinnati, Ohio, United States",
+    "Size": "36",
+    "Style": "Dress Pants",
+    "Type": "Pants",
+    "Vintage": "Yes",
+    "Waist Size": "36 in"
+   },
+   "images": [
+    "data/items/ebay-c4b9cbe006/1.webp",
+    "data/items/ebay-c4b9cbe006/2.webp",
+    "data/items/ebay-c4b9cbe006/3.webp",
+    "data/items/ebay-c4b9cbe006/4.webp",
+    "data/items/ebay-c4b9cbe006/5.webp",
+    "data/items/ebay-c4b9cbe006/6.webp",
+    "data/items/ebay-c4b9cbe006/7.webp",
+    "data/items/ebay-c4b9cbe006/8.webp",
+    "data/items/ebay-c4b9cbe006/9.webp",
+    "data/items/ebay-c4b9cbe006/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/yl4AAeSwQGtqud~H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/TW8AAeSwLO9qud~H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1dAAAeSwHDZqud~H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/zuEAAeSwJUxqud~H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/On4AAeSw1yxqud~H/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0-8AAeSwxipqud~H/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/SFEAAeSwAGlqud~H/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/TfMAAeSwIDJqud~I/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/sYgAAeSwlgNqud~H/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/1F8AAeSw6N9qud~H/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-06T15:11:06.076Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:11:06.076Z"
+   }
+  },
+  {
    "id": "ebay-483dcca6c7",
    "platform": "ebay",
    "site": "eBay",
