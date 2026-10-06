@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-a1a4048acd",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/800758938248",
+   "title": "GIORGIO ARMANI alpaca blend knit jacket",
+   "brand": "GIORGIO ARMANI",
+   "price": {
+    "amount": "236.92",
+    "currency": "USD"
+   },
+   "priceText": "US $236.92",
+   "size": "XL",
+   "condition": "Pre-owned - Good",
+   "color": "Navy",
+   "seller": "pampi0-85",
+   "location": "Japan, Japan",
+   "availability": "InStock",
+   "description": "Alpaca blend knit jacket from Japan. We will help you to find what you are looking for by searching all over Japan.",
+   "details": {
+    "Accents": "NA",
+    "Brand": "GIORGIO ARMANI",
+    "California Prop 65 Warning": "NA",
+    "Chest Size": "NA",
+    "Color": "Navy",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country": "Japan",
+    "Delivery": "Estimated between Thu, Oct 29 and Tue, Nov 3 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptanc",
+    "Department": "Men",
+    "Fit": "NA",
+    "Garment Care": "NA",
+    "Handmade": "NA",
+    "Import fees": "Includes import fees.",
+    "MPN": "NA",
+    "Model": "NA",
+    "Outer Shell Material": "アルパカ 65% Acrylic 35%",
+    "Payments": "Diners Club",
+    "Personalization Instructions": "NA",
+    "Personalize": "NA",
+    "Product Line": "NA",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "US $39.99 Standard Shipping from outside US. See detailsfor shippingLocated in: Japan, Japan",
+    "Size": "XL",
+    "Size Type": "Regular"
+   },
+   "images": [
+    "data/items/ebay-a1a4048acd/1.webp",
+    "data/items/ebay-a1a4048acd/2.webp",
+    "data/items/ebay-a1a4048acd/3.webp",
+    "data/items/ebay-a1a4048acd/4.webp",
+    "data/items/ebay-a1a4048acd/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/cFYAAeSw60pqwyuw/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/kpgAAeSwFY1qwyuu/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/a4oAAeSwEVFqwyuu/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Iw0AAeSw-wtqwyuu/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/4MoAAeSwIFpqwyuu/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-06T15:13:32.568Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:13:32.568Z"
+   }
+  },
+  {
    "id": "ebay-934704a03a",
    "platform": "ebay",
    "site": "eBay",
