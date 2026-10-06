@@ -1,6 +1,69 @@
 {
  "items": [
   {
+   "id": "ebay-600d4a415c",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/128112718037",
+   "title": "Vintage Black Lamb Leather 90s Flight Jacket by Giorgio Armani Style M",
+   "brand": "Not specified, but resembles Giorgio Armani",
+   "price": {
+    "amount": "510.36",
+    "currency": "USD"
+   },
+   "priceText": "US $510.36",
+   "size": "M",
+   "condition": "Pre-owned - Good",
+   "color": "Black",
+   "seller": "Fall Like Japan",
+   "location": "Japan, Japan",
+   "availability": "InStock",
+   "description": "Resembles Giorgio Armani design, ideal for collectors. C:Material: Lamb Leather. Worn by Junki Ichikawa archive 90s lamb leather jacket. C:Application: Casual, Fashion, Outerwear. Classic flight jacket style suitable for casual and semi-formal wear.",
+   "details": {
+    "Accents": "NA",
+    "Brand": "Not specified, but resembles Giorgio Armani",
+    "California Prop 65 Warning": "NA",
+    "Chest Size": "NA",
+    "Closure": "NA",
+    "Collar Style": "NA",
+    "Color": "Black",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country": "Japan",
+    "Delivery": "Estimated between Tue, Oct 20 and Thu, Oct 22 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Department": "NA",
+    "Fabric Type": "NA",
+    "Features": "NA",
+    "Fit": "NA",
+    "Garment Care": "NA",
+    "Handmade": "NA",
+    "Import fees": "Includes import fees.",
+    "Insulation Material": "NA",
+    "Jacket/Coat Length": "NA",
+    "Lining Material": "NA",
+    "MPN": "NA",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "Free Expedited Shipping from outside US. See detailsfor shippingLocated in: Japan, Japan"
+   },
+   "images": [
+    "data/items/ebay-600d4a415c/1.webp",
+    "data/items/ebay-600d4a415c/2.webp",
+    "data/items/ebay-600d4a415c/3.webp",
+    "data/items/ebay-600d4a415c/4.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/h4AAAeSweydqwQ3n/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/6ncAAeSwFY1qwQ3n/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Kk4AAeSwdhJqwQ3n/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/-zQAAeSw4PpqwQ3n/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-06T15:21:42.396Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-06T15:21:42.396Z"
+   }
+  },
+  {
    "id": "ebay-195cf968ba",
    "platform": "ebay",
    "site": "eBay",
