@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-e07d6f95fc",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/178562925187",
+   "title": "Vtg USA Made 32x32 Brown High Waist Pleated Classic Dress Mens Pants",
+   "brand": "Nino Cerruti",
+   "price": {
+    "amount": "60.0",
+    "currency": "USD"
+   },
+   "priceText": "US $60.00",
+   "size": "32",
+   "condition": "Pre-owned - Excellent",
+   "color": "Brown",
+   "seller": "za61059",
+   "location": "Denton, TX, United States",
+   "availability": "InStock",
+   "description": "Vtg USA Made Nino Cerruti 32x32 Brown High Waist Pleated Classic Dress Mens Pant Excellent pre owned condition pants from the American fashion house Nino Cerruti. 100% wool",
+   "details": {
+    "Brand": "Nino Cerruti",
+    "Closure": "Zip",
+    "Color": "Brown",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Condition Description": "Excellent Condition -- this is a beautiful item and is ready to w",
+    "Delivery": "Estimated between Sat, Oct 10 and Thu, Oct 15 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Department": "Men",
+    "Fabric Type": "Wool",
+    "Fit": "Classic",
+    "Front Type": "Pleated",
+    "Ins": "32",
+    "Inseam": "32 in",
+    "Leg Style": "Classic",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shade": "Brown",
+    "Shipping": "US $9.66 Standard Tracked Shipping. See detailsfor shippingLocated in: Denton, TX, United States",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Tag Style": "High Waist Pleated Classic Dress",
+    "Type": "Pants",
+    "Vintage": "Yes",
+    "Waist Size": "32 in"
+   },
+   "images": [
+    "data/items/ebay-e07d6f95fc/1.webp",
+    "data/items/ebay-e07d6f95fc/2.webp",
+    "data/items/ebay-e07d6f95fc/3.webp",
+    "data/items/ebay-e07d6f95fc/4.webp",
+    "data/items/ebay-e07d6f95fc/5.webp",
+    "data/items/ebay-e07d6f95fc/6.webp",
+    "data/items/ebay-e07d6f95fc/7.webp",
+    "data/items/ebay-e07d6f95fc/8.webp",
+    "data/items/ebay-e07d6f95fc/9.webp",
+    "data/items/ebay-e07d6f95fc/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/aicAAeSwSk9qxadv/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ZxkAAeSwA8xqxadv/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/L5AAAeSwCCpqxadv/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mpoAAeSwr9Jqxadv/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/NxwAAeSwt~tqxadv/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/In4AAeSw9Vhqxadv/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/6h4AAeSwJfJqxadv/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/8CkAAeSweUNqxadv/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/1vQAAeSw~hNqxadw/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/M3wAAeSwOApqxadw/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T12:06:11.723Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T12:06:11.723Z"
+   }
+  },
+  {
    "id": "ebay-feefb084cb",
    "platform": "ebay",
    "site": "eBay",
