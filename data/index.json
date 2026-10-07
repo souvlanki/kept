@@ -1,6 +1,78 @@
 {
  "items": [
   {
+   "id": "ebay-feefb084cb",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/960030652474",
+   "title": "Givenchy Monsieur Dress Pants Men's 33x32 Gray Pleated Cuffed",
+   "brand": "Givenchy",
+   "price": {
+    "amount": "25.0",
+    "currency": "USD"
+   },
+   "priceText": "US $25.00",
+   "size": "34",
+   "condition": "Pre-owned - Fair",
+   "color": "Gray",
+   "seller": "Valentino's Fresh Closet",
+   "location": "Cape Coral, Florida, United States",
+   "availability": "InStock",
+   "description": "The Givenchy Monsieur Dress Pants are a sophisticated and stylish choice for men seeking formal or business attire. These gray pants feature a pleated front, cuffed hem, and button and zipper closure for a refined look. With a size of 33x32, these pants offer comfort and practicality with pockets for added convenience. The Givenchy brand ensures quality and timeless style, making these pants a versatile addition to any man's wardrobe. Does have a couple spots as shown Size specifics say 34 due to ebays policy but is indeed a 33 as titled",
+   "details": {
+    "Accents": "Button, Pleated, Zipper",
+    "Brand": "Givenchy",
+    "Closure": "Zip",
+    "Color": "Gray",
+    "Condition": "Pre-owned - Fair: This item has significantly visible imperfections and signs of wear. All ... Read moreabout the conditionPre-owned - Fair: This item has significantly visible imperfections and signs",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Fri, Oct 9 and Wed, Oct 14 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Discounts": "-US $2.50VALENTINOFALL26",
+    "Estimated total": "US $32.65*",
+    "Features": "Cuffed, Pockets, Comfort",
+    "Front Type": "Pleated",
+    "Inseam": "32 in",
+    "Item price": "US $25.00",
+    "Occasion": "Formal, Business",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "US $10.15",
+    "Size": "34",
+    "Size Type": "Regular",
+    "Style": "Dress Pants",
+    "Type": "Pants",
+    "Vintage": "No"
+   },
+   "images": [
+    "data/items/ebay-feefb084cb/1.webp",
+    "data/items/ebay-feefb084cb/2.webp",
+    "data/items/ebay-feefb084cb/3.webp",
+    "data/items/ebay-feefb084cb/4.webp",
+    "data/items/ebay-feefb084cb/5.webp",
+    "data/items/ebay-feefb084cb/6.webp",
+    "data/items/ebay-feefb084cb/7.webp",
+    "data/items/ebay-feefb084cb/8.webp",
+    "data/items/ebay-feefb084cb/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/O1YAAeSwdFlqt9-i/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/VBIAAeSw9Cpqt9-i/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/yikAAeSwTxxqt9-j/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/BdUAAeSwHrtqt9-j/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/PwYAAeSwvRpqt9-k/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Lf8AAeSwtyZqt9-k/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/9qQAAeSwmbxqt9-k/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/BK4AAeSwJ4Zqt9-l/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/vuQAAeSw2YBqt9-l/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T12:05:11.708Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T12:05:11.708Z"
+   }
+  },
+  {
    "id": "ebay-8c19a2b6c6",
    "platform": "ebay",
    "site": "eBay",
