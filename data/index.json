@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-4b661c2259",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/158164057745",
+   "title": "Vintage 1970s Men's Jacket By Miltons Men's WearBrown Blazer Coat Size L",
+   "brand": "Miltons",
+   "price": {
+    "amount": "26.0",
+    "currency": "USD"
+   },
+   "priceText": "US $26.00",
+   "size": "L",
+   "condition": "Pre-owned - Excellent",
+   "color": "Brown",
+   "seller": "mandoua124",
+   "location": "Providence, Rhode Island, United States",
+   "availability": "InStock",
+   "description": "This item is a Mens Miltons Coat circa 1970. It is in excellent condition for being 50+ years old. There is no size tag. I wore when I was a Mens/Large. ( in today's sizes) Its a great vintage piece! I love it, I just don't fit it anymore and have aged out of it. the buttons match the inner lining. it's strong and beautiful .Time to pass it along. Enjoy and happy bidding.",
+   "details": {
+    "Brand": "Miltons",
+    "Chest Size": "42 in",
+    "Color": "Brown",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "United States",
+    "Delivery": "Estimated between Sat, Oct 10 and Mon, Oct 19 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Features": "Inner Pockets",
+    "Outer Shell Material": "cotton maybe wool",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $10.15 USPS Ground Advantage®. See detailsfor shippingLocated in: Providence, Rhode Island, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "coat",
+    "Type": "Blazer"
+   },
+   "images": [
+    "data/items/ebay-4b661c2259/1.webp",
+    "data/items/ebay-4b661c2259/2.webp",
+    "data/items/ebay-4b661c2259/3.webp",
+    "data/items/ebay-4b661c2259/4.webp",
+    "data/items/ebay-4b661c2259/5.webp",
+    "data/items/ebay-4b661c2259/6.webp",
+    "data/items/ebay-4b661c2259/7.webp",
+    "data/items/ebay-4b661c2259/8.webp",
+    "data/items/ebay-4b661c2259/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/OpgAAeSwS~JqbMBf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/sZUAAeSwAY9qbMBh/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/dNoAAeSwB-dqbMBg/s-l1600.png",
+    "https://i.ebayimg.com/images/g/SSsAAeSwo4NqbMBd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/4cgAAeSwycZqbMBg/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QaAAAeSwYaxqbMBi/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/1j8AAeSwhQNqbMM5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/hRcAAeSwErFqbMNz/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/9cIAAeSw529qbMOP/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T06:58:15.438Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T06:58:15.438Z"
+   }
+  },
+  {
    "id": "ebay-9a9e55bc61",
    "platform": "ebay",
    "site": "eBay",
