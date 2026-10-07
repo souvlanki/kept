@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-509399eb05",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/960015671773",
+   "title": "USED GIANNI VERSACE CORDUROY PANTS GOOD",
+   "brand": "VERSACE",
+   "price": {
+    "amount": "602.82",
+    "currency": "USD"
+   },
+   "priceText": "US $602.82",
+   "size": "M",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "See The Item Photos & Description",
+   "seller": "fukunakamacom store03",
+   "location": "KYOTO, Japan, Japan",
+   "availability": "InStock",
+   "description": "GIANNI VERSACE Corduroy Pants. We are a group of clothing enthusiasts based in Kyoto. We look forward to sharing exciting, heartwarming fashion with fellow fashion lovers around the globe! The belt loop on the left rear is frayed.",
+   "details": {
+    "Brand": "VERSACE",
+    "Color": "See The Item Photos & Description",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Tue, Oct 13 and Fri, Oct 23 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Dress Length": "See The Item Photos & Description",
+    "Exterior Color": "See The Item Photos & Description",
+    "Exterior Material": "See The Item Photos & Description",
+    "Frame Color": "SeeThePhotos",
+    "Import fees": "Includes import fees.",
+    "Inseam": "See The Item Photos & Description",
+    "MPN": "Does Not Apply",
+    "Material": "See The Item Photos & Description",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“[GOOD Condition]”",
+    "Shipping": "Free eBay SpeedPAK Standard. See detailsfor shippingLocated in: KYOTO, Japan, Japan",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Skirt Length": "See The Item Photos & Description",
+    "Sleeve Length": "See The Item Photos & Description",
+    "Style": "Dress Pants",
+    "Type": "See The Item Photos & Description",
+    "US Shoe Size": "See The Item Photos & Description",
+    "Upper Material": "See The Item Photos & Description"
+   },
+   "images": [
+    "data/items/ebay-509399eb05/1.webp",
+    "data/items/ebay-509399eb05/2.webp",
+    "data/items/ebay-509399eb05/3.webp",
+    "data/items/ebay-509399eb05/4.webp",
+    "data/items/ebay-509399eb05/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/-cAAAeSw8tlqw0ht/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/w5UAAeSwtIlqw0hu/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/5IQAAeSwwqpqw0hu/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/tqIAAeSwjSVqw0hu/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/KhoAAeSwtupqw0hu/s-l1600.gif"
+   ],
+   "likedAt": "2026-10-07T11:59:40.900Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T11:59:40.900Z"
+   }
+  },
+  {
    "id": "ebay-5aebe53655",
    "platform": "ebay",
    "site": "eBay",
