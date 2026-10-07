@@ -1,6 +1,80 @@
 {
  "items": [
   {
+   "id": "ebay-d0e7827372",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/227550760618",
+   "title": "Vintage Gianni Versace Black Blazer Jacket Cardigan Miami Vice 80s 90s",
+   "brand": "Gianni Versace",
+   "price": {
+    "amount": "223.99",
+    "currency": "USD"
+   },
+   "priceText": "US $159.990",
+   "size": "L",
+   "condition": "Pre-owned - Excellent",
+   "color": "Black",
+   "seller": "huntzijd",
+   "location": "Miami, Florida, United States",
+   "availability": "InStock",
+   "description": "Clearing out my closet and listing some of my vintage ’80s designer pieces 😎🌴🔥 Up for auction is this killer vintage black Gianni Versace cardigan (stretchy wool) jacket pure MIAMI VICE energy. In very good condition Label shows 48/M, fits more like a slim Large Please see measurements below: • Shoulder to shoulder: 20” • Pit to pit: 21” • Sleeve: 25” .Total length 32” ⚠️ PLEASE LOOK AT ALL PICTURES CAREFULLY, REVIEW THE MEASUREMENTS, AND ASK ANY QUESTIONS PRIOR TO BIDDING. ALL SALES ARE FINAL.",
+   "details": {
+    "Brand": "Gianni Versace",
+    "Cancellations": "No cancellations for auctions. See details- for more information about cancellations",
+    "Color": "Black",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Fri, Oct 9 and Wed, Oct 14 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Outer Shell Material": "Wool",
+    "Payments": "Diners Club Money Order",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $24.99 USPS Media MailTM. See detailsfor shippingLocated in: Miami, Florida, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "Miami Vice",
+    "Theme": "80s",
+    "Type": "Blazer",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-d0e7827372/1.webp",
+    "data/items/ebay-d0e7827372/2.webp",
+    "data/items/ebay-d0e7827372/3.webp",
+    "data/items/ebay-d0e7827372/4.webp",
+    "data/items/ebay-d0e7827372/5.webp",
+    "data/items/ebay-d0e7827372/6.webp",
+    "data/items/ebay-d0e7827372/7.webp",
+    "data/items/ebay-d0e7827372/8.webp",
+    "data/items/ebay-d0e7827372/9.webp",
+    "data/items/ebay-d0e7827372/10.webp",
+    "data/items/ebay-d0e7827372/11.webp",
+    "data/items/ebay-d0e7827372/12.webp",
+    "data/items/ebay-d0e7827372/13.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/iYcAAeSwzF9qwWDE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/rWsAAeSwgwVqwWDE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/k9oAAeSw8tlqwWDE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/irEAAeSwttBqwWDE/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/jfAAAeSwxXVqwWDv/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/RTwAAeSwD1JqwWDF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/6HAAAeSwjQZqwWDF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/oVsAAeSwj~lqwWDF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/ZpsAAeSwNG5qwWDF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/dQYAAeSwFY1qwWDF/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/6qEAAeSwWsdqwWDG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Cg0AAeSwt~tqwWDG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/EwkAAeSw8qtqwWDG/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T12:01:04.306Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T12:01:04.306Z"
+   }
+  },
+  {
    "id": "ebay-621b79afe2",
    "platform": "ebay",
    "site": "eBay",
