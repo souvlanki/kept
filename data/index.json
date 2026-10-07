@@ -1,6 +1,73 @@
 {
  "items": [
   {
+   "id": "ebay-653c918532",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/257778271690",
+   "title": "USED GIANNI VERSACE ISTANTE VINTAGE DOUBLE-BREASTED BLAZER, MADE IN ITALY EXCE",
+   "brand": "VERSACE",
+   "price": {
+    "amount": "359.83",
+    "currency": "USD"
+   },
+   "priceText": "US $359.83",
+   "size": "L",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "See The Item Photos & Description",
+   "seller": "fukunakamacom",
+   "location": "KYOTO, Japan, Japan",
+   "availability": "InStock",
+   "description": "We are a group of clothing enthusiasts based in Kyoto. We look forward to sharing exciting, heartwarming fashion with fellow fashion lovers around the globe! - Country of origin: Italy.   Since this item is used, it may not have all the parts and accessories it had when sold new.",
+   "details": {
+    "Brand": "VERSACE",
+    "Color": "See The Item Photos & Description",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Tue, Oct 13 and Mon, Oct 26 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Dress Length": "See The Item Photos & Description",
+    "Exterior Color": "See The Item Photos & Description",
+    "Exterior Material": "See The Item Photos & Description",
+    "Frame Color": "SeeThePhotos",
+    "Import fees": "Includes import fees.",
+    "Inseam": "See The Item Photos & Description",
+    "MPN": "Does Not Apply",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“[EXCELLENT Condition]”",
+    "Shipping": "Free eBay SpeedPAK Standard. See detailsfor shippingLocated in: KYOTO, Japan, Japan",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Skirt Length": "See The Item Photos & Description",
+    "Sleeve Length": "See The Item Photos & Description",
+    "Style": "Overcoat",
+    "Type": "See The Item Photos & Description",
+    "US Shoe Size": "See The Item Photos & Description",
+    "Upper Material": "See The Item Photos & Description"
+   },
+   "images": [
+    "data/items/ebay-653c918532/1.webp",
+    "data/items/ebay-653c918532/2.webp",
+    "data/items/ebay-653c918532/3.webp",
+    "data/items/ebay-653c918532/4.webp",
+    "data/items/ebay-653c918532/5.webp",
+    "data/items/ebay-653c918532/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/LngAAeSwWaxqv8gU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/cSwAAeSwGNdqv8gU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/h2EAAeSwqcpqv8gU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/iEsAAeSw~XZqv8gU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/kDwAAeSw2t1qv8gU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/qfEAAeSwoDtqv8gU/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T12:02:21.193Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T12:02:21.193Z"
+   }
+  },
+  {
    "id": "ebay-ce4a18798d",
    "platform": "ebay",
    "site": "eBay",
