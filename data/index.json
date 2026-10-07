@@ -230,8 +230,7 @@
    ],
    "likedAt": "2026-10-07T12:05:11.708Z",
    "archive": {
-    "status": "pending",
-    "requestedAt": "2026-10-07T12:05:11.708Z"
+    "status": "failed"
    }
   },
   {
