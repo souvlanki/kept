@@ -1,6 +1,75 @@
 {
  "items": [
   {
+   "id": "ebay-524799ac83",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/257778259287",
+   "title": "USED GIANNI VERSACE EXTRA-LONG COAT MADE OF ALPACA SHAGGY MATERIAL, SIZE XL AN",
+   "brand": "Gianni Versace",
+   "price": {
+    "amount": "956.21",
+    "currency": "USD"
+   },
+   "priceText": "US $956.21",
+   "size": "XL",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "See The Item Photos & Description",
+   "seller": "fukunakamacom",
+   "location": "KYOTO, Japan, Japan",
+   "availability": "InStock",
+   "description": "This is a Chester coat from Gianni Versace's first line. It is tailored to be larger than the stated size, with a relaxed silhouette. Outer fabric: 68% alpaca, 32% wool (a slightly thick, soft fabric with long fibers).",
+   "details": {
+    "Brand": "Gianni Versace",
+    "Color": "See The Item Photos & Description",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Tue, Oct 13 and Fri, Oct 23 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Dress Length": "See The Item Photos & Description",
+    "Exterior Color": "See The Item Photos & Description",
+    "Exterior Material": "See The Item Photos & Description",
+    "Frame Color": "SeeThePhotos",
+    "Import fees": "Includes import fees.",
+    "Inseam": "See The Item Photos & Description",
+    "MPN": "Does Not Apply",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“[VERYGOOD Condition]”",
+    "Shipping": "Free eBay SpeedPAK Standard. See detailsfor shippingLocated in: KYOTO, Japan, Japan",
+    "Size": "XL",
+    "Size Type": "Regular",
+    "Skirt Length": "See The Item Photos & Description",
+    "Sleeve Length": "See The Item Photos & Description",
+    "Style": "Overcoat",
+    "Type": "See The Item Photos & Description",
+    "US Shoe Size": "See The Item Photos & Description",
+    "Upper Material": "See The Item Photos & Description"
+   },
+   "images": [
+    "data/items/ebay-524799ac83/1.webp",
+    "data/items/ebay-524799ac83/2.webp",
+    "data/items/ebay-524799ac83/3.webp",
+    "data/items/ebay-524799ac83/4.webp",
+    "data/items/ebay-524799ac83/5.webp",
+    "data/items/ebay-524799ac83/6.webp",
+    "data/items/ebay-524799ac83/7.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/Y94AAeSw3JBqv8cp/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mxkAAeSwPhtqv8cp/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/hOIAAeSwASdqv8cp/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/na4AAeSwzN1qv8cp/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/vlMAAeSwHbxqv8cp/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mRoAAeSw28Nqv8cp/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/bS8AAeSwXnZqv8cp/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T12:03:23.041Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T12:03:23.041Z"
+   }
+  },
+  {
    "id": "ebay-185996369e",
    "platform": "ebay",
    "site": "eBay",
