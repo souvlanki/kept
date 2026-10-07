@@ -1,6 +1,77 @@
 {
  "items": [
   {
+   "id": "ebay-193355a177",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/257778258910",
+   "title": "USED GIANNI VERSACE QUILTED BLOUSON JACKET (VINTAGE) VERYGOOD",
+   "brand": "Gianni Versace",
+   "price": {
+    "amount": "1044.28",
+    "currency": "USD"
+   },
+   "priceText": "US $1,044.28",
+   "size": "L",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "See The Item Photos & Description",
+   "seller": "fukunakamacom",
+   "location": "KYOTO, Japan, Japan",
+   "availability": "InStock",
+   "description": "GIANNI VERSACE/ VERSACE JEANS COUTURE. Quilted jacket / Zip blouson / Bomber jacket. We are a group of clothing enthusiasts based in Kyoto. We look forward to sharing exciting, heartwarming fashion with fellow fashion lovers around the globe!",
+   "details": {
+    "Brand": "Gianni Versace",
+    "Color": "See The Item Photos & Description",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Tue, Oct 13 and Fri, Oct 23 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Dress Length": "See The Item Photos & Description",
+    "Exterior Color": "See The Item Photos & Description",
+    "Exterior Material": "See The Item Photos & Description",
+    "Frame Color": "SeeThePhotos",
+    "Import fees": "Includes import fees.",
+    "Inseam": "See The Item Photos & Description",
+    "MPN": "Does Not Apply",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“[VERYGOOD Condition]”",
+    "Shipping": "Free eBay SpeedPAK Standard. See detailsfor shippingLocated in: KYOTO, Japan, Japan",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Skirt Length": "See The Item Photos & Description",
+    "Sleeve Length": "See The Item Photos & Description",
+    "Style": "Bomber Jacket",
+    "Type": "See The Item Photos & Description",
+    "US Shoe Size": "See The Item Photos & Description",
+    "Upper Material": "See The Item Photos & Description"
+   },
+   "images": [
+    "data/items/ebay-193355a177/1.webp",
+    "data/items/ebay-193355a177/2.webp",
+    "data/items/ebay-193355a177/3.webp",
+    "data/items/ebay-193355a177/4.webp",
+    "data/items/ebay-193355a177/5.webp",
+    "data/items/ebay-193355a177/6.webp",
+    "data/items/ebay-193355a177/7.webp",
+    "data/items/ebay-193355a177/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/hYAAAeSwC7Zqv8cf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pnwAAeSwZPtqv8cf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/XA0AAeSwMYpqv8cf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/gPYAAeSwFRlqv8cf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/mmsAAeSwPhtqv8cf/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/YXYAAeSw-ftqv8cf/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/iUUAAeSwxclqv8cf/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/k5YAAeSwpEBqv8cf/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-07T12:03:41.152Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-07T12:03:41.152Z"
+   }
+  },
+  {
    "id": "ebay-524799ac83",
    "platform": "ebay",
    "site": "eBay",
