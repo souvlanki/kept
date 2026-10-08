@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "carousell-8ef6f03738",
+   "platform": "carousell",
+   "site": "Carousell",
+   "url": "https://www.carousell.sg/p/telephone-directory-1969-singapore-with-yellow-pages-1173410865",
+   "title": "Telephone directory 1969, #singapore with yellow pages.",
+   "brand": "",
+   "price": {
+    "amount": "250",
+    "currency": "SGD"
+   },
+   "priceText": "",
+   "size": "",
+   "condition": "Well usedSaves 0.8kg of CO2",
+   "color": "",
+   "seller": "whatitsallabout",
+   "location": "",
+   "availability": "InStock",
+   "description": "condition  as per pictures.",
+   "details": {},
+   "images": [
+    "data/items/carousell-8ef6f03738/1.webp",
+    "data/items/carousell-8ef6f03738/2.webp",
+    "data/items/carousell-8ef6f03738/3.webp",
+    "data/items/carousell-8ef6f03738/4.webp",
+    "data/items/carousell-8ef6f03738/5.webp",
+    "data/items/carousell-8ef6f03738/6.webp",
+    "data/items/carousell-8ef6f03738/7.webp",
+    "data/items/carousell-8ef6f03738/8.webp",
+    "data/items/carousell-8ef6f03738/9.webp",
+    "data/items/carousell-8ef6f03738/10.webp"
+   ],
+   "sourceImages": [
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_ffd34890_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_7ccff260_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_85d12693_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_3ef9a101_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_7c4963c0_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_4bfdba63_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_bc833405_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_6148c96f_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_bb28029c_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/7/19/telephone_directory_1969_singa_1658206567_ffd34890.jpg"
+   ],
+   "likedAt": "2026-10-08T07:18:50.403Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-08T07:18:50.403Z"
+   }
+  },
+  {
    "id": "carousell-7efb8a3401",
    "platform": "carousell",
    "site": "Carousell",
