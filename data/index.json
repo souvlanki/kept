@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "carousell-1b2af144c7",
+   "platform": "carousell",
+   "site": "Carousell",
+   "url": "https://www.carousell.sg/p/singapore-yellow-pages-telephone-directory-1966-1196702527",
+   "title": "Singapore Yellow Pages telephone directory 1966",
+   "brand": "",
+   "price": {
+    "amount": "150",
+    "currency": "SGD"
+   },
+   "priceText": "",
+   "size": "",
+   "condition": "Lightly usedSaves 0.8kg of CO2",
+   "color": "",
+   "seller": "knicknknack",
+   "location": "",
+   "availability": "InStock",
+   "description": "#HM17",
+   "details": {},
+   "images": [
+    "data/items/carousell-1b2af144c7/1.webp",
+    "data/items/carousell-1b2af144c7/2.webp",
+    "data/items/carousell-1b2af144c7/3.webp",
+    "data/items/carousell-1b2af144c7/4.webp",
+    "data/items/carousell-1b2af144c7/5.webp",
+    "data/items/carousell-1b2af144c7/6.webp",
+    "data/items/carousell-1b2af144c7/7.webp",
+    "data/items/carousell-1b2af144c7/8.webp",
+    "data/items/carousell-1b2af144c7/9.webp",
+    "data/items/carousell-1b2af144c7/10.webp"
+   ],
+   "sourceImages": [
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_52115920_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_71dedc89_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_ddf49629_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_c47e3a33_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_bc3412a5_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_7b7f405e_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_6c8becad_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_c7c8d219_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_8c546775_progressive.jpg",
+    "https://media.karousell.com/media/photos/products/2022/11/14/singapore_yellow_pages_telepho_1668407139_52115920.jpg"
+   ],
+   "likedAt": "2026-10-08T07:17:12.896Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-08T07:17:12.896Z"
+   }
+  },
+  {
    "id": "ebay-950db6069d",
    "platform": "ebay",
    "site": "eBay",
