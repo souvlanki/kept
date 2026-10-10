@@ -1,6 +1,69 @@
 {
  "items": [
   {
+   "id": "ebay-63d58b07b3",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/307222844987",
+   "title": "Giorgio Armani Long Sleeve Button-Down Shirt Size 41",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "35.0",
+    "currency": "USD"
+   },
+   "priceText": "US $35.00",
+   "size": "40",
+   "condition": "Pre-owned - Good",
+   "color": "White",
+   "seller": "d_deguzman1123",
+   "location": "Englishtown, New Jersey, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Giorgio Armani Long Sleeve Button-Down Shirt Size 41 at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Button",
+    "Chest Size": "41 in",
+    "Collar Style": "Point",
+    "Color": "White",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Estimated between Fri, Oct 16 and Thu, Oct 22 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Fabric Type": "Woven",
+    "Features": "Buttoned Cuffs",
+    "Fit": "Regular",
+    "Handmade": "No",
+    "Material": "Cotton",
+    "Neckline": "Collared",
+    "Occasion": "Business",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Returns": "14 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "Free FedEx Ground Economy®. See detailsfor shippingLocated in: Englishtown, New Jersey, United States",
+    "Size": "40",
+    "Sleeve Length": "Long Sleeve",
+    "Type": "Button-Up",
+    "Vintage": "No",
+    "style": "Casual"
+   },
+   "images": [
+    "data/items/ebay-63d58b07b3/1.webp",
+    "data/items/ebay-63d58b07b3/2.webp",
+    "data/items/ebay-63d58b07b3/3.webp",
+    "data/items/ebay-63d58b07b3/4.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/V4sAAeSwMP9qyQG7/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/p5wAAeSw8uZqyQG7/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/8O4AAeSwGEtqyQG8/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/7rwAAeSwZZxqyQG8/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-10T16:35:02.233Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-10T16:35:02.233Z"
+   }
+  },
+  {
    "id": "ebay-f35376b62e",
    "platform": "ebay",
    "site": "eBay",
