@@ -1,6 +1,77 @@
 {
  "items": [
   {
+   "id": "ebay-27b0157f78",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/128131564803",
+   "title": "Gianni Versace 90s Wool Quilted Jacket Made in Italy Used",
+   "brand": "Gianni Versace",
+   "price": {
+    "amount": "1181.25",
+    "currency": "USD"
+   },
+   "priceText": "US $1,181.25",
+   "size": "M",
+   "condition": "Pre-owned - Good",
+   "color": "Black",
+   "seller": "Fall Like Japan",
+   "location": "Japan, Japan",
+   "availability": "InStock",
+   "description": "It features a distinctive all-over pattern, logo embossing, and a stylish oversized collar, making it a unique addition to any fashion collection. Features a quilted lining for added warmth and comfort.",
+   "details": {
+    "Accents": "NA",
+    "Brand": "Gianni Versace",
+    "California Prop 65 Warning": "NA",
+    "Chest Size": "NA",
+    "Closure": "NA",
+    "Collar Style": "NA",
+    "Color": "Black",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country": "Japan",
+    "Delivery": "Estimated between Mon, Oct 26 and Wed, Oct 28 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Department": "NA",
+    "Fabric Type": "NA",
+    "Features": "NA",
+    "Fit": "NA",
+    "Garment Care": "NA",
+    "Handmade": "NA",
+    "Import fees": "Includes import fees.",
+    "Insulation Material": "NA",
+    "Jacket/Coat Length": "NA",
+    "Lining Material": "NA",
+    "MPN": "NA",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "Free Expedited Shipping from outside US. See detailsfor shippingLocated in: Japan, Japan"
+   },
+   "images": [
+    "data/items/ebay-27b0157f78/1.webp",
+    "data/items/ebay-27b0157f78/2.webp",
+    "data/items/ebay-27b0157f78/3.webp",
+    "data/items/ebay-27b0157f78/4.webp",
+    "data/items/ebay-27b0157f78/5.webp",
+    "data/items/ebay-27b0157f78/6.webp",
+    "data/items/ebay-27b0157f78/7.webp",
+    "data/items/ebay-27b0157f78/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/G3gAAeSw0MdqzUau/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/J8YAAeSw2rlqzUau/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/xSUAAeSwlMpqzUau/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/tgEAAeSwjO1qzUau/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/GdkAAeSwaGRqzUau/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/A-EAAeSwoX9qzUau/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/IPgAAeSw96NqzUau/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/CjIAAeSwUyJqzUau/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-14T14:20:01.395Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:20:01.395Z"
+   }
+  },
+  {
    "id": "ebay-656211809e",
    "platform": "ebay",
    "site": "eBay",
