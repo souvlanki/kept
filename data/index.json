@@ -1,6 +1,82 @@
 {
  "items": [
   {
+   "id": "ebay-9aae8ab6b0",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/800788650775",
+   "title": "Armani Collezioni Mens 15.5 38/39 Blue White Striped Dress Shirt Cotton",
+   "brand": "Armani Collezioni",
+   "price": {
+    "amount": "59.99",
+    "currency": "USD"
+   },
+   "priceText": "US $59.99",
+   "size": "15.5",
+   "condition": "Pre-owned - Excellent",
+   "color": "Blue, White",
+   "seller": "Heartandcart",
+   "location": "Chula Vista, California, United States",
+   "availability": "InStock",
+   "description": "The Armani Collezioni Men's Dress Shirt in blue and white stripes is a stylish and sophisticated addition to any man's wardrobe. Made from cotton, this shirt features a collared neckline with a button closure and long sleeves with a 38/39 length. The regular fit and barrel cuff detail add to the classic look of this shirt, perfect for formal occasions or professional settings. Complete with pockets for added functionality, this dress shirt is designed for the modern man looking for a timeless and elegant top.",
+   "details": {
+    "Accents": "Button",
+    "Brand": "Armani Collezioni",
+    "Closure": "Button",
+    "Collar Style": "Point",
+    "Color": "Blue, White",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Delivery": "Estimated between Fri, Oct 16 and Tue, Oct 20 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Features": "Pockets",
+    "Fit": "Regular",
+    "Material": "Cotton",
+    "Neck Size": "15.5 in",
+    "Neckline": "Collared",
+    "Pattern": "Striped",
+    "Payments": "Diners Club",
+    "Returns": "14 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Shipping": "US $7.90 USPS Ground Advantage®. See detailsfor shippingLocated in: Chula Vista, California, United States",
+    "Size": "15.5",
+    "Size Type": "Regular",
+    "Sleeve Length": "38/39",
+    "Sleeve Type": "Long Sleeve",
+    "Top Cuff Style": "Barrel Cuff",
+    "Type": "Dress Shirt"
+   },
+   "images": [
+    "data/items/ebay-9aae8ab6b0/1.webp",
+    "data/items/ebay-9aae8ab6b0/2.webp",
+    "data/items/ebay-9aae8ab6b0/3.webp",
+    "data/items/ebay-9aae8ab6b0/4.webp",
+    "data/items/ebay-9aae8ab6b0/5.webp",
+    "data/items/ebay-9aae8ab6b0/6.webp",
+    "data/items/ebay-9aae8ab6b0/7.webp",
+    "data/items/ebay-9aae8ab6b0/8.webp",
+    "data/items/ebay-9aae8ab6b0/9.webp",
+    "data/items/ebay-9aae8ab6b0/10.webp",
+    "data/items/ebay-9aae8ab6b0/11.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/tfoAAeSw-~dqzS9d/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/1uYAAeSwId9qzS8~/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/3GIAAeSwL1NqzS8~/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/uO8AAeSwa3xqzS8~/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/uPoAAeSwWYRqzS9A/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/uJUAAeSwHwBqzS9A/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/P28AAeSw0aZqzS9A/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/mIUAAeSwZXVqzS9A/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/AJoAAeSwKc9qzS9A/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/aygAAeSwXi1qzS9B/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/b2EAAeSwcKBqzS9B/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-14T14:06:39.860Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:06:39.860Z"
+   }
+  },
+  {
    "id": "ebay-17a9d922b2",
    "platform": "ebay",
    "site": "eBay",
