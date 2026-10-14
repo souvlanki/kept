@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "id": "ebay-3bd7bad9b5",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/940011118193",
+   "title": "Vintage 1990's Emporio Armani Khaki Crochet Knit Vest",
+   "brand": "Emporio Armani",
+   "price": {
+    "amount": "152.43",
+    "currency": "USD"
+   },
+   "priceText": "GBP 115.00",
+   "size": "L",
+   "condition": "Pre-owned - Good",
+   "color": "Green",
+   "seller": "6449susan",
+   "location": "Peterborough, United Kingdom",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Vintage 1990's Emporio Armani Khaki Crochet Knit Vest at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Brand": "Emporio Armani",
+    "Colour": "Green",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Tue, Oct 20 and Fri, Oct 30 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
+    "Department": "Men",
+    "Import fees": "Import fees due prior to delivery.",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "GBP 30.00 (approx US $39.77) International Tracked Postage. See detailsfor shippingLocated in: Peterborough, United Kingdom",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "Vest",
+    "Type": "Jumper"
+   },
+   "images": [
+    "data/items/ebay-3bd7bad9b5/1.webp",
+    "data/items/ebay-3bd7bad9b5/2.webp",
+    "data/items/ebay-3bd7bad9b5/3.webp",
+    "data/items/ebay-3bd7bad9b5/4.webp",
+    "data/items/ebay-3bd7bad9b5/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/U7UAAeSwUyJqzhwT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Vj0AAeSwsy9qzhwU/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pEYAAeSwnNFqzhwT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/EvgAAeSwCbtqzhwT/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/OE8AAeSwK9BqzhwU/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-14T14:11:03.434Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:11:03.434Z"
+   }
+  },
+  {
    "id": "ebay-89c678216c",
    "platform": "ebay",
    "site": "eBay",
