@@ -1,6 +1,77 @@
 {
  "items": [
   {
+   "id": "ebay-ba72739bfd",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/920036622715",
+   "title": "Emporio ARMANI 1990s | Vintage Cardigan Knit Sweater sz M/L",
+   "brand": "Emporio Armani",
+   "price": {
+    "amount": "200.0",
+    "currency": "USD"
+   },
+   "priceText": "US $200.00",
+   "size": "L",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Multicolor",
+   "seller": "Waybach Vintage",
+   "location": "Georgetown, Ontario, Canada",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Emporio ARMANI 1990s | Vintage Cardigan Knit Sweater sz M/L at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Logo, print",
+    "Character": "Boy",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Wed, Oct 21 and Mon, Nov 2 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptanc",
+    "Department": "Men",
+    "Fabric Type": "Knit",
+    "Features": "All Seasons, Graphic Print, Stretch, Pullover, Full Zip, Cardigan",
+    "Garment Care": "Machine Washable",
+    "Import fees": "Import fees due prior to delivery.",
+    "Knit Style": "Tight-Knit",
+    "Neckline": "V-Neck",
+    "Occasion": "Casual, Formal, Party/Cocktail, Travel, Workwear",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Season": "Fall, Spring, Summer, Winter",
+    "Seller Notes": "“No stains or holes. Overall good condition* - Please review pictures*”",
+    "Shipping": "US $15.00 Standard Shipping. See detailsfor shippingLocated in: Georgetown, Ontario, Canada",
+    "Size": "L",
+    "Sleeve Length": "Long Sleeve",
+    "Style": "Cardigan",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-ba72739bfd/1.webp",
+    "data/items/ebay-ba72739bfd/2.webp",
+    "data/items/ebay-ba72739bfd/3.webp",
+    "data/items/ebay-ba72739bfd/4.webp",
+    "data/items/ebay-ba72739bfd/5.webp",
+    "data/items/ebay-ba72739bfd/6.webp",
+    "data/items/ebay-ba72739bfd/7.webp",
+    "data/items/ebay-ba72739bfd/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/InUAAeSw~KNqznlt/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/digAAeSwCdJqznls/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/fRsAAeSwr~dqznls/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/I7oAAeSwBJpqznls/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/fXYAAeSwR75qznls/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/NfAAAeSwYu9qznls/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/w3oAAeSw5Vdqznls/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/IKkAAeSwsPxqznlt/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-14T14:10:24.646Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:10:24.646Z"
+   }
+  },
+  {
    "id": "ebay-557ee8c162",
    "platform": "ebay",
    "site": "eBay",
