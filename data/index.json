@@ -1,6 +1,69 @@
 {
  "items": [
   {
+   "id": "ebay-2e688ce209",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/277695278576",
+   "title": "Ermenegildo Zegna Men’s Textured Jacquard Sweater | Multicolor | Italy | Size L",
+   "brand": "Ermenegildo Zegna",
+   "price": {
+    "amount": "315.0",
+    "currency": "USD"
+   },
+   "priceText": "US $315.00",
+   "size": "L",
+   "condition": "Pre-owned - ExcellentThis item has been previous",
+   "color": "Multicolor",
+   "seller": "A Fine Wardrobe Library And Gallery",
+   "location": "Palatine, Illinois, United States",
+   "availability": "InStock",
+   "description": "Knit in fine-gauge cotton, this sweater features an engineered grid/check pattern worked directly into the knit rather than printed or surface-applied. The result is a textured surface with visual rhythm and depth that changes subtly with light.",
+   "details": {
+    "Accents": "Knit Pattern",
+    "Brand": "Ermenegildo Zegna",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - ExcellentThis item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsop",
+    "Delivery": "Estimated between Wed, Oct 21 and Tue, Oct 27 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Fabric Type": "Knit",
+    "Fit": "Classic",
+    "Garment Care": "Dry Clean Only",
+    "Knit Style": "Fine-Gauge Jacquard Knit",
+    "Material": "Cotton",
+    "Neckline": "Crew Neck",
+    "Occasion": "Casual",
+    "Pattern": "Multicolor Horizontal Jacquard Stripe",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“Pre-owned, Excellent Condition. Cotton knit remains even and well-preserved with no holes, stains, ... Read moreabout the seller notes“Pre-owned, Excellent Condition. Cotton knit remains even and wel",
+    "Shipping": "Free Standard Shipping with Adult Signature Required. See detailsfor shippingLocated in: Palatine, Illinois, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Style": "Pullover",
+    "Type": "Sweater",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-2e688ce209/1.webp",
+    "data/items/ebay-2e688ce209/2.webp",
+    "data/items/ebay-2e688ce209/3.webp",
+    "data/items/ebay-2e688ce209/4.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/MHMAAeSw1KVpgQ1A/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QVoAAeSwanppgQ0s/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/J0kAAeSwGcNpgQ1B/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/YGQAAeSwmF5pgQ1A/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-14T14:16:47.695Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:16:47.695Z"
+   }
+  },
+  {
    "id": "ebay-e42cb703c4",
    "platform": "ebay",
    "site": "eBay",
