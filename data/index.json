@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "id": "ebay-89c678216c",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/920036614523",
+   "title": "Giorgio ARMANI 1990s | Vintage Striped Knit Sweater sz 50 M",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "170.0",
+    "currency": "USD"
+   },
+   "priceText": "US $170.00",
+   "size": "M",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Multicolor",
+   "seller": "Waybach Vintage",
+   "location": "Georgetown, Ontario, Canada",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Giorgio ARMANI 1990s | Vintage Striped Knit Sweater sz 50 M at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Logo, print",
+    "Character": "Boy",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Wed, Oct 21 and Mon, Nov 2 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptanc",
+    "Department": "Men",
+    "Fabric Type": "Knit",
+    "Features": "All Seasons, Graphic Print, Stretch, Pullover, Full Zip",
+    "Garment Care": "Machine Washable",
+    "Import fees": "Import fees due prior to delivery.",
+    "Knit Style": "Tight-Knit",
+    "Neckline": "Crew Neck",
+    "Occasion": "Casual, Formal, Party/Cocktail, Travel, Workwear",
+    "Pattern": "Geometric",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Season": "Fall, Spring, Summer, Winter",
+    "Seller Notes": "“No stains. Tiny hole/ tear on front neckline. Overall good condition* - Please review pictures*”",
+    "Shipping": "US $15.00 Standard Shipping. See detailsfor shippingLocated in: Georgetown, Ontario, Canada",
+    "Size": "M",
+    "Sleeve Length": "Long Sleeve",
+    "Style": "Pullover",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-89c678216c/1.webp",
+    "data/items/ebay-89c678216c/2.webp",
+    "data/items/ebay-89c678216c/3.webp",
+    "data/items/ebay-89c678216c/4.webp",
+    "data/items/ebay-89c678216c/5.webp",
+    "data/items/ebay-89c678216c/6.webp",
+    "data/items/ebay-89c678216c/7.webp",
+    "data/items/ebay-89c678216c/8.webp",
+    "data/items/ebay-89c678216c/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/TMYAAeSwET5qzni5/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/EYUAAeSw96Nqzni6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/dTIAAeSwvrhqzni6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/FskAAeSw~KNqzni5/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Kk8AAeSwYu9qzni6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/IU8AAeSwyShqzni5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Xp8AAeSwJyBqzni5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/dikAAeSwH3xqzni5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/1S4AAeSwrtFqzni5/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-14T14:10:44.565Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:10:44.565Z"
+   }
+  },
+  {
    "id": "ebay-ba72739bfd",
    "platform": "ebay",
    "site": "eBay",
