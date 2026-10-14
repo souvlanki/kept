@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "ebay-8cdfd08318",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/336843117920",
+   "title": "VTG Gant Salty Dog Pleated Front Straight Leg Twill Chino Pants Mens 32x32 V3",
+   "brand": "salty dog",
+   "price": {
+    "amount": "24.99",
+    "currency": "USD"
+   },
+   "priceText": "US $24.99",
+   "size": "32",
+   "condition": "Pre-owned - Excellent",
+   "color": "teal",
+   "seller": "Deedy Emporium",
+   "location": "Yuba City, California, United States",
+   "availability": "InStock",
+   "description": "VTG Gant Salty Dog Pleated Front Straight Leg Twill Chino Pants Mens 32x32 V3. Condition is Pre-owned - Excellent. Shipped with USPS Ground Advantage.",
+   "details": {
+    "Brand": "salty dog",
+    "Color": "teal",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Bangladesh",
+    "Delivery": "Estimated between Sat, Oct 17 and Wed, Oct 21 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Discounts": "-US $3.75DEEDYHALLOW26",
+    "Estimated total": "US $27.27*",
+    "Inseam": "32 in",
+    "Item price": "US $24.99",
+    "Leg Style": "Straight",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $6.03",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Style": "Chino",
+    "Theme": "Dog",
+    "Type": "Pants"
+   },
+   "images": [
+    "data/items/ebay-8cdfd08318/1.webp",
+    "data/items/ebay-8cdfd08318/2.webp",
+    "data/items/ebay-8cdfd08318/3.webp",
+    "data/items/ebay-8cdfd08318/4.webp",
+    "data/items/ebay-8cdfd08318/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/QI8AAeSw~dRqzobk/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/xiMAAeSwu1dqzoc5/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Q4wAAeSwNPVqzoc5/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/FpEAAeSw0Mdqzoc6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/xgoAAeSwWfNqzoc5/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-14T14:25:08.981Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:25:08.981Z"
+   }
+  },
+  {
    "id": "ebay-27b0157f78",
    "platform": "ebay",
    "site": "eBay",
