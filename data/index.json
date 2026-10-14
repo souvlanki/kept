@@ -1,6 +1,75 @@
 {
  "items": [
   {
+   "id": "ebay-e42cb703c4",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/820234828502",
+   "title": "Men's black Gianni Versace Couture polo sweater, size M, cashmere-silk-wool",
+   "brand": "Versace",
+   "price": {
+    "amount": "200.0",
+    "currency": "USD"
+   },
+   "priceText": "US $200.00",
+   "size": "M",
+   "condition": "Pre-owned - ExcellentThis item has been previous",
+   "color": "Black",
+   "seller": "matthew.07",
+   "location": "Craiova, Romania",
+   "availability": "InStock",
+   "description": "An elegant piece suitable for both smart-casual outfits and more refined ensembles paired with dress trousers, chinos, or jeans. Style: Long-sleeve polo sweater. A classic style with long sleeves, a polo collar, and a front closure featuring two decorative gold buttons.",
+   "details": {
+    "Accents": "Logo",
+    "Brand": "Versace",
+    "Color": "Black",
+    "Condition": "Pre-owned - ExcellentThis item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsop",
+    "Delivery": "Varies",
+    "Department": "Men",
+    "Fabric Type": "Knit",
+    "Fit": "Regular",
+    "Import fees": "Import fees due prior to delivery.",
+    "Knit Style": "Tight-Knit",
+    "Material": "Cashmere, Silk, Wool",
+    "Occasion": "Casual",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Pickup": "Free local pickup from Craiova, Romania",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“The sweater its preserved in excellent condition . It has no defects at all .”",
+    "Shipping": "Free Flat Rate Freight. See detailsfor shippingLocated in: Craiova, Romania",
+    "Size": "M",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Type": "Sweater",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-e42cb703c4/1.webp",
+    "data/items/ebay-e42cb703c4/2.webp",
+    "data/items/ebay-e42cb703c4/3.webp",
+    "data/items/ebay-e42cb703c4/4.webp",
+    "data/items/ebay-e42cb703c4/5.webp",
+    "data/items/ebay-e42cb703c4/6.webp",
+    "data/items/ebay-e42cb703c4/7.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/GOsAAeSw1dtqzjLc/s-l1600.png",
+    "https://i.ebayimg.com/images/g/rnwAAeSwRpRqzjUv/s-l1600.png",
+    "https://i.ebayimg.com/images/g/SU0AAeSwkkFqzjU6/s-l1600.png",
+    "https://i.ebayimg.com/images/g/tlIAAeSwpIdqzjTo/s-l1600.png",
+    "https://i.ebayimg.com/images/g/9Z0AAeSwaGRqzjUG/s-l1600.png",
+    "https://i.ebayimg.com/images/g/9-YAAeSwfppqzjVG/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/XsYAAeSwtHBqzjTY/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-14T14:15:31.553Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:15:31.553Z"
+   }
+  },
+  {
    "id": "ebay-bc82774b33",
    "platform": "ebay",
    "site": "eBay",
