@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-656211809e",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/277666034367",
+   "title": "Ermenegildo Zegna Men’s Wool Textured Jacquard Sweater | Italy | Brown | Size L",
+   "brand": "Ermenegildo Zegna",
+   "price": {
+    "amount": "325.0",
+    "currency": "USD"
+   },
+   "priceText": "US $325.00",
+   "size": "L",
+   "condition": "Pre-owned - ExcellentThis item has been previous",
+   "color": "Brown",
+   "seller": "A Fine Wardrobe Library And Gallery",
+   "location": "Palatine, Illinois, United States",
+   "availability": "InStock",
+   "description": "A visually rich yet composed wardrobe piece designed for longevity rather than seasonal trend cycles. Rather than leaning on overt design language, Zegna invested in knit engineering, color nuance, and disciplined proportions.",
+   "details": {
+    "Accents": "Knit Pattern",
+    "Brand": "Ermenegildo Zegna",
+    "Color": "Brown",
+    "Condition": "Pre-owned - ExcellentThis item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsop",
+    "Delivery": "Estimated between Wed, Oct 21 and Tue, Oct 27 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Fabric Type": "Knit",
+    "Fit": "Classic",
+    "Garment Care": "Dry Clean Only",
+    "Knit Style": "Jacquard Knit",
+    "Material": "Wool Blend, Wool",
+    "Neckline": "Crew Neck",
+    "Occasion": "Casual",
+    "Pattern": "Multicolor Jacquard knit",
+    "Payments": "Diners Club",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“Knit remains dense, even, and well-preserved with no holes, stains, pulls, pilling, thinning, or ... Read moreabout the seller notes“Knit remains dense, even, and well-preserved with no holes, stains",
+    "Shipping": "Free Standard Shipping with Adult Signature Required. See detailsfor shippingLocated in: Palatine, Illinois, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Style": "Pullover",
+    "Type": "Sweater",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-656211809e/1.webp",
+    "data/items/ebay-656211809e/2.webp",
+    "data/items/ebay-656211809e/3.webp",
+    "data/items/ebay-656211809e/4.webp",
+    "data/items/ebay-656211809e/5.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/~dEAAeSwKJlpceNq/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/F44AAeSwqxdpfkq5/s-l1600.png",
+    "https://i.ebayimg.com/images/g/-SEAAeSw6UtpfSLY/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/oTQAAeSw8VdpfSJj/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ad8AAeSw0PVpfSJw/s-l1600.jpg"
+   ],
+   "likedAt": "2026-10-14T14:18:04.252Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:18:04.252Z"
+   }
+  },
+  {
    "id": "ebay-3f3a7c4794",
    "platform": "ebay",
    "site": "eBay",
