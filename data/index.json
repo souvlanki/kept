@@ -1,6 +1,83 @@
 {
  "items": [
   {
+   "id": "ebay-17a9d922b2",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/147634441943",
+   "title": "Vintage Giorgio Armani Collar Latch Archival Avant Garde Rare Shirt sz S",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "999.99",
+    "currency": "USD"
+   },
+   "priceText": "US $999.99",
+   "size": "S",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Brown",
+   "seller": "Looking4Treasure99",
+   "location": "Sebring, Florida, United States",
+   "availability": "InStock",
+   "description": "Has few loose threads pointed out in photos. Material is very light weight, maybe cotton linen blend, maybe 100% cotton. Measurements in photos.",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "Brown",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Delivery": "Estimated between Sat, Oct 17 and Thu, Oct 22 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Seller Notes": "“Has few loose threads pointed out in photos. Material is very light weight, maybe cotton linen ... Read moreabout the seller notes“Has few loose threads pointed out in photos. Material is very light ",
+    "Shipping": "Free Standard Shipping. See detailsfor shippingLocated in: Sebring, Florida, United States",
+    "Size": "S",
+    "Size Type": "Regular",
+    "Sleeve Length": "Long Sleeve",
+    "Style": "Button-Front",
+    "Type": "Button-Up"
+   },
+   "images": [
+    "data/items/ebay-17a9d922b2/1.webp",
+    "data/items/ebay-17a9d922b2/2.webp",
+    "data/items/ebay-17a9d922b2/3.webp",
+    "data/items/ebay-17a9d922b2/4.webp",
+    "data/items/ebay-17a9d922b2/5.webp",
+    "data/items/ebay-17a9d922b2/6.webp",
+    "data/items/ebay-17a9d922b2/7.webp",
+    "data/items/ebay-17a9d922b2/8.webp",
+    "data/items/ebay-17a9d922b2/9.webp",
+    "data/items/ebay-17a9d922b2/10.webp",
+    "data/items/ebay-17a9d922b2/11.webp",
+    "data/items/ebay-17a9d922b2/12.webp",
+    "data/items/ebay-17a9d922b2/13.webp",
+    "data/items/ebay-17a9d922b2/14.webp",
+    "data/items/ebay-17a9d922b2/15.webp",
+    "data/items/ebay-17a9d922b2/16.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/emkAAeSwW4ZqzpO6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/YYgAAeSwyShqzpO7/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/PosAAeSwF-5qzpO6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/nloAAeSwmn1qzpO6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/G8cAAeSwGhZqzpO6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/X60AAeSwpIdqzpO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/r1oAAeSw0MdqzpO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/MgMAAeSw0VlqzpO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/LskAAeSw~1hqzpO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/dKUAAeSwhu1qzpO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/~dUAAeSwahRqzpO4/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/TSsAAeSwp4tqzpO5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/WLcAAeSwVUlqzpO5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/k0AAAeSw~dNqzpO6/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/8KcAAeSw1dtqzpO5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/mPQAAeSw~KNqzpO5/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-14T14:05:37.815Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-14T14:05:37.815Z"
+   }
+  },
+  {
    "id": "ebay-239a3d79a1",
    "platform": "ebay",
    "site": "eBay",
