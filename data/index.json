@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "id": "ebay-229a8609ec",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/860046000628",
+   "title": "Giorgio Armani 90s Vintage Pleated Wide Leg Herringbone Wool Trousers 32x32",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "99.99",
+    "currency": "USD"
+   },
+   "priceText": "US $99.99",
+   "size": "32",
+   "condition": "Pre-owned - Good",
+   "color": "Multicolor",
+   "seller": "sleepyrobarchive",
+   "location": "Aurora, Colorado, United States",
+   "availability": "InStock",
+   "description": "The Giorgio Armani 90s Vintage Pleated Wide Leg Herringbone Wool Trousers are a stylish and sophisticated choice for formal occasions. Made in Italy from high-quality wool, these pants feature a classic wide leg silhouette and herringbone pattern, perfect for adding a touch of retro charm to any outfit. With a zip closure and slash pockets, these trousers offer both style and functionality. The multicolor design and vintage appeal make them a versatile and timeless addition to any man's wardrobe. No size tag but measures to a 32x32. Condition is a 7.5/10, a few small holes on the back and some discoloration in the waistband",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Closure": "Zip",
+    "Color": "Multicolor",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Estimated between Tue, Oct 20 and Mon, Oct 26 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Garment Care": "Dry Clean Only",
+    "Inseam": "32 in",
+    "Leg Style": "Wide-Leg",
+    "Material": "Wool",
+    "Occasion": "Formal",
+    "Pattern": "Herringbone",
+    "Payments": "Diners Club",
+    "Personalize": "No",
+    "Pocket Type": "Slash Pocket",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Season": "Spring, Fall",
+    "Shipping": "US $7.09 USPS Ground Advantage®. See detailsfor shippingLocated in: Aurora, Colorado, United States",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Style": "Dress Pants",
+    "Theme": "90s",
+    "Type": "Pants",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-229a8609ec/1.webp",
+    "data/items/ebay-229a8609ec/2.webp",
+    "data/items/ebay-229a8609ec/3.webp",
+    "data/items/ebay-229a8609ec/4.webp",
+    "data/items/ebay-229a8609ec/5.webp",
+    "data/items/ebay-229a8609ec/6.webp",
+    "data/items/ebay-229a8609ec/7.webp",
+    "data/items/ebay-229a8609ec/8.webp",
+    "data/items/ebay-229a8609ec/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/P9AAAeSwVXFq0GfN/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/PfkAAeSwkgJq0GfO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QAIAAeSwXvBq0GfO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/QG0AAeSw7ZRq0GfO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/SKoAAeSw6A5q0GfO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/PUoAAeSw55Bq0GfQ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/TPIAAeSwDhBq0GfP/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/NmwAAeSwFUNq0GfP/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/O5AAAeSwxVJq0GfP/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-15T07:45:32.467Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-15T07:45:32.467Z"
+   }
+  },
+  {
    "id": "ebay-776b519c35",
    "platform": "ebay",
    "site": "eBay",
