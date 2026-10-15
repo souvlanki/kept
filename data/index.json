@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "id": "ebay-b19b306149",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/920040578482",
+   "title": "80s Issey Miyake style V-Men Avant Garde Pleated Wool Trousers",
+   "brand": "ISSEY MIYAKE",
+   "price": {
+    "amount": "125.0",
+    "currency": "USD"
+   },
+   "priceText": "US $125.00",
+   "size": "32",
+   "condition": "Pre-owned - Good",
+   "color": "Dark Olive",
+   "seller": "sssouns",
+   "location": "Kediri, Indonesia",
+   "availability": "InStock",
+   "description": "Not Issey Miyake, Just Issey Miyake Inspired. Heavyweight Wool. Circum Waist - 82 cm. Inseam - 84 cm. Outseam - 117 cm.",
+   "details": {
+    "Accents": "Pleated",
+    "Brand": "ISSEY MIYAKE",
+    "Closure": "Zip",
+    "Color": "Dark Olive",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Varies",
+    "Department": "Men",
+    "Fit": "Baggy",
+    "Front Type": "Pleated",
+    "Import fees": "Import fees due prior to delivery.",
+    "Inseam": "33 in",
+    "Leg Style": "Wide-Leg",
+    "Material": "Wool",
+    "Occasion": "Casual, Formal, Dressy",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Rise": "High (Greater than 12 in)",
+    "Shipping": "US $25.00 Flat Rate Freight. See detailsfor shippingLocated in: Kediri, Indonesia",
+    "Size": "32",
+    "Size Type": "Regular",
+    "Theme": "80s",
+    "Type": "Pants",
+    "Vintage": "Yes",
+    "Waist Size": "33 in"
+   },
+   "images": [
+    "data/items/ebay-b19b306149/1.webp",
+    "data/items/ebay-b19b306149/2.webp",
+    "data/items/ebay-b19b306149/3.webp",
+    "data/items/ebay-b19b306149/4.webp",
+    "data/items/ebay-b19b306149/5.webp",
+    "data/items/ebay-b19b306149/6.webp",
+    "data/items/ebay-b19b306149/7.webp",
+    "data/items/ebay-b19b306149/8.webp",
+    "data/items/ebay-b19b306149/9.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/dPEAAeSwMaJq0CWK/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/chsAAeSwixNq0CWM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/e3kAAeSw6Rxq0CWO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/erMAAeSwssFq0CWN/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/eKYAAeSwXwxq0CWL/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/e48AAeSwWEJq0CWM/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/cIsAAeSwfrZq0CWM/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/fEAAAeSwm1tq0CWN/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/hk4AAeSwEV9q0CWN/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-15T07:53:19.803Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-15T07:53:19.803Z"
+   }
+  },
+  {
    "id": "ebay-229a8609ec",
    "platform": "ebay",
    "site": "eBay",
