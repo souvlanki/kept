@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-1d929918a3",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/198630407759",
+   "title": "Vintage 90s Clive Backpack Skateboard Snowboard Bungee Cord Closure Black Yellow",
+   "brand": "Clive",
+   "price": {
+    "amount": "54.99",
+    "currency": "USD"
+   },
+   "priceText": "US $54.99",
+   "size": "",
+   "condition": "Pre-owned - Excellent",
+   "color": "Black",
+   "seller": "gil-907545",
+   "location": "Winter Haven, Florida, United States",
+   "availability": "InStock",
+   "description": "The Vintage 90s Clive Backpack is a stylish and functional accessory perfect for both men and women. Made of durable nylon material in a solid black color with yellow accents, this backpack features a zip closure and adjustable strap for added comfort. With a retro 90s theme and bungee cord closure, this backpack is ideal for travel and outdoor adventures, making it a versatile and trendy choice for those looking to add a touch of nostalgia to their outfit.",
+   "details": {
+    "Brand": "Clive",
+    "Closure": "Zip",
+    "Color": "Black",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Delivery": "Estimated between Thu, Oct 22 and Tue, Oct 27 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Unisex Adults",
+    "Features": "Adjustable Strap",
+    "Handmade": "No",
+    "Material": "Nylon",
+    "Occasion": "Travel",
+    "Pattern": "Solid",
+    "Payments": "Diners Club",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $10.15 USPS Ground Advantage®. See detailsfor shippingLocated in: Winter Haven, Florida, United States",
+    "Style": "Backpack",
+    "Theme": "90s",
+    "Vintage": "Yes",
+    "Year Manufactured": "1990-1999"
+   },
+   "images": [
+    "data/items/ebay-1d929918a3/1.webp",
+    "data/items/ebay-1d929918a3/2.webp",
+    "data/items/ebay-1d929918a3/3.webp",
+    "data/items/ebay-1d929918a3/4.webp",
+    "data/items/ebay-1d929918a3/5.webp",
+    "data/items/ebay-1d929918a3/6.webp",
+    "data/items/ebay-1d929918a3/7.webp",
+    "data/items/ebay-1d929918a3/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/KOUAAeSwg6Fqob5o/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ACcAAeSwKCpqob5q/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/~ygAAeSwgyJqob5p/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/A2cAAeSwTNpqob5r/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/AlMAAeSwrUVqob5q/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/BLoAAeSwxH9qob5r/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/KvAAAeSwwmVqob5r/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/BOwAAeSw7QVqob5r/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-19T02:57:33.535Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-19T02:57:33.535Z"
+   }
+  },
+  {
    "id": "ebay-b19b306149",
    "platform": "ebay",
    "site": "eBay",
