@@ -1,6 +1,81 @@
 {
  "items": [
   {
+   "id": "ebay-c5a60ce426",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/267810123813",
+   "title": "Vintage 1970s Wrangler 14oz No Fault Denim Jean Trucker Jacket 74126NV Sz 48 USA",
+   "brand": "Wrangler",
+   "price": {
+    "amount": "224.95",
+    "currency": "USD"
+   },
+   "priceText": "US $224.95",
+   "size": "48",
+   "condition": "New without tags",
+   "color": "Blue",
+   "seller": "Rag Relics",
+   "location": "Summerville, GA, United States",
+   "availability": "InStock",
+   "description": "New old stock without tags. Perfect condition. Please see photos for measurements! The Vintage 1970s Wrangler 14oz No Fault Denim Jean Trucker Jacket 74126NV in size 48 is a classic Western-style jacket perfect for casual, workwear, or travel occasions. Made of cotton denim with a breathable and unlined design, this mid-length jacket features a button closure, embroidered logo accents, and a solid blue color. With a retro 1970s theme and a touch of American rock 'n' roll, this jacket is a stylish and durable piece that can be worn in all seasons. Made in the USA, this jacket is a timeless addition to any wardrobe.",
+   "details": {
+    "Accents": "Button, Embroidered, Logo",
+    "Brand": "Wrangler",
+    "Closure": "Button",
+    "Collar Style": "Point",
+    "Color": "Blue",
+    "Condition": "New without tags: This item is brand new and has never been worn, but doesn’t have tags and/or is ... Read moreabout the conditionNew without tags: This item is brand new and has never been worn, but ",
+    "Delivery": "Estimated between Wed, Nov 4 and Tue, Nov 10 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptanc",
+    "Department": "Men",
+    "Fabric Type": "Denim",
+    "Features": "All Seasons, Breathable, Collared, Packable, Pockets, Unlined",
+    "Fit": "Regular",
+    "Garment Care": "Machine Washable",
+    "Jacket/Coat Length": "Mid-Length",
+    "Lining Material": "Cotton",
+    "Occasion": "Casual, Travel, Workwear",
+    "Outer Shell Material": "Cotton",
+    "Pattern": "Solid",
+    "Payments": "Diners Club. See details",
+    "Returns": "This item is final sale and cannot be returned. See details- for more information about returns",
+    "Season": "Fall, Spring, Summer, Winter",
+    "Shipping": "US $8.33 Shipping to authenticator, then to you. See detailsfor shippingLocated in: Summerville, GA, United States",
+    "Size": "48",
+    "Style": "Western",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-c5a60ce426/1.webp",
+    "data/items/ebay-c5a60ce426/2.webp",
+    "data/items/ebay-c5a60ce426/3.webp",
+    "data/items/ebay-c5a60ce426/4.webp",
+    "data/items/ebay-c5a60ce426/5.webp",
+    "data/items/ebay-c5a60ce426/6.webp",
+    "data/items/ebay-c5a60ce426/7.webp",
+    "data/items/ebay-c5a60ce426/8.webp",
+    "data/items/ebay-c5a60ce426/9.webp",
+    "data/items/ebay-c5a60ce426/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/a3QAAeSwlBNqyrMP/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/56MAAeSw0MdqyrMO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/oFsAAeSwv9tqyrMO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/p8oAAeSwTEZqyrMO/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/gXcAAeSwYhNqyrMP/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/dKgAAeSwRSxqyrOw/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/cqEAAeSwwQtqyrMP/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/MbgAAeSwDNFqyrMQ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/57EAAeSw0MdqyrMQ/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/bUwAAeSwNx5qyrMQ/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-27T05:34:36.232Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-27T05:34:36.232Z"
+   }
+  },
+  {
    "id": "ebay-0ac3ee179a",
    "platform": "ebay",
    "site": "eBay",
