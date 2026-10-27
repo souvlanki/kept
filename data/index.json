@@ -1,6 +1,77 @@
 {
  "items": [
   {
+   "id": "ebay-d732fb1b5f",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/407272462858",
+   "title": "Vintage Wrangler Rugged Wear Brown Denim Trucker Jacket Size L Blanket Lined USA",
+   "brand": "Wrangler",
+   "price": {
+    "amount": "89.99",
+    "currency": "USD"
+   },
+   "priceText": "US $89.99",
+   "size": "L",
+   "condition": "Pre-owned - Good",
+   "color": "Brown",
+   "seller": "Vintage-01-Treasures",
+   "location": "Mcallen, Texas, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Vintage Wrangler Rugged Wear Brown Denim Trucker Jacket Size L Blanket Lined USA at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Button",
+    "Brand": "Wrangler",
+    "Closure": "Button",
+    "Color": "Brown",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Country of Origin": "United_States",
+    "Delivery": "Estimated between Fri, Oct 30 and Thu, Nov 5 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Features": "Lined, Pockets, Collared",
+    "Lining Material": "Acrylic",
+    "Model": "RJK32BK",
+    "Occasion": "Workwear",
+    "Outer Shell Material": "Cotton",
+    "Pattern": "Solid",
+    "Payments": "Diners Club. See details",
+    "Performance_Activity": "none",
+    "Product Line": "Wrangler Rugged Wear",
+    "Returns": "14 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Shipping": "US $23.15 USPS Ground Advantage®. See detailsfor shippingLocated in: Mcallen, Texas, United States",
+    "Size": "L",
+    "Size Type": "Regular",
+    "Style": "Trucker Jacket",
+    "Theme": "Western, Outdoor, 90s",
+    "Type": "Jacket"
+   },
+   "images": [
+    "data/items/ebay-d732fb1b5f/1.webp",
+    "data/items/ebay-d732fb1b5f/2.webp",
+    "data/items/ebay-d732fb1b5f/3.webp",
+    "data/items/ebay-d732fb1b5f/4.webp",
+    "data/items/ebay-d732fb1b5f/5.webp",
+    "data/items/ebay-d732fb1b5f/6.webp",
+    "data/items/ebay-d732fb1b5f/7.webp",
+    "data/items/ebay-d732fb1b5f/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/NfkAAeSwUKVqxdaN/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/tJIAAeSwEzlqxdaN/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/CFIAAeSwBk1qxdaN/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/NfQAAeSwc2FqxdaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/tI8AAeSwEzlqxdaM/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/rU8AAeSwsYBqxdaM/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/CE8AAeSwF79qxdaN/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/J0sAAeSwiy9qxdaN/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-27T05:35:10.885Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-27T05:35:10.885Z"
+   }
+  },
+  {
    "id": "ebay-c5a60ce426",
    "platform": "ebay",
    "site": "eBay",
