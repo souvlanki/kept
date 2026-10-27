@@ -1,55 +1,6 @@
 {
  "items": [
   {
-   "id": "ebay-445a6b9ac7",
-   "platform": "ebay",
-   "site": "eBay",
-   "url": "https://www.ebay.com/itm/366551678505",
-   "title": "World Marxist Review by Anonymous Paperback Book",
-   "brand": "",
-   "price": {
-    "amount": "32.99",
-    "currency": "USD"
-   },
-   "priceText": "US $32.99",
-   "size": "",
-   "condition": "Brand New",
-   "color": "",
-   "seller": "grandeagleretail",
-   "location": "Fairfield, Ohio, United States",
-   "availability": "OutOfStock",
-   "description": "World Marxist Review by Anonymous. Title World Marxist Review. Author Anonymous. Format Paperback.",
-   "details": {
-    "Author": "Anonymous",
-    "Book Title": "World Marxist Review",
-    "Condition": "Brand New: A new, unread, unused book in perfect condition with no missing or damaged pages. See the ... Read moreabout the conditionBrand New: A new, unread, unused book in perfect condition with no ",
-    "Country of Origin": "United States",
-    "Delivery": "Estimated between Thu, Nov 12 and Mon, Nov 23 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptan",
-    "Format": "Paperback",
-    "ISBN": "9781014240613",
-    "ISBN-13": "9781014240613",
-    "Language": "Does not apply",
-    "Payments": "Diners Club",
-    "Publication Name": "NA",
-    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
-    "Shipping": "Free Economy Shipping. See detailsfor shippingLocated in: Fairfield, Ohio, United States",
-    "Type": "NA"
-   },
-   "images": [
-    "data/items/ebay-445a6b9ac7/1.webp",
-    "data/items/ebay-445a6b9ac7/2.webp"
-   ],
-   "sourceImages": [
-    "https://i.ebayimg.com/images/g/YIsAAeSwBEtqXGms/s-l1600.jpg",
-    "https://i.ebayimg.com/thumbs/images/g/-XgAAeSwuM5q32Zi/s-l1600.jpg"
-   ],
-   "likedAt": "2026-10-27T05:30:53.678Z",
-   "archive": {
-    "status": "pending",
-    "requestedAt": "2026-10-27T05:30:53.678Z"
-   }
-  },
-  {
    "id": "ebay-1d929918a3",
    "platform": "ebay",
    "site": "eBay",
