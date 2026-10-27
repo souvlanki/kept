@@ -1,6 +1,80 @@
 {
  "items": [
   {
+   "id": "ebay-cf359ee4d7",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/800821507464",
+   "title": "VINTAGE Wrangler Jacket Mens 44 Large Blue No Fault Denim Trucker USA Made 70s",
+   "brand": "Wrangler",
+   "price": {
+    "amount": "148.88",
+    "currency": "USD"
+   },
+   "priceText": "US $148.88",
+   "size": "44",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Blue",
+   "seller": "Jeremyfinds",
+   "location": "Littleton, Colorado, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for VINTAGE Wrangler Jacket Mens 44 Large Blue No Fault Denim Trucker USA Made 70s at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Contrast Stitching",
+    "Brand": "Wrangler",
+    "Closure": "Snap",
+    "Color": "Blue",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Country of Origin": "United States",
+    "Delivery": "Estimated between Wed, Oct 28 and Sat, Oct 31 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service select",
+    "Department": "Men",
+    "Fabric Type": "Denim",
+    "Fit": "Regular",
+    "Garment Care": "Machine Washable",
+    "Jacket/Coat Length": "Short",
+    "Outer Shell Material": "Cotton",
+    "Pattern": "Solid",
+    "Payments": "Diners Club. See details",
+    "Returns": "60 days returns. Seller pays for return shipping. See details- for more information about returns",
+    "Seller Notes": "“Small hole on back of neck”",
+    "Shipping": "US $9.99 USPS Ground Advantage®. See detailsfor shippingLocated in: Littleton, Colorado, United States",
+    "Size": "44",
+    "Size Type": "Regular",
+    "Style": "Modern",
+    "Type": "Jacket",
+    "Vintage": "Yes"
+   },
+   "images": [
+    "data/items/ebay-cf359ee4d7/1.webp",
+    "data/items/ebay-cf359ee4d7/2.webp",
+    "data/items/ebay-cf359ee4d7/3.webp",
+    "data/items/ebay-cf359ee4d7/4.webp",
+    "data/items/ebay-cf359ee4d7/5.webp",
+    "data/items/ebay-cf359ee4d7/6.webp",
+    "data/items/ebay-cf359ee4d7/7.webp",
+    "data/items/ebay-cf359ee4d7/8.webp",
+    "data/items/ebay-cf359ee4d7/9.webp",
+    "data/items/ebay-cf359ee4d7/10.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/VtsAAeSwWQtq2L-0/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/Z8wAAeSwHRdq2L-1/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/cNoAAeSwAUJq2L-1/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/cQQAAeSwWJdq2L-2/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/cSgAAeSwvwdq2L-3/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/ZuUAAeSwDGhq2L-3/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/VuMAAeSwnvpq2L-4/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Z4oAAeSwsWxq2L-5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Z8wAAeSwJqFq2L-5/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/Z7YAAeSwdG9q2L-6/s-l1600.webp"
+   ],
+   "likedAt": "2026-10-27T05:36:40.416Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-10-27T05:36:40.416Z"
+   }
+  },
+  {
    "id": "ebay-d732fb1b5f",
    "platform": "ebay",
    "site": "eBay",
