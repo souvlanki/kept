@@ -1,6 +1,68 @@
 {
  "items": [
   {
+   "id": "ebay-ca0fff867f",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/257830288271",
+   "title": "Vintage 90s Giorgio Armani Wide Leg Pleated Cotton Trousers Mens 36x32",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "50.0",
+    "currency": "USD"
+   },
+   "priceText": "US $50.00",
+   "size": "36",
+   "condition": "Pre-owned - Good",
+   "color": "Beige",
+   "seller": "boguansu0",
+   "location": "Skokie, Illinois, United States",
+   "availability": "InStock",
+   "description": "Vintage 1990s Giorgio Armani wide-leg pleated cotton trousers, men's 36x32. Khaki/tan, made in Italy, 100% cotton, dry clean only. Minor stains — see photos. Good vintage condition otherwise.",
+   "details": {
+    "Brand": "Giorgio Armani",
+    "Color": "Beige",
+    "Condition": "Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the conditionPre-owned - Good: This item has been gently used but is in good con",
+    "Delivery": "Estimated between Thu, Nov 5 and Mon, Nov 9 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selected",
+    "Department": "Men",
+    "Features": "Pleated",
+    "Inseam": "32 in",
+    "Material": "Cotton",
+    "Payments": "Diners Club . See details",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Shipping": "US $7.96 USPS Ground Advantage®. See detailsfor shippingLocated in: Skokie, Illinois, United States",
+    "Size": "36",
+    "Size Type": "Regular",
+    "Style": "Pleated",
+    "Waist Size": "36 in"
+   },
+   "images": [
+    "data/items/ebay-ca0fff867f/1.webp",
+    "data/items/ebay-ca0fff867f/2.webp",
+    "data/items/ebay-ca0fff867f/3.webp",
+    "data/items/ebay-ca0fff867f/4.webp",
+    "data/items/ebay-ca0fff867f/5.webp",
+    "data/items/ebay-ca0fff867f/6.webp",
+    "data/items/ebay-ca0fff867f/7.webp",
+    "data/items/ebay-ca0fff867f/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/cqMAAeSwqPNq5e~6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/XQkAAeSwNBBq5e~6/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/YO8AAeSwKBFq5e~7/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/dAsAAeSwBK9q5e~9/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/gEkAAeSwJ7tq5e~8/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/NFUAAeSwNkdq5e~8/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/r08AAeSwiB1q5e~7/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/bl0AAeSwx5Jq5e~9/s-l1600.webp"
+   ],
+   "likedAt": "2026-11-03T07:00:38.984Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-11-03T07:00:38.984Z"
+   }
+  },
+  {
    "id": "ebay-7b9502b624",
    "platform": "ebay",
    "site": "eBay",
