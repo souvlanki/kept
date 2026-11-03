@@ -1,6 +1,73 @@
 {
  "items": [
   {
+   "id": "ebay-480332bd87",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/307261313339",
+   "title": "Giorgio Armani Le Collezioni fit 32x30 Linen Pleated Wide Leg Cuffed Pants Italy",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "175.0",
+    "currency": "USD"
+   },
+   "priceText": "US $175.00",
+   "size": "34",
+   "condition": "Pre-owned - Excellent",
+   "color": "Green",
+   "seller": "cap_947093",
+   "location": "Hopwood, Pennsylvania, United States",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Giorgio Armani Le Collezioni fit 32x30 Linen Pleated Wide Leg Cuffed Pants Italy at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Accents": "Pleated, Button",
+    "Brand": "Giorgio Armani",
+    "Closure": "Button, Zip",
+    "Condition": "Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the conditionPre-owned - Excellent: This item has been previously worn; however, it",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Fri, Nov 6 and Sat, Nov 14 to 97251 Delivery time is estimated using our proprietary method which is based on the buyer's proximity to the item location, the shipping service selecte",
+    "Department": "Men",
+    "Fit": "Relaxed",
+    "Front Type": "Pleated",
+    "Garment Care": "Dry Clean Only",
+    "Inseam": "31 in",
+    "Leg Style": "Wide-Leg",
+    "Occasion": "Business, Casual, Travel",
+    "Payments": "Diners Club . See details",
+    "Returns": "Seller does not accept returns. See details- for more information about returns",
+    "Rise": "High (Greater than 12 in)",
+    "Season": "Spring, Summer, Fall",
+    "Shipping": "US $8.29 USPS Ground Advantage®. See detailsfor shippingLocated in: Hopwood, Pennsylvania, United States",
+    "Size": "34",
+    "Size Type": "Regular",
+    "Style": "Dress Pants",
+    "Type": "Pants",
+    "Vintage": "Yes",
+    "Waist Size": "33 in"
+   },
+   "images": [
+    "data/items/ebay-480332bd87/1.webp",
+    "data/items/ebay-480332bd87/2.webp",
+    "data/items/ebay-480332bd87/3.webp",
+    "data/items/ebay-480332bd87/4.webp",
+    "data/items/ebay-480332bd87/5.webp",
+    "data/items/ebay-480332bd87/6.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/0UAAAeSw6zBq6ADV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/0dIAAeSw15dq6ADV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/BMYAAeSwevJq6ADV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/pgEAAeSwJdpq6ADV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/008AAeSwWJFq6ADV/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/gxcAAeSwtbBq6ADV/s-l1600.webp"
+   ],
+   "likedAt": "2026-11-03T07:00:55.486Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-11-03T07:00:55.486Z"
+   }
+  },
+  {
    "id": "ebay-ca0fff867f",
    "platform": "ebay",
    "site": "eBay",
