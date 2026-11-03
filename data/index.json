@@ -1,6 +1,71 @@
 {
  "items": [
   {
+   "id": "ebay-7b9502b624",
+   "platform": "ebay",
+   "site": "eBay",
+   "url": "https://www.ebay.com/itm/800860895837",
+   "title": "Used Emporio Armani made in Italy Short sleeve Cotton filling T-shirt S Men's",
+   "brand": "Emporio Armani",
+   "price": {
+    "amount": "39.0",
+    "currency": "USD"
+   },
+   "priceText": "US $39.00",
+   "size": "S",
+   "condition": "Pre-owned - GoodThis item has been gently used b",
+   "color": "Charcoal gray",
+   "seller": "BIG2nd",
+   "location": "Osaka, Japan",
+   "availability": "InStock",
+   "description": "Find many great new & used options and get the best deals for Used Emporio Armani made in Italy Short sleeve Cotton filling T-shirt S Men's at the best online prices at eBay! Free shipping for many products!",
+   "details": {
+    "Brand": "Emporio Armani",
+    "Color": "Charcoal gray",
+    "Condition": "Pre-owned - GoodThis item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all conditi",
+    "Country of Origin": "Italy",
+    "Delivery": "Estimated between Mon, Nov 9 and Thu, Nov 12 to 97251Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptanc",
+    "Department": "Men",
+    "Import fees": "Includes import fees.",
+    "Material": "Viscose 47% Other",
+    "Payments": "Diners Club . See details",
+    "Returns": "30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount. See details- for more information about returns",
+    "Seller Notes": "“Items with some wear but few stains or damage：Items with a general used feel but no noticeable ... Read moreabout the seller notes“Items with some wear but few stains or damage：Items with a general u",
+    "Shipping": "US $25.00 Expedited Shipping from outside US. See detailsfor shippingLocated in: Osaka, Japan",
+    "Size": "S",
+    "Size (Men's)": "S",
+    "Size Type": "Regular",
+    "Sleeve Length": "Short Sleeve",
+    "Style": "T-shirt",
+    "Type": "T-shirt"
+   },
+   "images": [
+    "data/items/ebay-7b9502b624/1.webp",
+    "data/items/ebay-7b9502b624/2.webp",
+    "data/items/ebay-7b9502b624/3.webp",
+    "data/items/ebay-7b9502b624/4.webp",
+    "data/items/ebay-7b9502b624/5.webp",
+    "data/items/ebay-7b9502b624/6.webp",
+    "data/items/ebay-7b9502b624/7.webp",
+    "data/items/ebay-7b9502b624/8.webp"
+   ],
+   "sourceImages": [
+    "https://i.ebayimg.com/images/g/TFgAAeSw919q5oHc/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/7IoAAeSwJXJq5oHc/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/a5kAAeSwmVVq5oHd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/YT8AAeSw6zBq5oHd/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/tYkAAeSwcLJq5oHe/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/iNcAAeSw2EZq5oHe/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/a6cAAeSwmVVq5oHe/s-l1600.webp",
+    "https://i.ebayimg.com/images/g/9UYAAeSwKR9q5oHf/s-l1600.webp"
+   ],
+   "likedAt": "2026-11-03T06:59:04.564Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-11-03T06:59:04.564Z"
+   }
+  },
+  {
    "id": "ebay-ab1a345612",
    "platform": "ebay",
    "site": "eBay",
