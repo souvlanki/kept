@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "depop-7ccdbb9bf5",
+   "platform": "depop",
+   "site": "depop.com",
+   "url": "https://www.depop.com/products/souvnanki-vintage-pinstripe-giorgio-armanj-blazer-83c1/manage",
+   "title": "Selling a pinstripe vintage Giorgio Armani wool...",
+   "brand": "Giorgio Armani",
+   "price": {
+    "amount": "100.00",
+    "currency": "AUD"
+   },
+   "priceText": "$100.00",
+   "size": "",
+   "condition": "Used",
+   "color": "",
+   "seller": "souvnanki",
+   "location": "",
+   "availability": "InStock",
+   "description": "Selling a pinstripe vintage Giorgio Armani wool blazer from the 1980s with the original Armani tag. The pinstripe has white and blue accents and features a notch lapel.\n\nJacket is in excellent used condition except for 2 minor flaws as shown in the pictures. There is a small hole on the upper layer near the right pocket at the bottom of the jacket and another small hole on the upper layer on the end of the right sleeve near the sleeve buttons.\n\nJacket is 100% wool with a 100% viscose lining. \n\nRare collector's item piece.\n\nMade in Italy\n\nMeasurements:\nPit to Pit: 20inches | 50.8cm\nShoulder to Hem: 33inches | 83.8cm\nShoulders: 18inches | 45.7cm\nSleeve Length: 25.5inches | 64.8cm",
+   "details": {},
+   "images": [
+    "data/items/depop-7ccdbb9bf5/1.webp",
+    "data/items/depop-7ccdbb9bf5/2.webp",
+    "data/items/depop-7ccdbb9bf5/3.webp",
+    "data/items/depop-7ccdbb9bf5/4.webp",
+    "data/items/depop-7ccdbb9bf5/5.webp",
+    "data/items/depop-7ccdbb9bf5/6.webp",
+    "data/items/depop-7ccdbb9bf5/7.webp"
+   ],
+   "sourceImages": [
+    "https://media-photos.depop.com/r1/33548973/5177753354_7a722dcdef614d94bebb07df8091f435/P0.jpg",
+    "https://media-photos.depop.com/r1/33548973/5177753260_d804c1a8896a4b278cbe8b8e47b16bcc/P0.jpg",
+    "https://media-photos.depop.com/r1/33548973/5177753443_2dca635099704f868d0800b148418e08/P0.jpg",
+    "https://media-photos.depop.com/r1/33548973/5177753713_bf1fe146f87e4c75ae99698f3ab6d109/P0.jpg",
+    "https://media-photos.depop.com/r1/33548973/5177753520_06e0315474fd443486f77e389aab167c/P0.jpg",
+    "https://media-photos.depop.com/r1/33548973/5177753805_5e09d22326c14a0c84ceec3bc3bd4d4e/P0.jpg",
+    "https://media-photos.depop.com/r1/33548973/5177756947_8009fd71a1f045f888af7d457ff6b5fa/P0.jpg"
+   ],
+   "likedAt": "2026-11-10T07:17:56.745Z",
+   "archive": {
+    "status": "pending",
+    "requestedAt": "2026-11-10T07:17:56.745Z"
+   }
+  },
+  {
    "id": "depop-e501cb4749",
    "platform": "depop",
    "site": "depop.com",
